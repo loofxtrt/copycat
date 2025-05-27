@@ -25,5 +25,4 @@ Infinity: https://www.gnome-look.org/p/2112373
 Settings-related icons have also been replaced by Infinity's system settings SVG
 
 ## License
-
 [GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
