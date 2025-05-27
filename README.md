@@ -1,43 +1,28 @@
-# KORA
+# Coral
+An icon theme forked from Kora, replacing/modifying a few icons
 
-**Kora** is an SVG icon theme for GNU/Linux operating systems.
+## Differences
+Icons from different packs are included in this repo, all licensed under the GPL3 license
+Those packs includes:
+Marwaita: https://www.gnome-look.org/p/1239855
+PlasmaX: https://www.gnome-look.org/p/1367155
+Infinity: https://www.gnome-look.org/p/2112373
 
-To make them display properly, you may need to update the icon cache. A script is included.
+### Software
+- Blender             (original blender SVG edited with a subtle gradient)
+- Godot               (from PlasmaX, edited SVG to make the tones match)
+- Inkscape            (from PlasmaX, edited SVG to make it darker)
+- Krita               (from Marwaita)
+- Spotify             (from Marwaita)
+- Discord             (from Kora, edited SVG to make it closer to the official Discord burple)
+- Discord Canary      (from Kora, background shape changed to be the same as the regular Discord)
+- Discord Development (from Kora, modified to make it the same size and style of other Discord variants)
+- GIMP                (from KDE's Breeze Dark, edited SVG to make it bigger)
+- Steam               (from Marwaita)
+- OBS                 (from Kora, edited svg to make it darker)
 
-Different versions available:
-* ***kora*** - for dark themes with dark panel
-* ***kora-light*** - for light themes with dark panel (depends on Kora)
-* ***kora-light-panel*** - for light themes with light panel (depends on Kora and Kora-light)
-* ***kora-pgrey*** - theme with grey folder colors (depends on Kora)
-
-
-## Installation
-
-Clone this repository on your system
-
-    git clone https://github.com/bikass/kora.git
-
-and copy ***kora***, ***kora-light***, ***kora-light-panel*** and ***kora-pgrey*** subfolders to one of the following folders:
-
-* `/usr/share/icons/` - icons available system-wide
-* `$HOME/.local/share/icons/` - icons only available to local user
-
-
-### Specific Linux distributions
-
-* **Arch**: [stable](https://aur.archlinux.org/packages/kora-icon-theme/)
-* **Fedora**: [repository](https://copr.fedorainfracloud.org/coprs/hazel-bunny/ricing/package/kora-icon-theme)
-* **openSuse**: [repository](https://build.opensuse.org/package/show/home:guinuxbr/kora-icon-theme)
-* **Solus**: sudo eopkg it korla-icon-theme
-
-
-
-## Preview
-
-![](im1.png)
-![](im2.png)
-![](korla_aps.jpg)
-
+### Other
+Settings-related icons have also been replaced by Infinity's system settings SVG
 
 ## License
 
