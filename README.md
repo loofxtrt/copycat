@@ -2,11 +2,11 @@
 An icon theme forked from Kora, replacing/modifying a few icons
 
 ## Differences
-Icons from different packs are included in this repo, all licensed under the GPL3 license
-Those packs includes:
-Marwaita: https://www.gnome-look.org/p/1239855
-PlasmaX: https://www.gnome-look.org/p/1367155
-Infinity: https://www.gnome-look.org/p/2112373
+Icons from different packs are included in this repo, all licensed under the GPL3 license  
+Those packs includes:  
+Marwaita: https://www.gnome-look.org/p/1239855  
+PlasmaX: https://www.gnome-look.org/p/1367155  
+Infinity: https://www.gnome-look.org/p/2112373  
 
 ### Software
 - Blender             (original blender SVG edited with a subtle gradient)
