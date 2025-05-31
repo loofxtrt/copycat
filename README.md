@@ -9,7 +9,7 @@ PlasmaX: https://www.gnome-look.org/p/1367155
 Infinity: https://www.gnome-look.org/p/2112373  
 
 ### Software
-- Blender (original blender SVG edited with a subtle gradient)
+- Blender (original Blender SVG edited with a subtle gradient)
 - Godot (from PlasmaX, edited SVG to make the tones match)
 - Inkscape (from PlasmaX, edited SVG to make it darker)
 - Krita (from Marwaita)
@@ -25,7 +25,8 @@ Infinity: https://www.gnome-look.org/p/2112373
 - PureRef (edited SVG to make it dark mode)
 
 ### Other
-Settings-related icons have also been replaced by Infinity's system settings SVG
+- Settings-related icons have also been replaced by Infinity's system settings SVG
+- EndeavourOS (original Endeavour SVG)
 
 ## License
 [GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
