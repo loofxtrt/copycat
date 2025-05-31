@@ -23,6 +23,7 @@ Infinity: https://www.gnome-look.org/p/2112373
 - Libresprite (made from scratch)
 - Aseprite (made from scratch)
 - PureRef (edited SVG to make it dark mode)
+- DB Browser for SQLite (original DB Browser SVG)
 
 ### Other
 - Settings-related icons have also been replaced by Infinity's system settings SVG
