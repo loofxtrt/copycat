@@ -1,8 +1,8 @@
 [Icon Theme]
-Name=Kora Light
-Comment=Kora Light icon theme for GNU/Linux
+Name=Coral Light
+Comment=Coral Light icon theme for GNU/Linux
 
-Inherits=kora,breeze,hicolor
+Inherits=coral,breeze,hicolor
 
 Example=folder
 

@@ -20,6 +20,9 @@ Infinity: https://www.gnome-look.org/p/2112373
 - GIMP (from KDE's Breeze Dark, edited SVG to make it bigger)
 - Steam (from Marwaita)
 - OBS (from Kora, edited svg to make it darker)
+- Libresprite (made from scratch)
+- Aseprite (made from scratch)
+- PureRef (edited SVG to make it dark mode)
 
 ### Other
 Settings-related icons have also been replaced by Infinity's system settings SVG
