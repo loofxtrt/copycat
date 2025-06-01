@@ -11,12 +11,12 @@ Infinity: https://www.gnome-look.org/p/2112373
 ### Icons changed
 | Software name             | Icon source                | Changes                                       |
 |---------------------------|----------------------------|-----------------------------------------------|
-| Blender                   | original Blender SVG       | edited with a subtle gradient                 |
+| Blender                   | original Blender SVG       | added a subtle gradient                       |
 | Godot                     | from PlasmaX               | edited SVG to make the tones match            |
 | Inkscape                  | from PlasmaX               | edited SVG to make it darker                  |
 | Krita                     | from Marwaita              |                                               |
 | Spotify                   | from Marwaita              |                                               |
-| Discord                   | from Kora                  | edited SVG to make it closer to official burple|
+| Discord                   | from Kora                  | edited SVG to make the color closer to the official Discord burple|
 | Discord Canary            | from Kora                  | background shape changed to be like regular Discord |
 | Discord Development       | from Kora                  | modified to match size and style of other Discord variants |
 | GIMP                      | from KDE's Breeze Dark     | edited SVG to make it bigger                  |
@@ -27,8 +27,7 @@ Infinity: https://www.gnome-look.org/p/2112373
 | PureRef                   | from Kora                  | edited SVG to make it darker                  |
 | DB Browser for SQLite     | original DB Browser SVG    |                                               |
 
-
-### Other
+### Other changes
 - Settings-related icons have also been replaced by Infinity's system settings SVG
 - EndeavourOS (original Endeavour SVG)
 
