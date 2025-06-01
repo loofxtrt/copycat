@@ -8,7 +8,7 @@ Marwaita: https://www.gnome-look.org/p/1239855
 PlasmaX: https://www.gnome-look.org/p/1367155  
 Infinity: https://www.gnome-look.org/p/2112373  
 
-### Icons changed
+### Major changes
 | Software name             | Icon source                | Changes                                       |
 |---------------------------|----------------------------|-----------------------------------------------|
 | Blender                   | original Blender SVG       | added a subtle gradient                       |
