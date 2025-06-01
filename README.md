@@ -8,8 +8,6 @@ Marwaita: https://www.gnome-look.org/p/1239855
 PlasmaX: https://www.gnome-look.org/p/1367155  
 Infinity: https://www.gnome-look.org/p/2112373  
 
-![Godot](./coral/apps/scalable/godot.svg)
-
 ### Major changes
 | Software                  | Icon source                | Changes                                       |
 |---------------------------|----------------------------|-----------------------------------------------|
