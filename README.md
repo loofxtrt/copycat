@@ -8,24 +8,26 @@ Marwaita: https://www.gnome-look.org/p/1239855
 PlasmaX: https://www.gnome-look.org/p/1367155  
 Infinity: https://www.gnome-look.org/p/2112373  
 
+![Godot](./coral/apps/scalable/godot.svg)
+
 ### Major changes
-| Software name             | Icon source                | Changes                                       |
+| Software                  | Icon source                | Changes                                       |
 |---------------------------|----------------------------|-----------------------------------------------|
-| Blender                   | original Blender SVG       | added a subtle gradient                       |
-| Godot                     | from PlasmaX               | edited SVG to make the tones match            |
-| Inkscape                  | from PlasmaX               | edited SVG to make it darker                  |
-| Krita                     | from Marwaita              |                                               |
-| Spotify                   | from Marwaita              |                                               |
-| Discord                   | from Kora                  | edited SVG to make the color closer to the official Discord burple|
-| Discord Canary            | from Kora                  | background shape changed to be like regular Discord |
-| Discord Development       | from Kora                  | modified to match size and style of other Discord variants |
-| GIMP                      | from KDE's Breeze Dark     | edited SVG to make it bigger                  |
-| Steam                     | from Marwaita              |                                               |
-| OBS                       | from Kora                  | edited SVG to make it darker                  |
-| Libresprite               | made from scratch          |                                               |
-| Aseprite                  | made from scratch          |                                               |
-| PureRef                   | from Kora                  | edited SVG to make it darker                  |
-| DB Browser for SQLite     | original DB Browser SVG    |                                               |
+| <img src="./coral/apps/scalable/blender.svg" width="24"/> Blender                    | original Blender SVG       | added a subtle gradient                       |
+| <img src="./coral/apps/scalable/godot.svg" width="24"/> Godot                        | from PlasmaX               | edited SVG to make the tones match            |
+| <img src="./coral/apps/scalable/inkscape.svg" width="24"/> Inkscape                  | from PlasmaX               | edited SVG to make it darker                  |
+| <img src="./coral/apps/scalable/krita.svg" width="24"/> Krita                        | from Marwaita              |                                               |
+| <img src="./coral/apps/scalable/spotify-client.svg" width="24"/> Spotify             | from Marwaita              |                                               |
+| <img src="./coral/apps/scalable/discord.svg" width="24"/> Discord                    | from Kora                  | edited SVG to make the color closer to the official Discord burple|
+| <img src="./coral/apps/scalable/discord-canary.svg" width="24"/> Discord Canary      | from Kora                  | background shape changed to be like regular Discord |
+| <img src="./coral/apps/scalable/discord-development.svg" width="24"/> Discord Development       | from Kora       | modified to match size and style of other Discord variants |
+| <img src="./coral/apps/scalable/gimp.svg" width="24"/> GIMP                          | from KDE's Breeze Dark     | edited SVG to make it bigger                  |
+| <img src="./coral/apps/scalable/steam.svg" width="24"/> Steam                        | from Marwaita              |                                               |
+| <img src="./coral/apps/scalable/obs.svg" width="24"/> OBS                            | from Kora                  | edited SVG to make it darker                  |
+| <img src="./coral/apps/scalable/aseprite.svg" width="24"/> Libresprite               | made from scratch          |                                               |
+| <img src="./coral/apps/scalable/aseprite.svg" width="24"/> Aseprite                  | made from scratch          |                                               |
+| <img src="./coral/apps/scalable/pureref.svg" width="24"/> PureRef                    | from Kora                  | edited SVG to make it darker                  |
+| <img src="./coral/apps/scalable/sqlitebrowser.svg" width="24"/> DB Browser for SQLite| original DB Browser SVG    |                                               |
 
 ### Other changes
 - Settings-related icons have also been replaced by Infinity's system settings SVG
