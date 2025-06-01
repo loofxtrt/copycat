@@ -8,22 +8,25 @@ Marwaita: https://www.gnome-look.org/p/1239855
 PlasmaX: https://www.gnome-look.org/p/1367155  
 Infinity: https://www.gnome-look.org/p/2112373  
 
-### Software
-- Blender (original Blender SVG edited with a subtle gradient)
-- Godot (from PlasmaX, edited SVG to make the tones match)
-- Inkscape (from PlasmaX, edited SVG to make it darker)
-- Krita (from Marwaita)
-- Spotify (from Marwaita)
-- Discord (from Kora, edited SVG to make it closer to the official Discord burple)
-- Discord Canary (from Kora, background shape changed to be the same as the regular Discord)
-- Discord Development (from Kora, modified to make it the same size and style of other Discord variants)
-- GIMP (from KDE's Breeze Dark, edited SVG to make it bigger)
-- Steam (from Marwaita)
-- OBS (from Kora, edited svg to make it darker)
-- Libresprite (made from scratch)
-- Aseprite (made from scratch)
-- PureRef (edited SVG to make it dark mode)
-- DB Browser for SQLite (original DB Browser SVG)
+### Icons changed
+| Software name             | Icon source                | Changes                                       |
+|---------------------------|----------------------------|-----------------------------------------------|
+| Blender                   | original Blender SVG       | edited with a subtle gradient                 |
+| Godot                     | from PlasmaX               | edited SVG to make the tones match            |
+| Inkscape                  | from PlasmaX               | edited SVG to make it darker                  |
+| Krita                     | from Marwaita              |                                               |
+| Spotify                   | from Marwaita              |                                               |
+| Discord                   | from Kora                  | edited SVG to make it closer to official burple|
+| Discord Canary            | from Kora                  | background shape changed to be like regular Discord |
+| Discord Development       | from Kora                  | modified to match size and style of other Discord variants |
+| GIMP                      | from KDE's Breeze Dark     | edited SVG to make it bigger                  |
+| Steam                     | from Marwaita              |                                               |
+| OBS                       | from Kora                  | edited SVG to make it darker                  |
+| Libresprite               | made from scratch          |                                               |
+| Aseprite                  | made from scratch          |                                               |
+| PureRef                   | from Kora                  | edited SVG to make it darker                  |
+| DB Browser for SQLite     | original DB Browser SVG    |                                               |
+
 
 ### Other
 - Settings-related icons have also been replaced by Infinity's system settings SVG
