@@ -30,8 +30,16 @@ Infinity: https://www.gnome-look.org/p/2112373
 | <img src="./coral/apps/scalable/sqlitebrowser.svg" width="24"/> DB Browser for SQLite| original DB Browser SVG    |                                               |
 
 ### Other changes
-- Settings-related icons have also been replaced by Infinity's system settings SVG
-- EndeavourOS (original Endeavour SVG)
+- <img src="./coral/apps/scalable/systemsettings.svg" width="24"/> Settings-related icons have also been replaced by Infinity's system settings SVG
+- <img src="./coral/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
+
+### Manual changes
+Some specific app icons have to be changed manually to match the theme. Those includes:
+- <img src="./manual/roblox.svg" width="24"/> Roblox Player
+- <img src="./manual/roblox-studio.svg" width="24"/> Roblox Studio
+- <img src="./manual/sober.svg" width="24"/> Sober
+- <img src="./manual/vinegar.svg" width="24"/> Vinegar
+All Roblox-related icons are based off the original Sober and Vinegar SVGs
 
 ## License
 [GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
