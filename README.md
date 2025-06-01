@@ -38,7 +38,7 @@ Some specific app icons have to be changed manually to match the theme. Those in
 - <img src="./manual/roblox.svg" width="24"/> Roblox Player
 - <img src="./manual/roblox-studio.svg" width="24"/> Roblox Studio
 - <img src="./manual/sober.svg" width="24"/> Sober
-- <img src="./manual/vinegar.svg" width="24"/> Vinegar
+- <img src="./manual/vinegar.svg" width="24"/> Vinegar  
 All Roblox-related icons are based off the original Sober and Vinegar SVGs
 
 ## License
