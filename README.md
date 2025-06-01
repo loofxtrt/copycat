@@ -24,7 +24,7 @@ Infinity: https://www.gnome-look.org/p/2112373
 | <img src="./coral/apps/scalable/gimp.svg" width="24"/> GIMP                          | from KDE's Breeze Dark     | edited SVG to make it bigger                  |
 | <img src="./coral/apps/scalable/steam.svg" width="24"/> Steam                        | from Marwaita              |                                               |
 | <img src="./coral/apps/scalable/obs.svg" width="24"/> OBS                            | from Kora                  | edited SVG to make it darker                  |
-| <img src="./coral/apps/scalable/aseprite.svg" width="24"/> Libresprite               | made from scratch          |                                               |
+| <img src="./coral/apps/scalable/libresprite.svg" width="24"/> Libresprite               | made from scratch          |                                               |
 | <img src="./coral/apps/scalable/aseprite.svg" width="24"/> Aseprite                  | made from scratch          |                                               |
 | <img src="./coral/apps/scalable/pureref.svg" width="24"/> PureRef                    | from Kora                  | edited SVG to make it darker                  |
 | <img src="./coral/apps/scalable/sqlitebrowser.svg" width="24"/> DB Browser for SQLite| original DB Browser SVG    |                                               |
