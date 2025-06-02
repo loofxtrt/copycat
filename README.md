@@ -25,7 +25,7 @@ Those packs includes:
 | <img src="./coral/apps/scalable/libresprite.svg" width="24"/> Libresprite               | made from scratch          |                                               |
 | <img src="./coral/apps/scalable/aseprite.svg" width="24"/> Aseprite                  | made from scratch          |                                               |
 | <img src="./coral/apps/scalable/pureref.svg" width="24"/> PureRef                    | from Kora                  | edited SVG to make it darker                  |
-| <img src="./coral/apps/scalable/sqlitebrowser.svg" width="24"/> DB Browser for SQLite| made from scratch SVG    |                                               |
+| <img src="./coral/apps/scalable/sqlitebrowser.svg" width="24"/> DB Browser for SQLite| made from scratch    |                                               |
 | <img src="./coral/apps/scalable/audacity.svg" width="24"/> Audacity                            | from Kora                  | edited SVG to change the soundwaves and colors                  |
 
 ### Other changes
