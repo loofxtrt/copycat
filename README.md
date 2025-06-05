@@ -31,6 +31,7 @@ Those packs includes:
 ### Other changes
 - <img src="./coral/apps/scalable/computersettings.svg" width="24"/> Settings-related icons have also been replaced by Infinity's system settings SVG
 - <img src="./coral/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
+- <img src="./coral/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
 
 ### Manual changes
 Some specific app icons have to be changed manually to match the theme. Those includes:
