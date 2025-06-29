@@ -27,6 +27,7 @@ Those packs includes:
 | <img src="./coral/apps/scalable/pureref.svg" width="24"/> PureRef                    | from Kora                  | edited SVG to make it darker                  |
 | <img src="./coral/apps/scalable/sqlitebrowser.svg" width="24"/> DB Browser for SQLite| made from scratch    |                                               |
 | <img src="./coral/apps/scalable/audacity.svg" width="24"/> Audacity                            | from Kora                  | edited SVG to change the soundwaves and colors                  |
+| <img src="./coral/apps/scalable/vscodium.svg" width="24"/> VSCodium                            | from VSCodium's repository                  |s                  |
 
 ### Other changes
 - <img src="./coral/apps/scalable/computersettings.svg" width="24"/> Settings-related icons have also been replaced by Infinity's system settings SVG
