@@ -17,7 +17,7 @@ Those packs includes:
 | <img src="./coral/apps/scalable//godot.svg" width="24"/> Godot | from PlasmaX | edited SVG to make the tones match|
 | <img src="./coral/apps/scalable//inkscape.svg" width="24"/> Inkscape | from PlasmaX | edited SVG to make it darker|
 | <img src="./coral/apps/scalable//krita.svg" width="24"/> Krita | from Marwaita | |
-| <img src="./coral/apps/scalable//spotify-client.svg" width="24"/> Spotify | from Marwaita | |
+| <img src="./coral/apps/scalable//spotify-client.svg" width="24"/> Spotify | from Marwaita | added a subtle gradient|
 | <img src="./coral/apps/scalable//discord.svg" width="24"/> Discord | from Kora | edited SVG to make the color closer to the official Discord burple|
 | <img src="./coral/apps/scalable//discord-canary.svg" width="24"/> Discord Canary | from Kora | background shape changed to be like regular Discord|
 | <img src="./coral/apps/scalable//discord-development.svg" width="24"/> Discord Development | from Kora | modified to match size and style of other Discord variants|

@@ -21,7 +21,8 @@ rows = {
     },
     "Spotify": {
         "icon_name": "spotify-client",
-        "icon_source": "from Marwaita"
+        "icon_source": "from Marwaita",
+        "changes": "added a subtle gradient"
     },
     "Discord": {
         "icon_name": "discord",
