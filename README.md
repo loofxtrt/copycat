@@ -3,11 +3,12 @@
 An icon theme forked from Kora, replacing/modifying a few icons
 
 ## Differences
-*Icons from different packs are included in this repo, all licensed under the GPL3 license*  
+Icons from different packs are included in this repo, **all licensed under the GPL3 license**  
 Those packs includes:  
-**Marwaita**: https://www.gnome-look.org/p/1239855  
-**PlasmaX**: https://www.gnome-look.org/p/1367155  
-**Infinity**: https://www.gnome-look.org/p/2112373  
+[Marwaita](https://www.gnome-look.org/p/1239855)  
+[PlasmaX](https://www.gnome-look.org/p/1367155)  
+[Infinity](https://www.gnome-look.org/p/2112373)  
+[Reversal](https://www.gnome-look.org/p/1340791)
 
 ### Major changes
 
@@ -28,7 +29,7 @@ Those packs includes:
 | <img src="./coral/apps/scalable//aseprite.svg" width="24"/> Aseprite | made from scratch | |
 | <img src="./coral/apps/scalable//pureref.svg" width="24"/> PureRef | from Kora | edited SVG to make it darker|
 | <img src="./coral/apps/scalable//sqlitebrowser.svg" width="24"/> DB Browser for SQLite | made from scratch | |
-| <img src="./coral/apps/scalable//audacity.svg" width="24"/> Audacity | from Kora | edited SVG to change the soundwaves and colors|
+| <img src="./coral/apps/scalable//audacity.svg" width="24"/> Audacity | from Reversal Black | edited SVG to change the soundwaves and colors|
 | <img src="./coral/apps/scalable//vscodium.svg" width="24"/> VSCodium | from VSCodium's repository | |
 
 
@@ -44,7 +45,7 @@ Some specific app icons have to be changed manually to match the theme. Those in
 - <img src="./manual/sober.svg" width="24"/> Sober
 - <img src="./manual/vinegar.svg" width="24"/> Vinegar  
 
-*All Roblox-related icons are based off the original Sober and Vinegar SVGs*
+All Roblox-related icons are based off the original Sober and Vinegar SVGs
 
 ## License
 [GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)

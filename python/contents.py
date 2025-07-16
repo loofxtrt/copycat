@@ -72,7 +72,7 @@ rows = {
     },
     "Audacity": {
         "icon_name": "audacity",
-        "icon_source": "from Kora",
+        "icon_source": "from Reversal Black",
         "changes": "edited SVG to change the soundwaves and colors"
     },
     "VSCodium": {
@@ -86,14 +86,16 @@ first_chunk = """
 An icon theme forked from Kora, replacing/modifying a few icons
 
 ## Differences
-*Icons from different packs are included in this repo, all licensed under the GPL3 license*  
+Icons from different packs are included in this repo, **all licensed under the GPL3 license**  
 Those packs includes:  
-**Marwaita**: https://www.gnome-look.org/p/1239855  
-**PlasmaX**: https://www.gnome-look.org/p/1367155  
-**Infinity**: https://www.gnome-look.org/p/2112373  
+[Marwaita](https://www.gnome-look.org/p/1239855)  
+[PlasmaX](https://www.gnome-look.org/p/1367155)  
+[Infinity](https://www.gnome-look.org/p/2112373)  
+[Reversal](https://www.gnome-look.org/p/1340791)
 
 ### Major changes
 """
+
 last_chunk = """
 ### Other changes
 - <img src="./coral/apps/scalable/computersettings.svg" width="24"/> Settings-related icons have also been replaced by Infinity's system settings SVG
@@ -107,7 +109,7 @@ Some specific app icons have to be changed manually to match the theme. Those in
 - <img src="./manual/sober.svg" width="24"/> Sober
 - <img src="./manual/vinegar.svg" width="24"/> Vinegar  
 
-*All Roblox-related icons are based off the original Sober and Vinegar SVGs*
+All Roblox-related icons are based off the original Sober and Vinegar SVGs
 
 ## License
 [GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
