@@ -73,7 +73,7 @@ rows = {
     "Audacity": {
         "icon_name": "audacity",
         "icon_source": "from Reversal Black",
-        "changes": "edited SVG to change the soundwaves and colors"
+        "changes": "changed colors and shapes"
     },
     "VSCodium": {
         "icon_name": "vscodium",
