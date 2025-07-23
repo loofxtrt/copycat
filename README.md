@@ -9,6 +9,8 @@ Those packs includes:
 [PlasmaX](https://www.gnome-look.org/p/1367155)  
 [Infinity](https://www.gnome-look.org/p/2112373)  
 [Reversal](https://www.gnome-look.org/p/1340791)
+[Flat Remix](https://store.kde.org/p/1012430)
+[FairyWren](https://www.gnome-look.org/p/1684521)
 
 ### Major changes
 
@@ -31,10 +33,13 @@ Those packs includes:
 | <img src="./coral/apps/scalable//sqlitebrowser.svg" width="24"/> DB Browser for SQLite | made from scratch | |
 | <img src="./coral/apps/scalable//audacity.svg" width="24"/> Audacity | from Reversal Black | changed colors and shapes|
 | <img src="./coral/apps/scalable//vscodium.svg" width="24"/> VSCodium | from VSCodium's repository | |
+| <img src="./coral/apps/scalable//AppImageLauncher.svg" width="24"/> AppImageLauncher | adapted from Flat Remix | |
+| <img src="./coral/apps/scalable//android-studio.svg" width="24"/> Android Studio | from FairyWren, adjusted colors | |
+| <img src="./coral/apps/scalable//android-studio-canary.svg" width="24"/> Android Studio Canary | from FairyWren, adjusted colors | |
 
 
 ### Other changes
-- <img src="./coral/apps/scalable/computersettings.svg" width="24"/> Settings-related icons have also been replaced by Infinity's system settings SVG
+- <img src="./coral/apps/scalable/systemsettings.svg" width="24"/> Settings-related icons have also been remade based on a fusion of Infinity's + Reversal's gear icon
 - <img src="./coral/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
 - <img src="./coral/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
 

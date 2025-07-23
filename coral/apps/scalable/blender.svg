@@ -4,7 +4,7 @@
    data-name="Layer 1"
    viewBox="0 0 453.24613 406.0263"
    version="1.1"
-   sodipodi:docname="v6_blender.svg"
+   sodipodi:docname="blender.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    width="453.24612"
    height="406.02631"
@@ -26,8 +26,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.69930382"
-     inkscape:cx="121.54946"
-     inkscape:cy="230.94397"
+     inkscape:cx="291.7187"
+     inkscape:cy="309.59362"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -40,12 +40,16 @@
        id="linearGradient5"
        inkscape:collect="always">
       <stop
-         style="stop-color:#ea7600;stop-opacity:1;"
+         style="stop-color:#b35400;stop-opacity:1;"
          offset="0"
          id="stop5" />
       <stop
-         style="stop-color:#ff9321;stop-opacity:1;"
-         offset="1"
+         style="stop-color:#ea7600;stop-opacity:1;"
+         offset="0.21470869"
+         id="stop1" />
+      <stop
+         style="stop-color:#ff9625;stop-opacity:1;"
+         offset="0.8278873"
          id="stop6" />
     </linearGradient>
     <linearGradient
@@ -76,10 +80,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient5"
        id="linearGradient6"
-       x1="23.415077"
-       y1="97.390488"
-       x2="476.41605"
-       y2="308.6283"
+       x1="254.27716"
+       y1="452.88684"
+       x2="245.55389"
+       y2="-46.868187"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.90679834,0,0,1,6.1871937e-5,0.00375538)" />
   </defs>

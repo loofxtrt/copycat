@@ -78,6 +78,18 @@ rows = {
     "VSCodium": {
         "icon_name": "vscodium",
         "icon_source": "from VSCodium's repository"
+    },
+    "AppImageLauncher": {
+        "icon_name": "AppImageLauncher",
+        "icon_source": "adapted from Flat Remix"
+    },
+    "Android Studio": {
+        "icon_name": "android-studio",
+        "icon_source": "from FairyWren, adjusted colors"
+    },
+    "Android Studio Canary": {
+        "icon_name": "android-studio-canary",
+        "icon_source": "from FairyWren, adjusted colors"
     }
 }
 
@@ -92,13 +104,15 @@ Those packs includes:
 [PlasmaX](https://www.gnome-look.org/p/1367155)  
 [Infinity](https://www.gnome-look.org/p/2112373)  
 [Reversal](https://www.gnome-look.org/p/1340791)
+[Flat Remix](https://store.kde.org/p/1012430)
+[FairyWren](https://www.gnome-look.org/p/1684521)
 
 ### Major changes
 """
 
 last_chunk = """
 ### Other changes
-- <img src="./coral/apps/scalable/computersettings.svg" width="24"/> Settings-related icons have also been replaced by Infinity's system settings SVG
+- <img src="./coral/apps/scalable/systemsettings.svg" width="24"/> Settings-related icons have also been remade based on a fusion of Infinity's + Reversal's gear icon
 - <img src="./coral/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
 - <img src="./coral/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
 

@@ -40,9 +40,9 @@
      inkscape:window-height="1012"
      id="namedview46"
      showgrid="false"
-     inkscape:zoom="4.21875"
-     inkscape:cx="10.903704"
-     inkscape:cy="-5.0962963"
+     inkscape:zoom="11.932427"
+     inkscape:cx="24.135911"
+     inkscape:cy="16.467731"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
        id="linearGradient1"
        inkscape:collect="always">
       <stop
-         style="stop-color:#0d993a;stop-opacity:1;"
+         style="stop-color:#0b9c56;stop-opacity:1;"
          offset="0"
          id="stop3" />
       <stop
          style="stop-color:#1ed760;stop-opacity:1;"
-         offset="0.79501915"
-         id="stop5" />
+         offset="0.4251613"
+         id="stop7" />
     </linearGradient>
     <clipPath
        id="f">
