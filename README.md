@@ -1,5 +1,5 @@
 
-# Coral
+# Copycat
 An icon theme forked from Kora, replacing/modifying a few icons
 
 ## Differences
@@ -16,32 +16,33 @@ Those packs includes:
 
 |  Software | Icon source | Changes | 
  | ---|---|---| 
- | <img src="./coral/apps/scalable//blender.svg" width="24"/> Blender | original Blender SVG | added a subtle gradient|
-| <img src="./coral/apps/scalable//godot.svg" width="24"/> Godot | from PlasmaX | edited SVG to make the tones match|
-| <img src="./coral/apps/scalable//inkscape.svg" width="24"/> Inkscape | from PlasmaX | edited SVG to make it darker|
-| <img src="./coral/apps/scalable//krita.svg" width="24"/> Krita | from Marwaita | |
-| <img src="./coral/apps/scalable//spotify-client.svg" width="24"/> Spotify | from Marwaita | added a subtle gradient|
-| <img src="./coral/apps/scalable//discord.svg" width="24"/> Discord | from Kora | edited SVG to make the color closer to the official Discord burple|
-| <img src="./coral/apps/scalable//discord-canary.svg" width="24"/> Discord Canary | from Kora | background shape changed to be like regular Discord|
-| <img src="./coral/apps/scalable//discord-development.svg" width="24"/> Discord Development | from Kora | modified to match size and style of other Discord variants|
-| <img src="./coral/apps/scalable//gimp.svg" width="24"/> GIMP | from KDE's Breeze Dark | edited SVG to make it bigger|
-| <img src="./coral/apps/scalable//steam.svg" width="24"/> Steam | from Marwaita | |
-| <img src="./coral/apps/scalable//obs.svg" width="24"/> OBS | from Kora | edited SVG to make it darker|
-| <img src="./coral/apps/scalable//libresprite.svg" width="24"/> Libresprite | made from scratch | |
-| <img src="./coral/apps/scalable//aseprite.svg" width="24"/> Aseprite | made from scratch | |
-| <img src="./coral/apps/scalable//pureref.svg" width="24"/> PureRef | from Kora | edited SVG to make it darker|
-| <img src="./coral/apps/scalable//sqlitebrowser.svg" width="24"/> DB Browser for SQLite | made from scratch | |
-| <img src="./coral/apps/scalable//audacity.svg" width="24"/> Audacity | from Reversal Black | changed colors and shapes|
-| <img src="./coral/apps/scalable//vscodium.svg" width="24"/> VSCodium | from VSCodium's repository | |
-| <img src="./coral/apps/scalable//AppImageLauncher.svg" width="24"/> AppImageLauncher | adapted from Flat Remix | |
-| <img src="./coral/apps/scalable//android-studio.svg" width="24"/> Android Studio | from FairyWren, adjusted colors | |
-| <img src="./coral/apps/scalable//android-studio-canary.svg" width="24"/> Android Studio Canary | from FairyWren, adjusted colors | |
+ | <img src="./copycat/apps/scalable//blender.svg" width="24"/> Blender | original Blender SVG | added a subtle gradient|
+| <img src="./copycat/apps/scalable//godot.svg" width="24"/> Godot | from PlasmaX | edited SVG to make the tones match|
+| <img src="./copycat/apps/scalable//inkscape.svg" width="24"/> Inkscape | from PlasmaX | edited SVG to make it darker|
+| <img src="./copycat/apps/scalable//krita.svg" width="24"/> Krita | from Marwaita | |
+| <img src="./copycat/apps/scalable//spotify-client.svg" width="24"/> Spotify | from Marwaita | added a subtle gradient|
+| <img src="./copycat/apps/scalable//discord.svg" width="24"/> Discord | from Kora | edited SVG to make the color closer to the official Discord burple|
+| <img src="./copycat/apps/scalable//discord-canary.svg" width="24"/> Discord Canary | from Kora | background shape changed to be like regular Discord|
+| <img src="./copycat/apps/scalable//discord-development.svg" width="24"/> Discord Development | from Kora | modified to match size and style of other Discord variants|
+| <img src="./copycat/apps/scalable//gimp.svg" width="24"/> GIMP | from KDE's Breeze Dark | edited SVG to make it bigger|
+| <img src="./copycat/apps/scalable//steam.svg" width="24"/> Steam | from Marwaita | |
+| <img src="./copycat/apps/scalable//obs.svg" width="24"/> OBS | from Kora | edited SVG to make it darker|
+| <img src="./copycat/apps/scalable//libresprite.svg" width="24"/> Libresprite | made from scratch | |
+| <img src="./copycat/apps/scalable//aseprite.svg" width="24"/> Aseprite | made from scratch | |
+| <img src="./copycat/apps/scalable//pureref.svg" width="24"/> PureRef | from Kora | edited SVG to make it darker|
+| <img src="./copycat/apps/scalable//sqlitebrowser.svg" width="24"/> DB Browser for SQLite | made from scratch | |
+| <img src="./copycat/apps/scalable//audacity.svg" width="24"/> Audacity | from Reversal Black | changed colors and shapes|
+| <img src="./copycat/apps/scalable//vscodium.svg" width="24"/> VSCodium | from VSCodium's repository | |
+| <img src="./copycat/apps/scalable//AppImageLauncher.svg" width="24"/> AppImageLauncher | adapted from Flat Remix | |
+| <img src="./copycat/apps/scalable//android-studio.svg" width="24"/> Android Studio | from FairyWren, adjusted colors | |
+| <img src="./copycat/apps/scalable//android-studio-canary.svg" width="24"/> Android Studio Canary | from FairyWren, adjusted colors | |
+| <img src="./copycat/apps/scalable//btop.svg" width="24"/> btop++ | made from scratch | |
 
 
 ### Other changes
-- <img src="./coral/apps/scalable/systemsettings.svg" width="24"/> Settings-related icons have also been remade based on a fusion of Infinity's + Reversal's gear icon
-- <img src="./coral/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
-- <img src="./coral/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
+- <img src="./copycat/apps/scalable/systemsettings.svg" width="24"/> Settings-related icons have also been remade based on a fusion of Infinity's + Reversal's gear icon
+- <img src="./copycat/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
+- <img src="./copycat/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
 
 ### Manual changes
 Some specific app icons have to be changed manually to match the theme. Those includes:

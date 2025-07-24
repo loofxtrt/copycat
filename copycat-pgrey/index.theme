@@ -1,8 +1,8 @@
 [Icon Theme]
-Name=Coral Light
-Comment=Coral Light icon theme for GNU/Linux
+Name=Copycat Grey
+Comment=Copycat Grey icon theme for GNU/Linux
 
-Inherits=coral,breeze,hicolor
+Inherits=copycat,breeze,hicolor
 
 Example=folder
 

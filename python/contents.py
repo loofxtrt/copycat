@@ -90,11 +90,15 @@ rows = {
     "Android Studio Canary": {
         "icon_name": "android-studio-canary",
         "icon_source": "from FairyWren, adjusted colors"
+    },
+    "btop++": {
+        "icon_name": "btop",
+        "icon_source": "made from scratch"
     }
 }
 
 first_chunk = """
-# Coral
+# Copycat
 An icon theme forked from Kora, replacing/modifying a few icons
 
 ## Differences
@@ -112,9 +116,9 @@ Those packs includes:
 
 last_chunk = """
 ### Other changes
-- <img src="./coral/apps/scalable/systemsettings.svg" width="24"/> Settings-related icons have also been remade based on a fusion of Infinity's + Reversal's gear icon
-- <img src="./coral/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
-- <img src="./coral/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
+- <img src="./copycat/apps/scalable/systemsettings.svg" width="24"/> Settings-related icons have also been remade based on a fusion of Infinity's + Reversal's gear icon
+- <img src="./copycat/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
+- <img src="./copycat/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
 
 ### Manual changes
 Some specific app icons have to be changed manually to match the theme. Those includes:

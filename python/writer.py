@@ -43,7 +43,7 @@ def write_all(target_file_path, contents: list):
         f.write(condensed_info)
         print(f"{target_file_path} sobreescrito")
 
-ICONS = "./coral/apps/scalable/"
+ICONS = "./copycat/apps/scalable/"
 
 ROOT = Path(__file__).parent.parent # obtém o parent do parent desse script
 readme = ROOT / "README.md"
