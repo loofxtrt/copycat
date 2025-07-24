@@ -8,9 +8,9 @@ Those packs includes:
 [Marwaita](https://www.gnome-look.org/p/1239855)  
 [PlasmaX](https://www.gnome-look.org/p/1367155)  
 [Infinity](https://www.gnome-look.org/p/2112373)  
-[Reversal](https://www.gnome-look.org/p/1340791)
-[Flat Remix](https://store.kde.org/p/1012430)
-[FairyWren](https://www.gnome-look.org/p/1684521)
+[Reversal](https://www.gnome-look.org/p/1340791)  
+[Flat Remix](https://store.kde.org/p/1012430)  
+[FairyWren](https://www.gnome-look.org/p/1684521)  
 
 ### Major changes
 
