@@ -127,7 +127,7 @@ places_rows = {
         "icon_source": "from Kora",
         "changes": "changed colors"
     },
-    "Music (Open)": {
+    "Music (open)": {
         "icon_name": "folder-music-open",
         "icon_source": "from Kora",
         "changes": "changed colors"
@@ -137,7 +137,7 @@ places_rows = {
         "icon_source": "from Kora",
         "changes": "changed colors"
     },
-    "Pictures (Open)": {
+    "Pictures (open)": {
         "icon_name": "folder-pictures-open",
         "icon_source": "from Kora",
         "changes": "changed colors"
