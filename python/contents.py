@@ -102,11 +102,11 @@ software_rows = {
 
 places_headers = ["Places", "Icon source", "Changes"]
 places_rows = {
-    "Home": {
-        "icon_name": "user-home",
-        "icon_source": "from Kora",
-        "changes": "added an additional gradient"
-    },
+    #"Home": {
+    #    "icon_name": "user-home",
+    #    "icon_source": "from Kora",
+    #    "changes": "added an additional gradient"
+    #},
     "Desktop": {
         "icon_name": "user-desktop",
         "icon_source": "from Kora",
