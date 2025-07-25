@@ -33,22 +33,22 @@ Those packs includes:
 | <img src="./copycat/apps/scalable//sqlitebrowser.svg" width="24"/> DB Browser for SQLite | made from scratch | |
 | <img src="./copycat/apps/scalable//audacity.svg" width="24"/> Audacity | from Reversal Black | changed colors and shapes|
 | <img src="./copycat/apps/scalable//vscodium.svg" width="24"/> VSCodium | from VSCodium's repository | |
-| <img src="./copycat/apps/scalable//AppImageLauncher.svg" width="24"/> AppImageLauncher | adapted from Flat Remix | |
-| <img src="./copycat/apps/scalable//android-studio.svg" width="24"/> Android Studio | from FairyWren, adjusted colors | |
-| <img src="./copycat/apps/scalable//android-studio-canary.svg" width="24"/> Android Studio Canary | from FairyWren, adjusted colors | |
+| <img src="./copycat/apps/scalable//AppImageLauncher.svg" width="24"/> AppImageLauncher | Flat Remix | modified colors and shapes|
+| <img src="./copycat/apps/scalable//android-studio.svg" width="24"/> Android Studio | from FairyWren | adjusted colors|
+| <img src="./copycat/apps/scalable//android-studio-canary.svg" width="24"/> Android Studio Canary | from FairyWren | adjusted colors|
 | <img src="./copycat/apps/scalable//btop.svg" width="24"/> btop++ | made from scratch | |
 
 |  Places | Icon source | Changes | 
  | ---|---|---| 
- | <img src="./copycat/places/scalable//user-home.svg" width="24"/> Home | from Kora, added an additional gradient | |
-| <img src="./copycat/places/scalable//user-desktop.svg" width="24"/> Desktop | from Kora, added a taskbar and icons | |
-| <img src="./copycat/places/scalable//folder-documents.svg" width="24"/> Documents | from Kora, added Kora's clip icon to it | |
-| <img src="./copycat/places/scalable//folder-download.svg" width="24"/> Downloads | from Kora, modified the arrow | |
-| <img src="./copycat/places/scalable//folder-music.svg" width="24"/> Music | from Kora, changed colors | |
-| <img src="./copycat/places/scalable//folder-music-open.svg" width="24"/> Music (Open) | from Kora, changed colors | |
-| <img src="./copycat/places/scalable//folder-pictures.svg" width="24"/> Pictures | from Kora, changed colors | |
-| <img src="./copycat/places/scalable//folder-pictures-open.svg" width="24"/> Pictures (Open) | from Kora, changed colors | |
-| <img src="./copycat/places/scalable//folder-videos.svg" width="24"/> Videos | from Kora, changed icon to a play button and added details | |
+ | <img src="./copycat/places/scalable//user-home.svg" width="24"/> Home | from Kora | added an additional gradient|
+| <img src="./copycat/places/scalable//user-desktop.svg" width="24"/> Desktop | from Kora | added a taskbar and icons|
+| <img src="./copycat/places/scalable//folder-documents.svg" width="24"/> Documents | from Kora | added Kora's clip icon to it|
+| <img src="./copycat/places/scalable//folder-download.svg" width="24"/> Downloads | from Kora | modified the arrow|
+| <img src="./copycat/places/scalable//folder-music.svg" width="24"/> Music | from Kora | changed colors|
+| <img src="./copycat/places/scalable//folder-music-open.svg" width="24"/> Music (Open) | from Kora | changed colors|
+| <img src="./copycat/places/scalable//folder-pictures.svg" width="24"/> Pictures | from Kora | changed colors|
+| <img src="./copycat/places/scalable//folder-pictures-open.svg" width="24"/> Pictures (Open) | from Kora | changed colors|
+| <img src="./copycat/places/scalable//folder-videos.svg" width="24"/> Videos | from Kora | changed icon to a play button and added details|
 
 
 ### Other changes

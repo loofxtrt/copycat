@@ -81,15 +81,18 @@ software_rows = {
     },
     "AppImageLauncher": {
         "icon_name": "AppImageLauncher",
-        "icon_source": "adapted from Flat Remix"
+        "icon_source": "Flat Remix",
+        "changes": "modified colors and shapes"
     },
     "Android Studio": {
         "icon_name": "android-studio",
-        "icon_source": "from FairyWren, adjusted colors"
+        "icon_source": "from FairyWren",
+        "changes": "adjusted colors"
     },
     "Android Studio Canary": {
         "icon_name": "android-studio-canary",
-        "icon_source": "from FairyWren, adjusted colors"
+        "icon_source": "from FairyWren",
+        "changes": "adjusted colors"
     },
     "btop++": {
         "icon_name": "btop",
@@ -101,39 +104,48 @@ places_headers = ["Places", "Icon source", "Changes"]
 places_rows = {
     "Home": {
         "icon_name": "user-home",
-        "icon_source": "from Kora, added an additional gradient",
+        "icon_source": "from Kora",
+        "changes": "added an additional gradient"
     },
     "Desktop": {
         "icon_name": "user-desktop",
-        "icon_source": "from Kora, added a taskbar and icons",
+        "icon_source": "from Kora",
+        "changes": "added a taskbar and icons"
     },
     "Documents": {
         "icon_name": "folder-documents",
-        "icon_source": "from Kora, added Kora's clip icon to it",
+        "icon_source": "from Kora",
+        "changes": "added Kora's clip icon to it"
     },
     "Downloads": {
         "icon_name": "folder-download",
-        "icon_source": "from Kora, modified the arrow",
+        "icon_source": "from Kora",
+        "changes": "modified the arrow"
     },
     "Music": {
         "icon_name": "folder-music",
-        "icon_source": "from Kora, changed colors",
+        "icon_source": "from Kora",
+        "changes": "changed colors"
     },
     "Music (Open)": {
         "icon_name": "folder-music-open",
-        "icon_source": "from Kora, changed colors",
+        "icon_source": "from Kora",
+        "changes": "changed colors"
     },
     "Pictures": {
         "icon_name": "folder-pictures",
-        "icon_source": "from Kora, changed colors",
+        "icon_source": "from Kora",
+        "changes": "changed colors"
     },
     "Pictures (Open)": {
         "icon_name": "folder-pictures-open",
-        "icon_source": "from Kora, changed colors",
+        "icon_source": "from Kora",
+        "changes": "changed colors"
     },
     "Videos": {
         "icon_name": "folder-videos",
-        "icon_source": "from Kora, changed icon to a play button and added details",
+        "icon_source": "from Kora",
+        "changes": "changed icon to a play button and added details"
     }
 }
 
