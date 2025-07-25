@@ -38,6 +38,18 @@ Those packs includes:
 | <img src="./copycat/apps/scalable//android-studio-canary.svg" width="24"/> Android Studio Canary | from FairyWren, adjusted colors | |
 | <img src="./copycat/apps/scalable//btop.svg" width="24"/> btop++ | made from scratch | |
 
+|  Places | Icon source | Changes | 
+ | ---|---|---| 
+ | <img src="./copycat/places/scalable//user-home.svg" width="24"/> Home | from Kora, added an additional gradient | |
+| <img src="./copycat/places/scalable//user-desktop.svg" width="24"/> Desktop | from Kora, added a taskbar and icons | |
+| <img src="./copycat/places/scalable//folder-documents.svg" width="24"/> Documents | from Kora, added Kora's clip icon to it | |
+| <img src="./copycat/places/scalable//folder-download.svg" width="24"/> Downloads | from Kora, modified the arrow | |
+| <img src="./copycat/places/scalable//folder-music.svg" width="24"/> Music | from Kora, changed colors | |
+| <img src="./copycat/places/scalable//folder-music-open.svg" width="24"/> Music (Open) | from Kora, changed colors | |
+| <img src="./copycat/places/scalable//folder-pictures.svg" width="24"/> Pictures | from Kora, changed colors | |
+| <img src="./copycat/places/scalable//folder-pictures-open.svg" width="24"/> Pictures (Open) | from Kora, changed colors | |
+| <img src="./copycat/places/scalable//folder-videos.svg" width="24"/> Videos | from Kora, changed icon to a play button and added details | |
+
 
 ### Other changes
 - <img src="./copycat/apps/scalable/systemsettings.svg" width="24"/> Settings-related icons have also been remade based on a fusion of Infinity's + Reversal's gear icon

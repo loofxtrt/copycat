@@ -1,5 +1,5 @@
-headers = ["Software", "Icon source", "Changes"]
-rows = {
+software_headers = ["Software", "Icon source", "Changes"]
+software_rows = {
     "Blender": {
         "icon_name": "blender",
         "icon_source": "original Blender SVG",
@@ -94,6 +94,46 @@ rows = {
     "btop++": {
         "icon_name": "btop",
         "icon_source": "made from scratch"
+    }
+}
+
+places_headers = ["Places", "Icon source", "Changes"]
+places_rows = {
+    "Home": {
+        "icon_name": "user-home",
+        "icon_source": "from Kora, added an additional gradient",
+    },
+    "Desktop": {
+        "icon_name": "user-desktop",
+        "icon_source": "from Kora, added a taskbar and icons",
+    },
+    "Documents": {
+        "icon_name": "folder-documents",
+        "icon_source": "from Kora, added Kora's clip icon to it",
+    },
+    "Downloads": {
+        "icon_name": "folder-download",
+        "icon_source": "from Kora, modified the arrow",
+    },
+    "Music": {
+        "icon_name": "folder-music",
+        "icon_source": "from Kora, changed colors",
+    },
+    "Music (Open)": {
+        "icon_name": "folder-music-open",
+        "icon_source": "from Kora, changed colors",
+    },
+    "Pictures": {
+        "icon_name": "folder-pictures",
+        "icon_source": "from Kora, changed colors",
+    },
+    "Pictures (Open)": {
+        "icon_name": "folder-pictures-open",
+        "icon_source": "from Kora, changed colors",
+    },
+    "Videos": {
+        "icon_name": "folder-videos",
+        "icon_source": "from Kora, changed icon to a play button and added details",
     }
 }
 

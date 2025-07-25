@@ -1,12 +1,12 @@
 from pathlib import Path
 
-from contents import headers, rows, first_chunk, last_chunk
+from contents import software_headers, software_rows, places_headers, places_rows, first_chunk, last_chunk
 
 """
     utilitário pra escrever a tabela do readme mais facilmente
 """
 
-def set_table(header_list, row_dictionary):
+def set_table(header_list, row_dictionary, parent_dir):
     # gerar as linhas dos cabeçalhos e do separador
     headers_line = "| "
     separator_line = "| "
@@ -19,7 +19,7 @@ def set_table(header_list, row_dictionary):
     for key, values in row_dictionary.items():
         # obter o nome e ícone do software
         software_name = key
-        software_icon = f'<img src="{ICONS}/{values["icon_name"]}.svg" width="24"/>'
+        software_icon = f'<img src="{parent_dir}/{values["icon_name"]}.svg" width="24"/>'
 
         # obter os valores ou deixa-los vazios caso sejam none
         icon_source = values.get("icon_source") or ""
@@ -43,17 +43,22 @@ def write_all(target_file_path, contents: list):
         f.write(condensed_info)
         print(f"{target_file_path} sobreescrito")
 
-ICONS = "./copycat/apps/scalable/"
-
 ROOT = Path(__file__).parent.parent # obtém o parent do parent desse script
 readme = ROOT / "README.md"
 
-table = set_table(
-    header_list=headers,
-    row_dictionary=rows
+software_table = set_table(
+    header_list=software_headers,
+    row_dictionary=software_rows,
+    parent_dir="./copycat/apps/scalable/"
+)
+
+places_table = set_table(
+    header_list=places_headers,
+    row_dictionary=places_rows,
+    parent_dir="./copycat/places/scalable/"
 )
 
 write_all(
     target_file_path=readme,
-    contents=[first_chunk, table, last_chunk]
+    contents=[first_chunk, software_table, places_table, last_chunk]
 )
