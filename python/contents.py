@@ -109,10 +109,20 @@ software_rows = {
         "icon_source": "from Yosa Max",
         "changes": "made the gradient more noticeable"
     },
-    "Dolphin": {
-        "icon_name": "dolphin",
+    #"Dolphin": {
+    #    "icon_name": "dolphin",
+    #    "icon_source": "from Kora",
+    #    "changes": "added [this dolphin silhouette](https://www.svgrepo.com/svg/481342/dolphin-3)"
+    #},
+    "GitHub Desktop": {
+        "icon_name": "appimagekit-github-desktop",
         "icon_source": "from Kora",
-        "changes": "added [this dolphin silhouette](https://www.svgrepo.com/svg/481342/dolphin-3)"
+        "changes": "adjusted colors"
+    },
+    "Color Picker": {
+        "icon_name": "nl.hjdskes.gcolor3",
+        "icon_source": "from Marwaita and Yosa Max",
+        "changes": "used Marwaita's color picker background and Yosa Max drop symbol"
     }
 }
 

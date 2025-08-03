@@ -41,7 +41,8 @@ Those packs includes:
 | <img src="./copycat/apps/scalable//android-studio-canary.svg" width="24"/> Android Studio Canary | from FairyWren | adjusted colors|
 | <img src="./copycat/apps/scalable//btop.svg" width="24"/> btop++ | partially of Kora | remade btop logo from scratch, used Kora's system monitor background, MoreWaita's btop color|
 | <img src="./copycat/apps/scalable//ark.svg" width="24"/> Ark | from Yosa Max | made the gradient more noticeable|
-| <img src="./copycat/apps/scalable//dolphin.svg" width="24"/> Dolphin | from Kora | added [this dolphin silhouette](https://www.svgrepo.com/svg/481342/dolphin-3)|
+| <img src="./copycat/apps/scalable//appimagekit-github-desktop.svg" width="24"/> GitHub Desktop | from Kora | adjusted colors|
+| <img src="./copycat/apps/scalable//nl.hjdskes.gcolor3.svg" width="24"/> Color Picker | from Marwaita and Yosa Max | used Marwaita's color picker background and Yosa Max drop symbol|
 
 |  Places | Icon source | Changes | 
  | ---|---|---| 
