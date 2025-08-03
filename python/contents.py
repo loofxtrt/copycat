@@ -89,6 +89,11 @@ software_rows = {
         "icon_source": "from FairyWren",
         "changes": "adjusted colors"
     },
+    "Android Studio Beta": {
+        "icon_name": "android-studio-beta",
+        "icon_source": "from FairyWren",
+        "changes": "adjusted colors"
+    },
     "Android Studio Canary": {
         "icon_name": "android-studio-canary",
         "icon_source": "from FairyWren",
@@ -96,7 +101,13 @@ software_rows = {
     },
     "btop++": {
         "icon_name": "btop",
-        "icon_source": "made from scratch"
+        "icon_source": "part of Kora",
+        "changes": "remade btop logo from scratch, used Kora's system monitor background, MoreWaita's btop color"
+    },
+    "Ark": {
+        "icon_name": "ark",
+        "icon_source": "from Yosa Max",
+        "changes": "made the gradient more noticeable"
     }
 }
 
@@ -157,11 +168,13 @@ An icon theme forked from Kora, replacing/modifying a few icons
 Icons from different packs are included in this repo, **all licensed under the GPL3 license**  
 Those packs includes:  
 [Marwaita](https://www.gnome-look.org/p/1239855)  
+[MoreWaita](https://www.gnome-look.org/p/2276064)  
 [PlasmaX](https://www.gnome-look.org/p/1367155)  
 [Infinity](https://www.gnome-look.org/p/2112373)  
 [Reversal](https://www.gnome-look.org/p/1340791)  
 [Flat Remix](https://store.kde.org/p/1012430)  
 [FairyWren](https://www.gnome-look.org/p/1684521)  
+[Yosa Max](https://www.gnome-look.org/p/1196255/)  
 
 ### Major changes
 """

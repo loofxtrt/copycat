@@ -6,11 +6,13 @@ An icon theme forked from Kora, replacing/modifying a few icons
 Icons from different packs are included in this repo, **all licensed under the GPL3 license**  
 Those packs includes:  
 [Marwaita](https://www.gnome-look.org/p/1239855)  
+[MoreWaita](https://www.gnome-look.org/p/2276064)  
 [PlasmaX](https://www.gnome-look.org/p/1367155)  
 [Infinity](https://www.gnome-look.org/p/2112373)  
 [Reversal](https://www.gnome-look.org/p/1340791)  
 [Flat Remix](https://store.kde.org/p/1012430)  
 [FairyWren](https://www.gnome-look.org/p/1684521)  
+[Yosa Max](https://www.gnome-look.org/p/1196255/)  
 
 ### Major changes
 
@@ -35,8 +37,10 @@ Those packs includes:
 | <img src="./copycat/apps/scalable//vscodium.svg" width="24"/> VSCodium | from VSCodium's repository | |
 | <img src="./copycat/apps/scalable//AppImageLauncher.svg" width="24"/> AppImageLauncher | Flat Remix | modified colors and shapes|
 | <img src="./copycat/apps/scalable//android-studio.svg" width="24"/> Android Studio | from FairyWren | adjusted colors|
+| <img src="./copycat/apps/scalable//android-studio-beta.svg" width="24"/> Android Studio Beta | from FairyWren | adjusted colors|
 | <img src="./copycat/apps/scalable//android-studio-canary.svg" width="24"/> Android Studio Canary | from FairyWren | adjusted colors|
-| <img src="./copycat/apps/scalable//btop.svg" width="24"/> btop++ | made from scratch | |
+| <img src="./copycat/apps/scalable//btop.svg" width="24"/> btop++ | part of Kora | remade btop logo from scratch, used Kora's system monitor background, MoreWaita's btop color|
+| <img src="./copycat/apps/scalable//ark.svg" width="24"/> Ark | from Yosa Max | made the gradient more noticeable|
 
 |  Places | Icon source | Changes | 
  | ---|---|---| 

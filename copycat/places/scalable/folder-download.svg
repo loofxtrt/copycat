@@ -19,9 +19,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="8.3645833"
-     inkscape:cx="34.729764"
-     inkscape:cy="26.600249"
+     inkscape:zoom="8.3645834"
+     inkscape:cx="17.454545"
+     inkscape:cy="10.938979"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -41,11 +41,11 @@
        id="path2" />
     <path
        d="m 32,41.414061 6.3,-7.948 c 0.614,-0.773 1.742,-0.904 2.515,-0.29 0.775,0.614 0.905,1.741 0.291,2.515 l -7.694,9.705 c -0.354,0.448 -0.881,0.68 -1.412,0.677 -0.531,0.003 -1.057,-0.229 -1.412,-0.677 l -7.693,-9.704 c -0.614,-0.774 -0.484,-1.902 0.291,-2.515 0.773,-0.614 1.901,-0.483 2.515,0.29 z"
-       style="fill:#236d4c;fill-opacity:1"
+       style="fill:#216546;fill-opacity:1"
        id="path3"
        sodipodi:nodetypes="ccccccccccc" />
     <rect
-       style="fill:#236d4c;fill-opacity:1;stroke-width:0.724;stroke-linecap:round;stroke-miterlimit:2;paint-order:stroke markers fill"
+       style="fill:#216546;fill-opacity:1;stroke-width:0.724;stroke-linecap:round;stroke-miterlimit:2;paint-order:stroke markers fill"
        id="rect6"
        width="3.381434"
        height="20.119522"
@@ -83,6 +83,42 @@
          style="stop-color:rgb(18,109,152)"
          offset="1"
          id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient223"
+       x2="1"
+       gradientTransform="matrix(0,-41.6338,41.6338,0,445.153,52.7218)"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       y2="0"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#00d8ff;stop-opacity:1;"
+         offset="0"
+         id="stop222" />
+      <stop
+         style="stop-color:#f6f6f6;stop-opacity:0;"
+         offset="1"
+         id="stop223" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient223-7"
+       x2="1"
+       gradientTransform="matrix(0,-41.6338,41.6338,0,445.153,52.7218)"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       y2="0"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#f809ff;stop-opacity:1;"
+         offset="0"
+         id="stop222-5" />
+      <stop
+         style="stop-color:#f6f6f6;stop-opacity:0;"
+         offset="1"
+         id="stop223-3" />
     </linearGradient>
   </defs>
 </svg>
