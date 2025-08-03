@@ -39,8 +39,9 @@ Those packs includes:
 | <img src="./copycat/apps/scalable//android-studio.svg" width="24"/> Android Studio | from FairyWren | adjusted colors|
 | <img src="./copycat/apps/scalable//android-studio-beta.svg" width="24"/> Android Studio Beta | from FairyWren | adjusted colors|
 | <img src="./copycat/apps/scalable//android-studio-canary.svg" width="24"/> Android Studio Canary | from FairyWren | adjusted colors|
-| <img src="./copycat/apps/scalable//btop.svg" width="24"/> btop++ | part of Kora | remade btop logo from scratch, used Kora's system monitor background, MoreWaita's btop color|
+| <img src="./copycat/apps/scalable//btop.svg" width="24"/> btop++ | partially of Kora | remade btop logo from scratch, used Kora's system monitor background, MoreWaita's btop color|
 | <img src="./copycat/apps/scalable//ark.svg" width="24"/> Ark | from Yosa Max | made the gradient more noticeable|
+| <img src="./copycat/apps/scalable//dolphin.svg" width="24"/> Dolphin | from Kora | added [this dolphin silhouette](https://www.svgrepo.com/svg/481342/dolphin-3)|
 
 |  Places | Icon source | Changes | 
  | ---|---|---| 

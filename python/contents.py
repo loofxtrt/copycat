@@ -101,13 +101,18 @@ software_rows = {
     },
     "btop++": {
         "icon_name": "btop",
-        "icon_source": "part of Kora",
+        "icon_source": "partially of Kora",
         "changes": "remade btop logo from scratch, used Kora's system monitor background, MoreWaita's btop color"
     },
     "Ark": {
         "icon_name": "ark",
         "icon_source": "from Yosa Max",
         "changes": "made the gradient more noticeable"
+    },
+    "Dolphin": {
+        "icon_name": "dolphin",
+        "icon_source": "from Kora",
+        "changes": "added [this dolphin silhouette](https://www.svgrepo.com/svg/481342/dolphin-3)"
     }
 }
 
