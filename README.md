@@ -43,6 +43,8 @@ Those packs includes:
 | <img src="./copycat/apps/scalable//ark.svg" width="24"/> Ark | from Yosa Max | made the gradient more noticeable|
 | <img src="./copycat/apps/scalable//appimagekit-github-desktop.svg" width="24"/> GitHub Desktop | from Kora | adjusted colors|
 | <img src="./copycat/apps/scalable//nl.hjdskes.gcolor3.svg" width="24"/> Color Picker | from Marwaita and Yosa Max | used Marwaita's color picker background and Yosa Max drop symbol|
+| <img src="./copycat/apps/scalable//kvantum.svg" width="24"/> Kvantum | from Kora | switched the colors to Marwaita's Kvantum icon|
+| <img src="./copycat/apps/scalable//cmake.svg" width="24"/> CMake | from Kora | removed background and added gradients|
 
 |  Places | Icon source | Changes | 
  | ---|---|---| 

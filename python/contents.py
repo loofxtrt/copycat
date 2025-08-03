@@ -123,6 +123,16 @@ software_rows = {
         "icon_name": "nl.hjdskes.gcolor3",
         "icon_source": "from Marwaita and Yosa Max",
         "changes": "used Marwaita's color picker background and Yosa Max drop symbol"
+    },
+    "Kvantum": {
+        "icon_name": "kvantum",
+        "icon_source": "from Kora",
+        "changes": "switched the colors to Marwaita's Kvantum icon"
+    },
+    "CMake": {
+        "icon_name": "cmake",
+        "icon_source": "from Kora",
+        "changes": "removed background and added gradients"
     }
 }
 
