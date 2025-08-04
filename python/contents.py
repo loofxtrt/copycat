@@ -133,6 +133,22 @@ software_rows = {
         "icon_name": "cmake",
         "icon_source": "from Kora",
         "changes": "removed background and added gradients"
+    },
+    "Roblox": {
+        "icon_name": "grapejuice-roblox-player",
+        "icon_source": "made from scratch"
+    },
+    "Roblox Studio": {
+        "icon_name": "org.vinegarhq.Vinegar.studio",
+        "icon_source": "made from scratch"
+    },
+    "Vinegar": {
+        "icon_name": "org.vinegarhq.Vinegar",
+        "icon_source": "made from scratch, then added [this SVG](https://www.svgrepo.com/svg/443560/brand-winehq) on top of it"
+    },
+    "Sober": {
+        "icon_name": "org.vinegarhq.Sober",
+        "icon_source": "made from scratch"
     }
 }
 
@@ -210,15 +226,16 @@ last_chunk = """
 - <img src="./copycat/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
 - <img src="./copycat/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
 
-### Manual changes
-Some specific app icons have to be changed manually to match the theme. Those includes:
-- <img src="./manual/roblox.svg" width="24"/> Roblox Player
-- <img src="./manual/roblox-studio.svg" width="24"/> Roblox Studio
-- <img src="./manual/sober.svg" width="24"/> Sober
-- <img src="./manual/vinegar.svg" width="24"/> Vinegar  
-
-All Roblox-related icons are based off the original Sober and Vinegar SVGs
-
 ## License
 [GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
 """
+
+# DESCARTADO
+# ### Manual changes
+# Some specific app icons have to be changed manually to match the theme. Those includes:
+# - <img src="./manual/roblox.svg" width="24"/> Roblox Player
+# - <img src="./manual/roblox-studio.svg" width="24"/> Roblox Studio
+# - <img src="./manual/sober.svg" width="24"/> Sober
+# - <img src="./manual/vinegar.svg" width="24"/> Vinegar  
+
+# All Roblox-related icons are based off the original Sober and Vinegar SVGs

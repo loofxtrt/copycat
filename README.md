@@ -45,6 +45,10 @@ Those packs includes:
 | <img src="./copycat/apps/scalable//nl.hjdskes.gcolor3.svg" width="24"/> Color Picker | from Marwaita and Yosa Max | used Marwaita's color picker background and Yosa Max drop symbol|
 | <img src="./copycat/apps/scalable//kvantum.svg" width="24"/> Kvantum | from Kora | switched the colors to Marwaita's Kvantum icon|
 | <img src="./copycat/apps/scalable//cmake.svg" width="24"/> CMake | from Kora | removed background and added gradients|
+| <img src="./copycat/apps/scalable//grapejuice-roblox-player.svg" width="24"/> Roblox | made from scratch | |
+| <img src="./copycat/apps/scalable//org.vinegarhq.Vinegar.studio.svg" width="24"/> Roblox Studio | made from scratch | |
+| <img src="./copycat/apps/scalable//org.vinegarhq.Vinegar.svg" width="24"/> Vinegar | made from scratch, then added [this SVG](https://www.svgrepo.com/svg/443560/brand-winehq) on top of it | |
+| <img src="./copycat/apps/scalable//org.vinegarhq.Sober.svg" width="24"/> Sober | made from scratch | |
 
 |  Places | Icon source | Changes | 
  | ---|---|---| 
@@ -62,15 +66,6 @@ Those packs includes:
 - <img src="./copycat/apps/scalable/systemsettings.svg" width="24"/> Settings-related icons have also been remade based on a fusion of Infinity's + Reversal's gear icon
 - <img src="./copycat/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
 - <img src="./copycat/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
-
-### Manual changes
-Some specific app icons have to be changed manually to match the theme. Those includes:
-- <img src="./manual/roblox.svg" width="24"/> Roblox Player
-- <img src="./manual/roblox-studio.svg" width="24"/> Roblox Studio
-- <img src="./manual/sober.svg" width="24"/> Sober
-- <img src="./manual/vinegar.svg" width="24"/> Vinegar  
-
-All Roblox-related icons are based off the original Sober and Vinegar SVGs
 
 ## License
 [GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
