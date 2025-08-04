@@ -77,7 +77,7 @@ software_rows = {
     },
     "VSCodium": {
         "icon_name": "vscodium",
-        "icon_source": "from VSCodium's repository"
+        "icon_source": "[from VSCodium's repository](https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png)"
     },
     "AppImageLauncher": {
         "icon_name": "AppImageLauncher",
