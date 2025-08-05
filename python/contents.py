@@ -224,7 +224,6 @@ last_chunk = """
 ### Other changes
 - <img src="./copycat/apps/scalable/systemsettings.svg" width="24"/> Settings-related icons have also been remade based on a fusion of Infinity's + Reversal's gear icon
 - <img src="./copycat/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
-- <img src="./copycat/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
 
 ## License
 [GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
@@ -239,3 +238,5 @@ last_chunk = """
 # - <img src="./manual/vinegar.svg" width="24"/> Vinegar  
 
 # All Roblox-related icons are based off the original Sober and Vinegar SVGs
+
+# - <img src="./copycat/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
