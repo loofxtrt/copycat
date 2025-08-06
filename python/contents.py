@@ -149,6 +149,10 @@ software_rows = {
     "Sober": {
         "icon_name": "org.vinegarhq.Sober",
         "icon_source": "made from scratch"
+    },
+    "OpenJDK Java 21 Shell": {
+        "icon_name": "java21-openjdk",
+        "icon_source": "from Kora"
     }
 }
 
