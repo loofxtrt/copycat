@@ -176,7 +176,7 @@ places_rows = {
     "Downloads": {
         "icon_name": "folder-download",
         "icon_source": "from Kora",
-        "changes": "modified the arrow"
+        "changes": "changed colors"
     },
     "Music": {
         "icon_name": "folder-music",

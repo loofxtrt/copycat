@@ -55,7 +55,7 @@ Those packs includes:
  | ---|---|---| 
  | <img src="./copycat/places/scalable//user-desktop.svg" width="24"/> Desktop | from Kora | added a taskbar and icons|
 | <img src="./copycat/places/scalable//folder-documents.svg" width="24"/> Documents | from Kora | added Kora's clip icon to it|
-| <img src="./copycat/places/scalable//folder-download.svg" width="24"/> Downloads | from Kora | modified the arrow|
+| <img src="./copycat/places/scalable//folder-download.svg" width="24"/> Downloads | from Kora | changed colors|
 | <img src="./copycat/places/scalable//folder-music.svg" width="24"/> Music | from Kora | changed colors|
 | <img src="./copycat/places/scalable//folder-music-open.svg" width="24"/> Music (open) | from Kora | changed colors|
 | <img src="./copycat/places/scalable//folder-pictures.svg" width="24"/> Pictures | from Kora | changed colors|
