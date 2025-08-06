@@ -153,6 +153,14 @@ software_rows = {
     "OpenJDK Java 21 Shell": {
         "icon_name": "java21-openjdk",
         "icon_source": "from Kora"
+    },
+    "Minecraft": {
+        "icon_name": "minecraft",
+        "icon_source": "made from scratch"
+    },
+    "Trenchbroom": {
+        "icon_name": "com.kristianduske.TrenchBroom",
+        "icon_source": "made from scratch"
     }
 }
 

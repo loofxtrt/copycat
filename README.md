@@ -50,6 +50,8 @@ Those packs includes:
 | <img src="./copycat/apps/scalable//org.vinegarhq.Vinegar.svg" width="24"/> Vinegar | made from scratch, then added [this SVG](https://www.svgrepo.com/svg/443560/brand-winehq) on top of it | |
 | <img src="./copycat/apps/scalable//org.vinegarhq.Sober.svg" width="24"/> Sober | made from scratch | |
 | <img src="./copycat/apps/scalable//java21-openjdk.svg" width="24"/> OpenJDK Java 21 Shell | from Kora | |
+| <img src="./copycat/apps/scalable//minecraft.svg" width="24"/> Minecraft | made from scratch | |
+| <img src="./copycat/apps/scalable//com.kristianduske.TrenchBroom.svg" width="24"/> Trenchbroom | made from scratch | |
 
 |  Places | Icon source | Changes | 
  | ---|---|---| 
