@@ -107,7 +107,7 @@ software_rows = {
     "Ark": {
         "icon_name": "ark",
         "icon_source": "from Yosa Max",
-        "changes": "made the gradient more noticeable"
+        "changes": "made the gradient more noticeable and rounded the corners"
     },
     #"Dolphin": {
     #    "icon_name": "dolphin",
