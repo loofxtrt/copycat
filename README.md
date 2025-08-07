@@ -1,8 +1,5 @@
 
-<div style="display: flex; align-items: center;">
-  <img src="./copycat.svg" width="64" alt="Copycat">
-  <h1 style="margin-left: 10px;">Copycat Linux</h1>
-</div>
+<img src="./copycat_banner.svg" alt="Copycat" style="display: block;">
 An icon theme forked from Kora, replacing/modifying a few icons
 
 ## Differences
