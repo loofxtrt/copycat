@@ -4,13 +4,13 @@
    fill-rule="evenodd"
    stroke-linejoin="round"
    stroke-miterlimit="2"
-   viewBox="0 0 100 48"
+   viewBox="0 0 140 48"
    version="1.1"
    id="svg3"
    sodipodi:docname="copycat_banner.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xml:space="preserve"
-   width="100"
+   width="140"
    height="48"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -744,4 +744,4 @@
          y="11.803195"
          id="tspan12"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-           id="tspan11">Copycat</tspan></tspan></text></g></svg>
+           id="tspan11">Copycat Linux</tspan></tspan></text></g></svg>
