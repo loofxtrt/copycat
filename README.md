@@ -1,6 +1,6 @@
 
 <div style="display: flex; align-items: center;">
-  <img src="./copycat.svg" width="64" alt="Copycat">
+  <img src="./copycat.svg" width="64" alt="Copycat" style="display:inline;>
   <h1 style="margin-left: 10px;">Copycat Linux</h1>
 </div>
 An icon theme forked from Kora, replacing/modifying a few icons
