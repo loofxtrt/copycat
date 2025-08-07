@@ -4,13 +4,13 @@
    fill-rule="evenodd"
    stroke-linejoin="round"
    stroke-miterlimit="2"
-   viewBox="0 0 150 48"
+   viewBox="0 0 140 48"
    version="1.1"
    id="svg3"
    sodipodi:docname="copycat_banner.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xml:space="preserve"
-   width="150"
+   width="140"
    height="48"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -640,14 +640,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="5.6568545"
-     inkscape:cx="86.267023"
-     inkscape:cy="19.533824"
+     inkscape:cx="78.665626"
+     inkscape:cy="43.75223"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3" /><linearGradient
+     inkscape:current-layer="g4" /><linearGradient
      id="a"
      x2="1"
      gradientTransform="matrix(0,-43.3022,43.3022,0,315.7641,56.809706)"
@@ -717,7 +717,7 @@
          y="11.803195"
          id="tspan6"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-           id="tspan5">Copycat Linux</tspan></tspan></text><text
+           id="tspan5">Copycat</tspan></tspan></text><text
        xml:space="preserve"
        id="text2"
        style="font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;opacity:1;fill:#838383;fill-opacity:1;stroke:none;stroke-width:0.553;stroke-miterlimit:2"
@@ -726,7 +726,7 @@
          y="11.803195"
          id="tspan8"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-           id="tspan7">Copycat Linux</tspan></tspan></text><text
+           id="tspan7">Copycat</tspan></tspan></text><text
        xml:space="preserve"
        id="text3"
        style="font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;opacity:1;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:0.553;stroke-miterlimit:2"
@@ -735,7 +735,7 @@
          y="11.803195"
          id="tspan10"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-           id="tspan9">Copycat Linux</tspan></tspan></text><text
+           id="tspan9">Copycat</tspan></tspan></text><text
        xml:space="preserve"
        id="text4"
        style="font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.553;stroke-miterlimit:2"
@@ -744,4 +744,4 @@
          y="11.803195"
          id="tspan12"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-           id="tspan11">Copycat Linux</tspan></tspan></text></g></svg>
+           id="tspan11">Copycat</tspan></tspan></text></g></svg>

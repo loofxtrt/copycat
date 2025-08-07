@@ -1,5 +1,5 @@
 
-<img src="./copycat_banner.svg" alt="Copycat" style="display: block;">
+<img src="./copycat_banner.svg" width="256" alt="Copycat" style="display: block;">
 An icon theme forked from Kora, replacing/modifying a few icons
 
 ## Differences
