@@ -101,7 +101,7 @@ software_rows = {
     },
     "btop++": {
         "icon_name": "btop",
-        "icon_source": "partially of Kora",
+        "icon_source": "partially from Kora",
         "changes": "remade btop logo from scratch, used Kora's system monitor background, MoreWaita's btop color"
     },
     "Ark": {
