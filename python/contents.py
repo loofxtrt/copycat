@@ -161,6 +161,10 @@ software_rows = {
     "Trenchbroom": {
         "icon_name": "com.kristianduske.TrenchBroom",
         "icon_source": "made from scratch"
+    },
+    "Librewolf": {
+        "icon_name": "librewolf",
+        "icon_source": "vectorized version of [this Reddit post](https://www.reddit.com/r/LibreWolf/comments/t9c84n/icon_update/)"
     }
 }
 
