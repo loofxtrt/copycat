@@ -785,15 +785,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="6.2734375"
-     inkscape:cx="32.996264"
-     inkscape:cy="39.611457"
+     inkscape:zoom="8.8719804"
+     inkscape:cx="60.358564"
+     inkscape:cy="6.8192216"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="g65" />
   <linearGradient
      id="a"
      x2="1"
@@ -887,5 +887,20 @@
        d="M 32.492148,-5.7563653 59.491986,9.8321022 V 11.040295 L 32.492128,-4.5481711 Z"
        style="display:inline;opacity:1;fill:url(#pattern131);fill-opacity:1;stroke-miterlimit:2"
        transform="matrix(-1,0,0,1,91.49173,43.692002)" />
+    <g
+       id="g7"
+       inkscape:label="shadow hexagon"
+       transform="translate(8.1942243e-4,-1.3371288e-4)">
+      <path
+         id="path5"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.201215;stroke-width:0.577453;stroke-miterlimit:2"
+         d="M 83.760264,2.725635 58.332532,17.40625 v 29.361229 a 6.7563298,6.7563298 0 0 0 3.304901,-0.862894 6.7563298,6.7563298 0 0 0 0.03048,-0.01714 l 0.04381,-0.02476 19.574152,-11.30333 a 6.757231,6.757231 0 0 0 3.379189,-5.769766 6.757231,6.757231 0 0 0 0,-0.08191 V 6.1048241 a 6.7572309,6.7572309 0 0 0 0,-0.081908 6.7572309,6.7572309 0 0 0 -0.904799,-3.2972809 z"
+         transform="matrix(1.0253477,0,0,1.0253477,-27.811128,14.152542)" />
+      <path
+         id="path6"
+         style="display:inline;fill:#000000;fill-opacity:0.305653;stroke-width:0.577453;stroke-miterlimit:2"
+         d="m 58.332532,-11.95498 a 6.75633,6.75633 0 0 0 -3.3049,0.862894 l -0.03048,0.01714 a 6.75633,6.75633 0 0 0 -0.04381,0.02476 L 35.379191,0.25315059 A 6.7572309,6.7572309 0 0 0 32.904801,2.725635 L 58.332532,17.40625 83.760264,2.725635 A 6.7572309,6.7572309 0 0 0 81.285874,0.25315059 L 71.498798,-5.3985146 61.66791,-11.074943 a 6.75633,6.75633 0 0 0 -0.03048,-0.01714 6.75633,6.75633 0 0 0 -3.304901,-0.862894 z"
+         transform="matrix(1.0253477,0,0,1.0253477,-27.811128,14.152542)" />
+    </g>
   </g>
 </svg>
