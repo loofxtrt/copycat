@@ -33,7 +33,7 @@ Those packs includes:
 | <img src="./copycat/apps/scalable//aseprite.svg" width="24"/> Aseprite | made from scratch | |
 | <img src="./copycat/apps/scalable//pureref.svg" width="24"/> PureRef | from Kora | edited SVG to make it darker|
 | <img src="./copycat/apps/scalable//sqlitebrowser.svg" width="24"/> DB Browser for SQLite | made from scratch | |
-| <img src="./copycat/apps/scalable//audacity.svg" width="24"/> Audacity | from Reversal Black | changed colors and shapes|
+| <img src="./copycat/apps/scalable//audacity.svg" width="24"/> Audacity | based on Reversal Black, but made from scratch | changed colors and shapes|
 | <img src="./copycat/apps/scalable//vscodium.svg" width="24"/> VSCodium | [from VSCodium's repository](https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png) | |
 | <img src="./copycat/apps/scalable//AppImageLauncher.svg" width="24"/> AppImageLauncher | Flat Remix | modified colors and shapes|
 | <img src="./copycat/apps/scalable//android-studio.svg" width="24"/> Android Studio | from FairyWren | adjusted colors|

@@ -72,7 +72,7 @@ software_rows = {
     },
     "Audacity": {
         "icon_name": "audacity",
-        "icon_source": "from Reversal Black",
+        "icon_source": "based on Reversal Black, but made from scratch",
         "changes": "changed colors and shapes"
     },
     "VSCodium": {
