@@ -165,6 +165,10 @@ software_rows = {
     "Librewolf": {
         "icon_name": "librewolf",
         "icon_source": "vectorized version of [this Reddit post](https://www.reddit.com/r/LibreWolf/comments/t9c84n/icon_update/)"
+    },
+    "AnimeEffects": {
+        "icon_name": "AnimeEffects",
+        "icon_source": "from [AnimeEffects repository](https://github.com/AnimeEffectsDevs/AnimeEffects)"
     }
 }
 
