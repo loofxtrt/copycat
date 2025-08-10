@@ -53,7 +53,7 @@ Those packs includes:
 | <img src="./copycat/apps/scalable//minecraft.svg" width="24"/> Minecraft | made from scratch | |
 | <img src="./copycat/apps/scalable//com.kristianduske.TrenchBroom.svg" width="24"/> Trenchbroom | made from scratch | |
 | <img src="./copycat/apps/scalable//librewolf.svg" width="24"/> Librewolf | vectorized version of [this Reddit post](https://www.reddit.com/r/LibreWolf/comments/t9c84n/icon_update/) | |
-| <img src="./copycat/apps/scalable//animeEffects.svg" width="24"/> AnimeEffects | from [AnimeEffects repository](https://github.com/AnimeEffectsDevs/AnimeEffects) | |
+| <img src="./copycat/apps/scalable//AnimeEffects.svg" width="24"/> AnimeEffects | vectorized version based on [AnimeEffects repository](https://github.com/AnimeEffectsDevs/AnimeEffects) | |
 
 |  Places | Icon source | Changes | 
  | ---|---|---| 

@@ -168,7 +168,7 @@ software_rows = {
     },
     "AnimeEffects": {
         "icon_name": "AnimeEffects",
-        "icon_source": "from [AnimeEffects repository](https://github.com/AnimeEffectsDevs/AnimeEffects)"
+        "icon_source": "vectorized version based on [AnimeEffects repository](https://github.com/AnimeEffectsDevs/AnimeEffects)"
     }
 }
 
