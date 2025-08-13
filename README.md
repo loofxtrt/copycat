@@ -5,6 +5,8 @@ An icon theme forked from Kora, replacing/modifying a few icons
 ## Differences
 Icons from different packs are included in this repo, **all licensed under the GPL3 license**  
 Those packs includes:  
+[Kora](https://store.kde.org/p/1256209)  
+[Breeze](https://github.com/KDE/breeze-icons)  
 [Marwaita](https://www.gnome-look.org/p/1239855)  
 [MoreWaita](https://www.gnome-look.org/p/2276064)  
 [PlasmaX](https://www.gnome-look.org/p/1367155)  
