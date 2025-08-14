@@ -8,6 +8,7 @@
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -20,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="8.3645834"
-     inkscape:cx="42.919053"
-     inkscape:cy="6.8742216"
+     inkscape:cx="48.657534"
+     inkscape:cy="28.034869"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -33,7 +34,7 @@
      id="g3">
     <path
        d="m61.122 15.88c0-2.762-2.239-5-5-5h-48.244c-2.761 0-5 2.238-5 5v32.246c0 2.761 2.239 5 5 5h48.244c2.761 0 5-2.239 5-5v-32.246z"
-       style="fill:#854aaa;fill-opacity:1"
+       style="fill:#0083d5;fill-opacity:1"
        id="path1" />
     <path
        d="m61.122 20.652c0-1.326-0.527-2.598-1.465-3.536-0.938-0.937-2.209-1.464-3.535-1.464h-25.58c-1.232 0-2.42-0.455-3.337-1.277-0.768-0.689-1.713-1.535-2.481-2.224-0.917-0.822-2.105-1.277-3.337-1.277h-13.509c-1.326 0-2.597 0.527-3.535 1.465-0.938 0.937-1.465 2.209-1.465 3.535v32.252c0 2.761 2.239 5 5 5h48.244c2.761 0 5-2.239 5-5v-27.474z"
@@ -41,7 +42,7 @@
        id="path2" />
     <path
        sodipodi:type="star"
-       style="fill:#5c2881;stroke-width:0.724;stroke-linecap:round;stroke-miterlimit:2;paint-order:stroke markers fill;fill-opacity:1"
+       style="fill:url(#linearGradient2);stroke-width:0.724;stroke-linecap:round;stroke-miterlimit:2;paint-order:stroke markers fill;fill-opacity:1"
        id="path6"
        inkscape:flatsided="true"
        sodipodi:sides="3"
@@ -58,7 +59,7 @@
        inkscape:path-effect="#path-effect6"
        transform="matrix(0.91052792,0,0,0.91052792,18.283016,12.975909)" />
     <path
-       style="clip-rule:evenodd;fill:#5c2881;fill-opacity:1;fill-rule:evenodd;stroke-width:0.724;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;paint-order:stroke markers fill"
+       style="clip-rule:evenodd;fill:url(#linearGradient8);fill-opacity:1;fill-rule:evenodd;stroke-width:0.724;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;paint-order:stroke markers fill"
        id="path11"
        width="3.8256536"
        height="3.5068493"
@@ -72,6 +73,30 @@
   </g>
   <defs
      id="defs6">
+    <linearGradient
+       id="linearGradient9"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0b4f94;stop-opacity:1;"
+         offset="0"
+         id="stop8" />
+      <stop
+         style="stop-color:#126c98;stop-opacity:1;"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0b4f94;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#126c98;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
     <inkscape:path-effect
        effect="mirror_symmetry"
        start_point="31.539739,20.201143"
@@ -154,11 +179,11 @@
        gradientTransform="matrix(2.54933e-15,-41.6338,41.6338,2.54933e-15,897.879,52.7218)"
        gradientUnits="userSpaceOnUse">
       <stop
-         style="stop-color:#904fb7;stop-opacity:1;"
+         style="stop-color:#1075f6;stop-opacity:1;"
          offset="0"
          id="stop3" />
       <stop
-         style="stop-color:#c66af0;stop-opacity:1;"
+         style="stop-color:#12c5ff;stop-opacity:1;"
          offset="1"
          id="stop4" />
     </linearGradient>
@@ -176,5 +201,23 @@
          offset="1"
          id="stop6" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="16.456596"
+       y1="33.039818"
+       x2="16.456596"
+       y2="14.143247"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9"
+       id="linearGradient8"
+       x1="31.539738"
+       y1="62.863766"
+       x2="31.539738"
+       y2="7.0728726"
+       gradientUnits="userSpaceOnUse" />
   </defs>
 </svg>
