@@ -1,264 +1,281 @@
-software_headers = ["Software", "Icon source", "Changes"]
-software_rows = {
-    "Blender": {
+# variáveis de cŕeditos/source
+kora = '<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>'
+breeze = '<a href="https://github.com/KDE/breeze-icons" target="_blank">Breeze</a>'
+marwaita = '<a href="https://www.gnome-look.org/p/1239855" target="_blank">Marwaita</a>'
+more_waita = '<a href="https://www.gnome-look.org/p/2276064" target="_blank">MoreWaita</a>'
+plasma_x = '<a href="https://www.gnome-look.org/p/1367155" target="_blank">PlasmaX</a>'
+infinity = '<a href="https://www.gnome-look.org/p/2112373" target="_blank">Infinity</a>'
+reversal = '<a href="https://www.gnome-look.org/p/1340791" target="_blank">Reversal</a>'
+flat_remix = '<a href="https://store.kde.org/p/1012430" target="_blank">Flat Remix</a>'
+fairy_wren = '<a href="https://www.gnome-look.org/p/1684521" target="_blank">FairyWren</a>'
+yosa_max = '<a href="https://www.gnome-look.org/p/1196255/" target="_blank">Yosa Max</a>'
+scratch = "made from scratch"
+
+SOFTWARE_ROWS = [
+    {
+        "display_name": "Blender",
         "icon_name": "blender",
         "icon_source": "original Blender SVG",
-        "changes": "added a subtle gradient"
+        "icon_changes": "added a subtle gradient"
     },
-    "Godot": {
+    {
+        "display_name": "Godot",
         "icon_name": "godot",
-        "icon_source": "from PlasmaX",
-        "changes": "edited SVG to make the tones match"
+        "icon_source": plasma_x,
+        "icon_changes": "edited SVG to make the tones match"
     },
-    "Inkscape": {
+    {
+        "display_name": "Inkscape",
         "icon_name": "inkscape",
-        "icon_source": "from PlasmaX",
-        "changes": "edited SVG to make it darker"
+        "icon_source": plasma_x,
+        "icon_changes": "edited SVG to make it darker"
     },
-    "Krita": {
+    {
+        "display_name": "Krita",
         "icon_name": "krita",
-        "icon_source": "from Marwaita"
+        "icon_source": marwaita
     },
-    "Spotify": {
+    {
+        "display_name": "Spotify",
         "icon_name": "spotify-client",
-        "icon_source": "from Marwaita",
-        "changes": "added a subtle gradient"
+        "icon_source": marwaita,
+        "icon_changes": "added a subtle gradient"
     },
-    "Discord": {
+    {
+        "display_name": "Discord",
         "icon_name": "discord",
-        "icon_source": "from Kora",
-        "changes": "edited SVG to make the color closer to the official Discord burple"
+        "icon_source": kora,
+        "icon_changes": "edited SVG to make the color closer to the official Discord burple"
     },
-    "Discord Canary": {
+    {
+        "display_name": "Discord Canary",
         "icon_name": "discord-canary",
-        "icon_source": "from Kora",
-        "changes": "background shape changed to be like regular Discord"
+        "icon_source": kora,
+        "icon_changes": "background shape changed to be like regular Discord"
     },
-    "Discord Development": {
+    {
+        "display_name": "Discord Development",
         "icon_name": "discord-development",
-        "icon_source": "from Kora",
-        "changes": "modified to match size and style of other Discord variants"
+        "icon_source": kora,
+        "icon_changes": "modified to match size and style of other Discord variants"
     },
-    "GIMP": {
+    {
+        "display_name": "GIMP",
         "icon_name": "gimp",
-        "icon_source": "from KDE's Breeze Dark",
-        "changes": "edited SVG to make it bigger"
+        "icon_source": breeze,
+        "icon_changes": "edited SVG to make it bigger"
     },
-    "Steam": {
+    {
+        "display_name": "Steam",
         "icon_name": "steam",
-        "icon_source": "from Marwaita"
+        "icon_source": marwaita
     },
-    "OBS": {
+    {
+        "display_name": "OBS",
         "icon_name": "obs",
-        "icon_source": "from Kora",
-        "changes": "edited SVG to make it darker"
+        "icon_source": kora,
+        "icon_changes": "edited SVG to make it darker"
     },
-    "Libresprite": {
+    {
+        "display_name": "Libresprite",
         "icon_name": "libresprite",
-        "icon_source": "made from scratch"
+        "icon_source": scratch
     },
-    "Aseprite": {
+    {
+        "display_name": "Aseprite",
         "icon_name": "aseprite",
-        "icon_source": "made from scratch"
+        "icon_source": scratch
     },
-    "PureRef": {
+    {
+        "display_name": "PureRef",
         "icon_name": "pureref",
-        "icon_source": "from Kora",
-        "changes": "edited SVG to make it darker"
+        "icon_source": kora,
+        "icon_changes": "edited SVG to make it darker"
     },
-    "DB Browser for SQLite": {
+    {
+        "display_name": "DB Browser for SQLite",
         "icon_name": "sqlitebrowser",
-        "icon_source": "made from scratch"
+        "icon_source": scratch
     },
-    "Audacity": {
+    {
+        "display_name": "Audacity",
         "icon_name": "audacity",
-        "icon_source": "based on Reversal Black, but made from scratch",
-        "changes": "changed colors and shapes"
+        "icon_source": f"based on {reversal}, but made from scratch",
+        "icon_changes": "changed colors and shapes"
     },
-    "VSCodium": {
+    {
+        "display_name": "VSCodium",
         "icon_name": "vscodium",
-        "icon_source": "[from VSCodium's repository](https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png)"
+        "icon_source": '<a href="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png">from VSCodium\'s repository</a>'
     },
-    "AppImageLauncher": {
+    {
+        "display_name": "AppImageLauncher",
         "icon_name": "AppImageLauncher",
-        "icon_source": "Flat Remix",
-        "changes": "modified colors and shapes"
+        "icon_source": flat_remix,
+        "icon_changes": "modified colors and shapes"
     },
-    "Android Studio": {
+    {
+        "display_name": "Android Studio",
         "icon_name": "android-studio",
-        "icon_source": "from FairyWren",
-        "changes": "adjusted colors"
+        "icon_source": fairy_wren,
+        "icon_changes": "adjusted colors"
     },
-    "Android Studio Beta": {
-        "icon_name": "android-studio-beta",
-        "icon_source": "from FairyWren",
-        "changes": "adjusted colors"
-    },
-    "Android Studio Canary": {
+    # {
+    #     "display_name": "Android Studio Beta",
+    #     "icon_name": "android-studio-beta",
+    #     "icon_source": fairy_wren,
+    #     "icon_changes": "adjusted colors"
+    # },
+    {
+        "display_name": "Android Studio Canary",
         "icon_name": "android-studio-canary",
-        "icon_source": "from FairyWren",
-        "changes": "adjusted colors"
+        "icon_source": fairy_wren,
+        "icon_changes": "adjusted colors"
     },
-    "btop++": {
+    {
+        "display_name": "btop++",
         "icon_name": "btop",
-        "icon_source": "partially from Kora",
-        "changes": "remade btop logo from scratch, used Kora's system monitor background, MoreWaita's btop color"
+        "icon_source": f"partially from {kora}",
+        "icon_changes": "remade btop logo from scratch, used Kora's system monitor background, MoreWaita's btop color"
     },
-    "Ark": {
+    {
+        "display_name": "Ark",
         "icon_name": "ark",
-        "icon_source": "from Yosa Max",
-        "changes": "made the gradient more noticeable and rounded the corners"
+        "icon_source": yosa_max,
+        "icon_changes": "made the gradient more noticeable and rounded the corners"
     },
-    #"Dolphin": {
-    #    "icon_name": "dolphin",
-    #    "icon_source": "from Kora",
-    #    "changes": "added [this dolphin silhouette](https://www.svgrepo.com/svg/481342/dolphin-3)"
-    #},
-    "GitHub Desktop": {
+    {
+        "display_name": "GitHub Desktop",
         "icon_name": "appimagekit-github-desktop",
-        "icon_source": "from Kora",
-        "changes": "adjusted colors"
+        "icon_source": kora,
+        "icon_changes": "adjusted colors"
     },
-    "Color Picker": {
+    {
+        "display_name": "Color Picker",
         "icon_name": "nl.hjdskes.gcolor3",
-        "icon_source": "from Marwaita and Yosa Max",
-        "changes": "used Marwaita's color picker background and Yosa Max drop symbol"
+        "icon_source": f"{marwaita} and {yosa_max}",
+        "icon_changes": "used Marwaita's color picker background and Yosa Max drop symbol"
     },
-    "Kvantum": {
+    {
+        "display_name": "Kvantum",
         "icon_name": "kvantum",
-        "icon_source": "from Kora",
-        "changes": "switched the colors to Marwaita's Kvantum icon"
+        "icon_source": kora,
+        "icon_changes": "switched the colors to Marwaita's Kvantum icon"
     },
-    "CMake": {
+    {
+        "display_name": "CMake",
         "icon_name": "cmake",
-        "icon_source": "from Kora",
-        "changes": "removed background and added gradients"
+        "icon_source": kora,
+        "icon_changes": "removed background and added gradients"
     },
-    "Roblox": {
+    {
+        "display_name": "Roblox",
         "icon_name": "grapejuice-roblox-player",
-        "icon_source": "made from scratch"
+        "icon_source": scratch
     },
-    "Roblox Studio": {
+    {
+        "display_name": "Roblox Studio",
         "icon_name": "org.vinegarhq.Vinegar.studio",
-        "icon_source": "made from scratch"
+        "icon_source": scratch
     },
-    "Vinegar": {
+    {
+        "display_name": "Vinegar",
         "icon_name": "org.vinegarhq.Vinegar",
-        "icon_source": "made from scratch, then added [this SVG](https://www.svgrepo.com/svg/443560/brand-winehq) on top of it"
+        "icon_source": 'made from scratch, then added <a href="https://www.svgrepo.com/svg/443560/brand-winehq">this SVG</a> on top of it' 
     },
-    "Sober": {
+    {
+        "display_name": "Sober",
         "icon_name": "org.vinegarhq.Sober",
-        "icon_source": "made from scratch"
+        "icon_source": scratch
     },
-    "OpenJDK Java 21 Shell": {
+    {
+        "display_name": "OpenJDK Java 21 Shell",
         "icon_name": "java21-openjdk",
-        "icon_source": "from Kora"
+        "icon_source": kora
     },
-    "Minecraft": {
+    {
+        "display_name": "Minecraft",
         "icon_name": "minecraft",
-        "icon_source": "made from scratch"
+        "icon_source": scratch
     },
-    "Trenchbroom": {
+    {
+        "display_name": "Trenchbroom",
         "icon_name": "com.kristianduske.TrenchBroom",
-        "icon_source": "made from scratch"
+        "icon_source": scratch
     },
-    "Librewolf": {
+    {
+        "display_name": "Librewolf",
         "icon_name": "librewolf",
-        "icon_source": "vectorized version of [this Reddit post](https://www.reddit.com/r/LibreWolf/comments/t9c84n/icon_update/)"
+        "icon_source": 'vectorized version of <a href="https://www.reddit.com/r/LibreWolf/comments/t9c84n/icon_update/">this Reddit post</a>'
     },
-    "AnimeEffects": {
+    {
+        "display_name": "AnimeEffects",
         "icon_name": "AnimeEffects",
-        "icon_source": "vectorized version based on [AnimeEffects repository](https://github.com/AnimeEffectsDevs/AnimeEffects)"
+        "icon_source": 'vectorized version based on <a href="https://github.com/AnimeEffectsDevs/AnimeEffects">AnimeEffects repository</a>'
     }
-}
+]
 
-places_headers = ["Places", "Icon source", "Changes"]
-places_rows = {
-    #"Home": {
-    #    "icon_name": "user-home",
-    #    "icon_source": "from Kora",
-    #    "changes": "added an additional gradient"
-    #},
-    "Desktop": {
+PLACES_ROWS = [
+    {
+        "display_name": "Desktop",
         "icon_name": "user-desktop",
-        "icon_source": "from Kora",
-        "changes": "added a taskbar and icons"
+        "icon_source": kora,
+        "icon_changes": "added a taskbar and icons"
     },
-    "Documents": {
+    {
+        "display_name": "Documents",
         "icon_name": "folder-documents",
-        "icon_source": "from Kora",
-        "changes": "added Kora's clip icon to it"
+        "icon_source": kora,
+        "icon_changes": "added Kora's clip icon to it"
     },
-    "Downloads": {
+    {
+        "display_name": "Downloads",
         "icon_name": "folder-download",
-        "icon_source": "from Kora",
-        "changes": "changed colors"
+        "icon_source": kora,
+        "icon_changes": "changed colors"
     },
-    "Music": {
+    {
+        "display_name": "Music",
         "icon_name": "folder-music",
-        "icon_source": "from Kora",
-        "changes": "changed colors"
+        "icon_source": kora,
+        "icon_changes": "changed colors"
     },
-    "Music (open)": {
-        "icon_name": "folder-music-open",
-        "icon_source": "from Kora",
-        "changes": "changed colors"
-    },
-    "Pictures": {
+    # {
+    #     "display_name": "Music (open)",
+    #     "icon_name": "folder-music-open",
+    #     "icon_source": kora,
+    #     "icon_changes": "changed colors"
+    # },
+    {
+        "display_name": "Pictures",
         "icon_name": "folder-pictures",
-        "icon_source": "from Kora",
-        "changes": "changed colors"
+        "icon_source": kora,
+        "icon_changes": "changed colors"
     },
-    "Pictures (open)": {
-        "icon_name": "folder-pictures-open",
-        "icon_source": "from Kora",
-        "changes": "changed colors"
-    },
-    "Videos": {
+    # {
+    #     "display_name": "Pictures (open)",
+    #     "icon_name": "folder-pictures-open",
+    #     "icon_source": kora,
+    #     "icon_changes": "changed colors"
+    # },
+    {
+        "display_name": "Videos",
         "icon_name": "folder-videos",
-        "icon_source": "from Kora",
-        "changes": "changed icon to a play button and added details"
+        "icon_source": kora,
+        "icon_changes": "changed icon to a play button and added details"
     }
-}
+]
 
-first_chunk = """
-<img src="./copycat_banner.svg" width="256" alt="Copycat" style="display: block;">
-An icon theme forked from Kora, replacing/modifying a few icons
-
-## Differences
-Icons from different packs are included in this repo, **all licensed under the GPL3 license**  
-Those packs includes:  
-[Kora](https://store.kde.org/p/1256209)  
-[Breeze](https://github.com/KDE/breeze-icons)  
-[Marwaita](https://www.gnome-look.org/p/1239855)  
-[MoreWaita](https://www.gnome-look.org/p/2276064)  
-[PlasmaX](https://www.gnome-look.org/p/1367155)  
-[Infinity](https://www.gnome-look.org/p/2112373)  
-[Reversal](https://www.gnome-look.org/p/1340791)  
-[Flat Remix](https://store.kde.org/p/1012430)  
-[FairyWren](https://www.gnome-look.org/p/1684521)  
-[Yosa Max](https://www.gnome-look.org/p/1196255/)  
-
-### Major changes
-"""
-
-last_chunk = """
-### Other changes
-- <img src="./copycat/apps/scalable/systemsettings.svg" width="24"/> Settings-related icons have also been remade based on a fusion of Infinity's + Reversal's gear icon
-- <img src="./copycat/apps/scalable/endeavouros.svg" width="24"/> EndeavourOS (original Endeavour SVG)
-
-## License
-[GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
-"""
-
-# DESCARTADO
-# ### Manual changes
-# Some specific app icons have to be changed manually to match the theme. Those includes:
-# - <img src="./manual/roblox.svg" width="24"/> Roblox Player
-# - <img src="./manual/roblox-studio.svg" width="24"/> Roblox Studio
-# - <img src="./manual/sober.svg" width="24"/> Sober
-# - <img src="./manual/vinegar.svg" width="24"/> Vinegar  
-
-# All Roblox-related icons are based off the original Sober and Vinegar SVGs
-
-# - <img src="./copycat/apps/scalable/computer-log-out.svg" width="24"/> Symbolic icons have been modified/replaced
+OTHERS_ROWS = [
+    {
+        "display_name": "Settings",
+        "icon_name": "systemsettings",
+        "icon_source": f"{infinity} and {reversal}",
+        "icon_changes": f"remade based on a fusion of Infinity's + Reversal' gear icon"
+    },
+    {
+        "display_name": "EndeavourOS",
+        "icon_name": "endeavouros",
+        "icon_source": "original EndeavourOS SVG"
+    }
+]
