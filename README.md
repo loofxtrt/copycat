@@ -1,6 +1,6 @@
 
 <img src="./copycat_banner.svg" width="256" alt="Copycat" style="display: block;">
-An icon theme forked from Kora, replacing/modifying a few icons
+An icon theme forked from Kora, replacing/modifying a few icons while trying to make them more accurate to the original software logo's colors and shapes
   
 ![Static Badge](https://img.shields.io/badge/tar.gz-download_icon_pack-yellow)
   
