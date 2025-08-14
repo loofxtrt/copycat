@@ -228,30 +228,30 @@ PLACES_ROWS = [
         "icon_source": kora,
         "icon_changes": "added Kora's clip icon to it"
     },
-    {
-        "display_name": "Downloads",
-        "icon_name": "folder-download",
-        "icon_source": kora,
-        "icon_changes": "changed colors"
-    },
-    {
-        "display_name": "Music",
-        "icon_name": "folder-music",
-        "icon_source": kora,
-        "icon_changes": "changed colors"
-    },
+    # {
+    #     "display_name": "Downloads",
+    #     "icon_name": "folder-download",
+    #     "icon_source": kora,
+    #     "icon_changes": "changed colors"
+    # },
+    # {
+    #     "display_name": "Music",
+    #     "icon_name": "folder-music",
+    #     "icon_source": kora,
+    #     "icon_changes": "changed colors"
+    # },
     # {
     #     "display_name": "Music (open)",
     #     "icon_name": "folder-music-open",
     #     "icon_source": kora,
     #     "icon_changes": "changed colors"
     # },
-    {
-        "display_name": "Pictures",
-        "icon_name": "folder-pictures",
-        "icon_source": kora,
-        "icon_changes": "changed colors"
-    },
+    # {
+    #     "display_name": "Pictures",
+    #     "icon_name": "folder-pictures",
+    #     "icon_source": kora,
+    #     "icon_changes": "changed colors"
+    # },
     # {
     #     "display_name": "Pictures (open)",
     #     "icon_name": "folder-pictures-open",

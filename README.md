@@ -393,36 +393,6 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-download.svg" width="24"/>
-				 Downloads
-			</td>
-			<td>
-				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
-			</td>
-			<td>changed colors</td>
-		</tr>
-		<tr>
-			<td>
-				<img src="./copycat/places/scalable/folder-music.svg" width="24"/>
-				 Music
-			</td>
-			<td>
-				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
-			</td>
-			<td>changed colors</td>
-		</tr>
-		<tr>
-			<td>
-				<img src="./copycat/places/scalable/folder-pictures.svg" width="24"/>
-				 Pictures
-			</td>
-			<td>
-				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
-			</td>
-			<td>changed colors</td>
-		</tr>
-		<tr>
-			<td>
 				<img src="./copycat/places/scalable/folder-videos.svg" width="24"/>
 				 Videos
 			</td>
