@@ -232,7 +232,7 @@ Those packs includes:
 			<td>
 				<a href="https://www.gnome-look.org/p/1196255/" target="_blank">Yosa Max</a>
 			</td>
-			<td>made the gradient more noticeable and rounded the corners</td>
+			<td>made the gradient more noticeable, rounded the corners and replaced the original zipper with Kora's zipper (from the application-x-sogouskin icon)</td>
 		</tr>
 		<tr>
 			<td>
@@ -360,6 +360,14 @@ Those packs includes:
 			</td>
 			<td/>
 		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/apps/scalable/protoncalendar.svg" width="24"/>
+				 Proton Calendar
+			</td>
+			<td>removed background to match other Proton applications</td>
+			<td/>
+		</tr>
 	</table>
 </details>
 <?xml version="1.0" ?>
@@ -400,6 +408,27 @@ Those packs includes:
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
 			<td>changed icon to a play button and added details</td>
+		</tr>
+	</table>
+</details>
+<?xml version="1.0" ?>
+<details>
+	<summary>Mimetypes (click to expand)</summary>
+	<table border="1" width="100%">
+		<tr>
+			<th>Icon</th>
+			<th>Source</th>
+			<th>Changes</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/mimetypes/scalable/zip.svg" width="24"/>
+				 Zipped file
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>fused the original zip icon with application-x-sogouskin.svg, and adjusted colors to match Ark</td>
 		</tr>
 	</table>
 </details>

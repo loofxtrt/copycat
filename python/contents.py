@@ -142,7 +142,7 @@ SOFTWARE_ROWS = [
         "display_name": "Ark",
         "icon_name": "ark",
         "icon_source": yosa_max,
-        "icon_changes": "made the gradient more noticeable and rounded the corners"
+        "icon_changes": "made the gradient more noticeable, rounded the corners and replaced the original zipper with Kora's zipper (from the application-x-sogouskin icon)"
     },
     {
         "display_name": "GitHub Desktop",
@@ -212,6 +212,11 @@ SOFTWARE_ROWS = [
         "display_name": "AnimeEffects",
         "icon_name": "AnimeEffects",
         "icon_source": 'vectorized version based on <a href="https://github.com/AnimeEffectsDevs/AnimeEffects">AnimeEffects repository</a>'
+    },
+    {
+        "display_name": "Proton Calendar",
+        "icon_name": "protoncalendar",
+        "icon_source": 'removed background to match other Proton applications'
     }
 ]
 
@@ -263,6 +268,15 @@ PLACES_ROWS = [
         "icon_name": "folder-videos",
         "icon_source": kora,
         "icon_changes": "changed icon to a play button and added details"
+    }
+]
+
+MIMETYPES_ROWS = [
+    {
+        "display_name": "Zipped file",
+        "icon_name": "zip",
+        "icon_source": kora,
+        "icon_changes": "fused the original zip icon with application-x-sogouskin.svg, and adjusted colors to match Ark"
     }
 ]
 

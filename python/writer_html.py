@@ -64,6 +64,7 @@ Those packs includes:
 
     software_table = create_table(contents.SOFTWARE_ROWS, "./copycat/apps/scalable", "Software")
     places_table = create_table(contents.PLACES_ROWS, "./copycat/places/scalable", "Places")
+    mimetypes_table = create_table(contents.MIMETYPES_ROWS, "./copycat/mimetypes/scalable", "Mimetypes")
     others_table = create_table(contents.OTHERS_ROWS, "./copycat/apps/scalable", "Others")
 
     last_chunk = """
@@ -71,7 +72,7 @@ Those packs includes:
 [GPL3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
 """
 
-    condensed = first_chunk + software_table + places_table + others_table + last_chunk
+    condensed = first_chunk + software_table + places_table + mimetypes_table + others_table + last_chunk
 
     with open("README.md", "w") as f:
         f.write(condensed)
