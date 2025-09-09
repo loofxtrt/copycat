@@ -268,6 +268,42 @@ PLACES_ROWS = [
         "icon_name": "folder-videos",
         "icon_source": kora,
         "icon_changes": "changed icon to a play button and added details"
+    },
+    {
+        "display_name": "Books",
+        "icon_name": "folder-books",
+        "icon_source": kora,
+        "icon_changes": "standardized gradient"
+    },
+    {
+        "display_name": "Wine",
+        "icon_name": "folder-wine",
+        "icon_source": kora,
+        "icon_changes": "standardized gradient"
+    },
+    {
+        "display_name": "Public",
+        "icon_name": "folder-publicshare",
+        "icon_source": f'{kora} and <a href="https://www.svgrepo.com/svg/451439/walking">this stickman</a>',
+        "icon_changes": 'changed the symbol to a stickman from SVG Repo'
+    },
+    {
+        "display_name": "Locked",
+        "icon_name": "folder-locked",
+        "icon_source": kora,
+        "icon_changes": "standardized gradient"
+    },
+    {
+        "display_name": "Unlocked",
+        "icon_name": "folder-unlocked",
+        "icon_source": kora,
+        "icon_changes": "standardized gradient"
+    },
+    {
+        "display_name": "User share",
+        "icon_name": "user-share",
+        "icon_source": kora,
+        "icon_changes": "changed symbol from white to dark blue to match other folder icons"
     }
 ]
 

@@ -409,6 +409,68 @@ Those packs includes:
 			</td>
 			<td>changed icon to a play button and added details</td>
 		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-books.svg" width="24"/>
+				 Books
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>standardized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-wine.svg" width="24"/>
+				 Wine
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>standardized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-publicshare.svg" width="24"/>
+				 Public
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+				 and 
+				<a href="https://www.svgrepo.com/svg/451439/walking">this stickman</a>
+			</td>
+			<td>changed the symbol to a stickman from SVG Repo</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-locked.svg" width="24"/>
+				 Locked
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>standardized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-unlocked.svg" width="24"/>
+				 Unlocked
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>standardized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/user-share.svg" width="24"/>
+				 User share
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>changed symbol from white to dark blue to match other folder icons</td>
+		</tr>
 	</table>
 </details>
 <?xml version="1.0" ?>
