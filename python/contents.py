@@ -309,11 +309,24 @@ PLACES_ROWS = [
 
 MIMETYPES_ROWS = [
     {
-        "display_name": "Zipped file",
+        "display_name": "Zipped",
         "icon_name": "zip",
         "icon_source": kora,
         "icon_changes": "fused the original zip icon with application-x-sogouskin.svg, and adjusted colors to match Ark"
+    },
+    {
+        "display_name": "Kotlin",
+        "icon_name": "text-x-kotlin",
+        "icon_source": f'{kora} and <a href="https://commons.wikimedia.org/wiki/File:Kotlin_icon_(2021-present).svg">Wikimedia</a>',
+        "icon_changes": "updated the symbol to the new Kotlin logo and applied the colors of its gradient"
+    },
+    {
+        "display_name": "Rust",
+        "icon_name": "text-rust",
+        "icon_source": f'{kora} and <a href="https://commons.wikimedia.org/wiki/File:Kotlin_icon_(2021-present).svg">the original Rust SVG</a>',
+        "icon_changes": "changed the 'RS' text to the Rust symbol (without the gear)"
     }
+
 ]
 
 OTHERS_ROWS = [

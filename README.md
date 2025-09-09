@@ -485,12 +485,36 @@ Those packs includes:
 		<tr>
 			<td>
 				<img src="./copycat/mimetypes/scalable/zip.svg" width="24"/>
-				 Zipped file
+				 Zipped
 			</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
 			<td>fused the original zip icon with application-x-sogouskin.svg, and adjusted colors to match Ark</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/mimetypes/scalable/text-x-kotlin.svg" width="24"/>
+				 Kotlin
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+				 and 
+				<a href="https://commons.wikimedia.org/wiki/File:Kotlin_icon_(2021-present).svg">Wikimedia</a>
+			</td>
+			<td>updated the symbol to the new Kotlin logo and applied the colors of its gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/mimetypes/scalable/text-rust.svg" width="24"/>
+				 Rust
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+				 and 
+				<a href="https://commons.wikimedia.org/wiki/File:Kotlin_icon_(2021-present).svg">the original Rust SVG</a>
+			</td>
+			<td>changed the 'RS' text to the Rust symbol (without the gear)</td>
 		</tr>
 	</table>
 </details>
