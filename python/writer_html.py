@@ -65,7 +65,7 @@ Small inconsistencies in the gradients on folder icons were also normalized to b
 ## Credits
 Icons from different packs are included in this repo, **all licensed under the GPL3 license**  
 Those packs includes:  
-[Kora](https://store.kde.org/p/1256209), [Breeze](https://github.com/KDE/breeze-icons), [Marwaita](https://www.gnome-look.org/p/1239855), [MoreWaita](https://www.gnome-look.org/p/2276064), [PlasmaX](https://www.gnome-look.org/p/1367155), [Infinity](https://www.gnome-look.org/p/2112373), [Reversal](https://www.gnome-look.org/p/1340791), [Flat Remix](https://store.kde.org/p/1012430), [FairyWren](https://www.gnome-look.org/p/1684521), [Yosa Max](https://www.gnome-look.org/p/1196255/)  
+[Kora](https://store.kde.org/p/1256209), [Breeze](https://github.com/KDE/breeze-icons), [Marwaita](https://www.gnome-look.org/p/1239855), [MoreWaita](https://www.gnome-look.org/p/2276064), [PlasmaX](https://www.gnome-look.org/p/1367155), [Infinity](https://www.gnome-look.org/p/2112373), [Reversal](https://www.gnome-look.org/p/1340791), [Flat Remix](https://store.kde.org/p/1012430), [FairyWren](https://www.gnome-look.org/p/1684521), [Yosa Max](https://www.gnome-look.org/p/1196255/), [Papirus](https://www.gnome-look.org/p/1166289/)  
   
 ## Major differences  
 """
