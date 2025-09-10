@@ -233,53 +233,35 @@ PLACES_ROWS = [
         "icon_source": kora,
         "icon_changes": "added Kora's clip icon to it"
     },
-    # {
-    #     "display_name": "Downloads",
-    #     "icon_name": "folder-download",
-    #     "icon_source": kora,
-    #     "icon_changes": "changed colors"
-    # },
-    # {
-    #     "display_name": "Music",
-    #     "icon_name": "folder-music",
-    #     "icon_source": kora,
-    #     "icon_changes": "changed colors"
-    # },
-    # {
-    #     "display_name": "Music (open)",
-    #     "icon_name": "folder-music-open",
-    #     "icon_source": kora,
-    #     "icon_changes": "changed colors"
-    # },
-    # {
-    #     "display_name": "Pictures",
-    #     "icon_name": "folder-pictures",
-    #     "icon_source": kora,
-    #     "icon_changes": "changed colors"
-    # },
-    # {
-    #     "display_name": "Pictures (open)",
-    #     "icon_name": "folder-pictures-open",
-    #     "icon_source": kora,
-    #     "icon_changes": "changed colors"
-    # },
+    {
+        "display_name": "Music",
+        "icon_name": "folder-music",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Music (open)",
+        "icon_name": "folder-music-open",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Pictures",
+        "icon_name": "folder-pictures",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Pictures (open)",
+        "icon_name": "folder-pictures-open",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
     {
         "display_name": "Videos",
         "icon_name": "folder-videos",
         "icon_source": kora,
         "icon_changes": "changed icon to a play button and added details"
-    },
-    {
-        "display_name": "Books",
-        "icon_name": "folder-books",
-        "icon_source": kora,
-        "icon_changes": "standardized gradient"
-    },
-    {
-        "display_name": "Wine",
-        "icon_name": "folder-wine",
-        "icon_source": kora,
-        "icon_changes": "standardized gradient"
     },
     {
         "display_name": "Public",
@@ -288,22 +270,223 @@ PLACES_ROWS = [
         "icon_changes": 'changed the symbol to a stickman from SVG Repo'
     },
     {
-        "display_name": "Locked",
-        "icon_name": "folder-locked",
+        "display_name": "Public (open)",
+        "icon_name": "folder-publicshare-open",
         "icon_source": kora,
-        "icon_changes": "standardized gradient"
-    },
-    {
-        "display_name": "Unlocked",
-        "icon_name": "folder-unlocked",
-        "icon_source": kora,
-        "icon_changes": "standardized gradient"
+        "icon_changes": "same as above"
     },
     {
         "display_name": "User share",
         "icon_name": "user-share",
         "icon_source": kora,
-        "icon_changes": "changed symbol from white to dark blue to match other folder icons"
+        "icon_changes": "changed the symbol color from white to dark blue to match other folder icons"
+    },
+
+    # a partir daqui, só normalização de gradiente
+
+    {
+        "display_name": "Books",
+        "icon_name": "folder-books",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Wine",
+        "icon_name": "folder-wine",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "HTML",
+        "icon_name": "folder-html",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Locked",
+        "icon_name": "folder-locked",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Unlocked",
+        "icon_name": "folder-unlocked",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "3DPrint",
+        "icon_name": "folder-3dprint",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Add",
+        "icon_name": "folder-add",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Android",
+        "icon_name": "folder-android",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Applications",
+        "icon_name": "folder-applications",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Arduino",
+        "icon_name": "folder-arduino",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Backup",
+        "icon_name": "folder-backup",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "CD",
+        "icon_name": "folder-cd",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Copy Cloud",
+        "icon_name": "folder-copy-cloud",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Development",
+        "icon_name": "folder-development",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Dropbox",
+        "icon_name": "folder-dropbox",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Favorites",
+        "icon_name": "folder-favorites",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "GDrive",
+        "icon_name": "folder-gdrive",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Go",
+        "icon_name": "folder-go",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Image people",
+        "icon_name": "folder-image-people",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "KDE",
+        "icon_name": "folder-kde",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Linux",
+        "icon_name": "folder-linux",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Megasync",
+        "icon_name": "folder-megasync",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Nextcloud",
+        "icon_name": "folder-nextcloud",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Owncloud",
+        "icon_name": "folder-owncloud",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Projects",
+        "icon_name": "folder-projects",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Recent",
+        "icon_name": "folder-recent",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Root",
+        "icon_name": "folder-root",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Saved search",
+        "icon_name": "folder-saved-search",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Script",
+        "icon_name": "folder-script",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Snap",
+        "icon_name": "folder-snap",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Sync",
+        "icon_name": "folder-sync",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "Syncthing",
+        "icon_name": "folder-syncthing",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "System",
+        "icon_name": "folder-system",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
+        "display_name": "VBox",
+        "icon_name": "folder-vbox",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
     }
 ]
 

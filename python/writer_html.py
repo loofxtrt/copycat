@@ -52,7 +52,15 @@ def main():
 <img src="./copycat_banner.svg" width="256" alt="Copycat" style="display: block;">
 An icon theme forked from Kora, replacing/modifying a few icons while trying to make them more accurate to the original software logo's colors and shapes
   
+Small inconsistencies in the gradients on folder icons were also normalized to be exactly the same tone
+  
 ![Static Badge](https://img.shields.io/badge/tar.gz-download_icon_pack-yellow)
+  
+## Conventions and rules  
+- the default (blue) folders should follow the standard:
+    - #0083d5 solid color for the background
+    - #1075f6 -> #12c5ff gradient for the folder itself
+    - #126c98ff -> #0b4f94ff for the symbol on top of the folder (if present)
   
 ## Credits
 Icons from different packs are included in this repo, **all licensed under the GPL3 license**  

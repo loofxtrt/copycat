@@ -2,7 +2,15 @@
 <img src="./copycat_banner.svg" width="256" alt="Copycat" style="display: block;">
 An icon theme forked from Kora, replacing/modifying a few icons while trying to make them more accurate to the original software logo's colors and shapes
   
+Small inconsistencies in the gradients on folder icons were also normalized to be exactly the same tone
+
 ![Static Badge](https://img.shields.io/badge/tar.gz-download_icon_pack-yellow)
+  
+## Conventions and rules  
+- the default (blue) folders should follow the standard:
+    - #0083d5 solid color for the background
+    - #1075f6 -> #12c5ff gradient for the folder itself
+    - #126c98ff -> #0b4f94ff for the symbol on top of the folder (if present)
   
 ## Credits
 Icons from different packs are included in this repo, **all licensed under the GPL3 license**  
@@ -401,6 +409,46 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
+				<img src="./copycat/places/scalable/folder-music.svg" width="24"/>
+				 Music
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-music-open.svg" width="24"/>
+				 Music (open)
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-pictures.svg" width="24"/>
+				 Pictures
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-pictures-open.svg" width="24"/>
+				 Pictures (open)
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
 				<img src="./copycat/places/scalable/folder-videos.svg" width="24"/>
 				 Videos
 			</td>
@@ -408,26 +456,6 @@ Those packs includes:
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
 			<td>changed icon to a play button and added details</td>
-		</tr>
-		<tr>
-			<td>
-				<img src="./copycat/places/scalable/folder-books.svg" width="24"/>
-				 Books
-			</td>
-			<td>
-				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
-			</td>
-			<td>standardized gradient</td>
-		</tr>
-		<tr>
-			<td>
-				<img src="./copycat/places/scalable/folder-wine.svg" width="24"/>
-				 Wine
-			</td>
-			<td>
-				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
-			</td>
-			<td>standardized gradient</td>
 		</tr>
 		<tr>
 			<td>
@@ -443,23 +471,13 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-locked.svg" width="24"/>
-				 Locked
+				<img src="./copycat/places/scalable/folder-publicshare-open.svg" width="24"/>
+				 Public (open)
 			</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
-			<td>standardized gradient</td>
-		</tr>
-		<tr>
-			<td>
-				<img src="./copycat/places/scalable/folder-unlocked.svg" width="24"/>
-				 Unlocked
-			</td>
-			<td>
-				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
-			</td>
-			<td>standardized gradient</td>
+			<td>same as above</td>
 		</tr>
 		<tr>
 			<td>
@@ -469,7 +487,347 @@ Those packs includes:
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
-			<td>changed symbol from white to dark blue to match other folder icons</td>
+			<td>changed the symbol color from white to dark blue to match other folder icons</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-books.svg" width="24"/>
+				 Books
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-wine.svg" width="24"/>
+				 Wine
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-html.svg" width="24"/>
+				 HTML
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-locked.svg" width="24"/>
+				 Locked
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-unlocked.svg" width="24"/>
+				 Unlocked
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-3dprint.svg" width="24"/>
+				 3DPrint
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-add.svg" width="24"/>
+				 Add
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-android.svg" width="24"/>
+				 Android
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-applications.svg" width="24"/>
+				 Applications
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-arduino.svg" width="24"/>
+				 Arduino
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-backup.svg" width="24"/>
+				 Backup
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-cd.svg" width="24"/>
+				 CD
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-copy-cloud.svg" width="24"/>
+				 Copy Cloud
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-development.svg" width="24"/>
+				 Development
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-dropbox.svg" width="24"/>
+				 Dropbox
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-favorites.svg" width="24"/>
+				 Favorites
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-gdrive.svg" width="24"/>
+				 GDrive
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-go.svg" width="24"/>
+				 Go
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-image-people.svg" width="24"/>
+				 Image people
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-kde.svg" width="24"/>
+				 KDE
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-linux.svg" width="24"/>
+				 Linux
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-megasync.svg" width="24"/>
+				 Megasync
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-nextcloud.svg" width="24"/>
+				 Nextcloud
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-owncloud.svg" width="24"/>
+				 Owncloud
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-projects.svg" width="24"/>
+				 Projects
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-recent.svg" width="24"/>
+				 Recent
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-root.svg" width="24"/>
+				 Root
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-saved-search.svg" width="24"/>
+				 Saved search
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-script.svg" width="24"/>
+				 Script
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-snap.svg" width="24"/>
+				 Snap
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-sync.svg" width="24"/>
+				 Sync
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-syncthing.svg" width="24"/>
+				 Syncthing
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-system.svg" width="24"/>
+				 System
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-vbox.svg" width="24"/>
+				 VBox
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
 		</tr>
 	</table>
 </details>
