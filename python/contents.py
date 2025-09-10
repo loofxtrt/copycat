@@ -9,6 +9,7 @@ reversal = '<a href="https://www.gnome-look.org/p/1340791" target="_blank">Rever
 flat_remix = '<a href="https://store.kde.org/p/1012430" target="_blank">Flat Remix</a>'
 fairy_wren = '<a href="https://www.gnome-look.org/p/1684521" target="_blank">FairyWren</a>'
 yosa_max = '<a href="https://www.gnome-look.org/p/1196255/" target="_blank">Yosa Max</a>'
+papirus = '<a href="https://www.gnome-look.org/p/1166289/" target="_blank">Papirus</a>'
 scratch = "made from scratch"
 
 SOFTWARE_ROWS = [
@@ -425,8 +426,8 @@ PLACES_ROWS = [
     {
         "display_name": "Owncloud",
         "icon_name": "folder-owncloud",
-        "icon_source": kora,
-        "icon_changes": "normalized gradient"
+        "icon_source": f'{kora} and {papirus}',
+        "icon_changes": "normalized gradient and replaced Kora's symbol with Papirus' Owncloud symbol instead"
     },
     {
         "display_name": "Projects",
@@ -438,7 +439,7 @@ PLACES_ROWS = [
         "display_name": "Recent",
         "icon_name": "folder-recent",
         "icon_source": kora,
-        "icon_changes": "normalized gradient"
+        "icon_changes": "normalized gradient and converted the symbol to a SVG path"
     },
     {
         "display_name": "Root",
@@ -486,7 +487,7 @@ PLACES_ROWS = [
         "display_name": "VBox",
         "icon_name": "folder-vbox",
         "icon_source": kora,
-        "icon_changes": "normalized gradient"
+        "icon_changes": "normalized gradient and converted the symbol to a SVG path"
     }
 ]
 

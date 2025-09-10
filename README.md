@@ -726,8 +726,10 @@ Those packs includes:
 			</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+				 and 
+				<a href="https://www.gnome-look.org/p/1166289/" target="_blank">Papirus</a>
 			</td>
-			<td>normalized gradient</td>
+			<td>normalized gradient and replaced Kora's symbol with Papirus' Owncloud symbol instead</td>
 		</tr>
 		<tr>
 			<td>
@@ -747,7 +749,7 @@ Those packs includes:
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
-			<td>normalized gradient</td>
+			<td>normalized gradient and converted the symbol to a SVG path</td>
 		</tr>
 		<tr>
 			<td>
@@ -827,7 +829,7 @@ Those packs includes:
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
-			<td>normalized gradient</td>
+			<td>normalized gradient and converted the symbol to a SVG path</td>
 		</tr>
 	</table>
 </details>
