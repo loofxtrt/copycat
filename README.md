@@ -4,8 +4,7 @@ An icon theme forked from Kora, replacing/modifying a few icons while trying to 
   
 Small inconsistencies in the gradients on folder icons were also normalized to be exactly the same tone
   
-![Static Badge](https://img.shields.io/badge/tar.gz-download_icon_pack-yellow)
-  
+[![Static Badge](https://img.shields.io/badge/tar.gz-download_icon_pack-yellow)](https://github.com/loofxtrt/copycat/releases/latest)  
 ## Conventions and rules  
 - the default (blue) folders should follow the standard:
     - #0083d5 solid color for the background
