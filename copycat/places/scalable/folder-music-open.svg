@@ -20,7 +20,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="16.729167"
-     inkscape:cx="24.029888"
+     inkscape:cx="24.089663"
      inkscape:cy="24"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
@@ -52,11 +52,11 @@
        gradientTransform="matrix(2.58719e-15,-42.252,42.252,2.58719e-15,32,53.126)"
        gradientUnits="userSpaceOnUse">
       <stop
-         style="stop-color:rgb(16,119,246)"
+         style="stop-color:#1075f6;stop-opacity:1;"
          offset="0"
          id="stop3" />
       <stop
-         style="stop-color:rgb(18,194,255)"
+         style="stop-color:#12c5ff;stop-opacity:1;"
          offset="1"
          id="stop4" />
     </linearGradient>
