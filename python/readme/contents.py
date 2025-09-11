@@ -115,12 +115,12 @@ SOFTWARE_ROWS = [
         "icon_source": flat_remix,
         "icon_changes": "modified colors and shapes"
     },
-    {
-        "display_name": "Android Studio",
-        "icon_name": "android-studio",
-        "icon_source": fairy_wren,
-        "icon_changes": "adjusted colors"
-    },
+    #{
+    #    "display_name": "Android Studio",
+    #    "icon_name": "android-studio",
+    #    "icon_source": fairy_wren,
+    #    "icon_changes": "adjusted colors"
+    #},
     # {
     #     "display_name": "Android Studio Beta",
     #     "icon_name": "android-studio-beta",
@@ -217,9 +217,30 @@ SOFTWARE_ROWS = [
     {
         "display_name": "Proton Calendar",
         "icon_name": "protoncalendar",
-        "icon_source": 'removed background to match other Proton applications'
-    }
+        "icon_source": kora,
+        "icon_changes": 'removed background to match other Proton applications'
+    },
+    # AINDA NÃO DECIDIDO
+    # {
+    #     "display_name": "Krusader",
+    #     "icon_name": "krusader_user",
+    #     "icon_source": f'base and cursor from {kora} (apps/preferences-desktop-cursors), colors from <a href="https://commons.wikimedia.org/wiki/File:User-krusader.svg">this SVG</a>'
+    # },
+    # {
+    #     "display_name": "Krusader (root)",
+    #     "icon_name": "krusader_root",
+    #     "icon_source": "same as above"
+    # }
+
 ]
+
+
+
+
+
+
+
+
 
 PLACES_ROWS = [
     {
@@ -503,6 +524,14 @@ PLACES_ROWS = [
     }
 ]
 
+
+
+
+
+
+
+
+
 MIMETYPES_ROWS = [
     {
         "display_name": "Zipped",
@@ -524,6 +553,14 @@ MIMETYPES_ROWS = [
     }
 
 ]
+
+
+
+
+
+
+
+
 
 OTHERS_ROWS = [
     {

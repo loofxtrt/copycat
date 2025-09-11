@@ -202,16 +202,6 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/android-studio.svg" width="24"/>
-				 Android Studio
-			</td>
-			<td>
-				<a href="https://www.gnome-look.org/p/1684521" target="_blank">FairyWren</a>
-			</td>
-			<td>adjusted colors</td>
-		</tr>
-		<tr>
-			<td>
 				<img src="./copycat/apps/scalable/android-studio-canary.svg" width="24"/>
 				 Android Studio Canary
 			</td>
@@ -372,8 +362,10 @@ Those packs includes:
 				<img src="./copycat/apps/scalable/protoncalendar.svg" width="24"/>
 				 Proton Calendar
 			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
 			<td>removed background to match other Proton applications</td>
-			<td/>
 		</tr>
 	</table>
 </details>
