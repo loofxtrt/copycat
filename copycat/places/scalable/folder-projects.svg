@@ -20,8 +20,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="16.729167"
-     inkscape:cx="30.874222"
-     inkscape:cy="20.054795"
+     inkscape:cx="30.904109"
+     inkscape:cy="20.054794"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -73,7 +73,7 @@
          offset="0"
          id="stop5" />
       <stop
-         style="stop-color:#126d98"
+         style="stop-color:#126c98;stop-opacity:1;"
          offset="1"
          id="stop6" />
     </linearGradient>

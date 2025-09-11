@@ -223,6 +223,12 @@ SOFTWARE_ROWS = [
 
 PLACES_ROWS = [
     {
+        "display_name": "Home",
+        "icon_name": "user-home",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
+    },
+    {
         "display_name": "Desktop",
         "icon_name": "user-desktop",
         "icon_source": kora,
@@ -488,6 +494,12 @@ PLACES_ROWS = [
         "icon_name": "folder-vbox",
         "icon_source": kora,
         "icon_changes": "normalized gradient and converted the symbol to a SVG path"
+    },
+    {
+        "display_name": "Network",
+        "icon_name": "folder-network",
+        "icon_source": kora,
+        "icon_changes": "normalized gradient"
     }
 ]
 

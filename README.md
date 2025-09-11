@@ -388,6 +388,16 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
+				<img src="./copycat/places/scalable/user-home.svg" width="24"/>
+				 Home
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
 				<img src="./copycat/places/scalable/user-desktop.svg" width="24"/>
 				 Desktop
 			</td>
@@ -829,6 +839,16 @@ Those packs includes:
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
 			<td>normalized gradient and converted the symbol to a SVG path</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="./copycat/places/scalable/folder-network.svg" width="24"/>
+				 Network
+			</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
 		</tr>
 	</table>
 </details>

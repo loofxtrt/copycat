@@ -20,7 +20,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="16.729167"
-     inkscape:cx="24.029888"
+     inkscape:cx="24.089663"
      inkscape:cy="24"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
@@ -84,7 +84,7 @@
        gradientTransform="matrix(1.65696e-15,10.1471,-27.0602,6.21334e-16,-11592.8,19.4246)"
        gradientUnits="userSpaceOnUse">
       <stop
-         style="stop-color:#126d98"
+         style="stop-color:#126c98;stop-opacity:1;"
          offset="0"
          id="stop9" />
       <stop

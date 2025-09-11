@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="4.8163266"
-     inkscape:cx="43.082627"
-     inkscape:cy="23.565678"
+     inkscape:zoom="6.8113145"
+     inkscape:cx="25.252101"
+     inkscape:cy="38.245187"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -73,11 +73,11 @@
        id="linearGradient3"
        inkscape:collect="always">
       <stop
-         style="stop-color:#0b4f94;stop-opacity:1;"
+         style="stop-color:#0f6c9d;stop-opacity:1;"
          offset="0"
          id="stop8" />
       <stop
-         style="stop-color:#0f6c9d;stop-opacity:1;"
+         style="stop-color:#0b4f94;stop-opacity:1;"
          offset="1"
          id="stop9" />
     </linearGradient>
@@ -85,12 +85,12 @@
        id="linearGradient1"
        inkscape:collect="always">
       <stop
-         style="stop-color:#0b4f94;stop-opacity:1;"
-         offset="0.46851617"
+         style="stop-color:#0f6c9d;stop-opacity:1;"
+         offset="0.40364021"
          id="stop1" />
       <stop
-         style="stop-color:#126c98;stop-opacity:1;"
-         offset="0.6055966"
+         style="stop-color:#0b4f94;stop-opacity:1;"
+         offset="0.51624972"
          id="stop2" />
     </linearGradient>
     <inkscape:path-effect
@@ -245,10 +245,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient1"
        id="linearGradient2"
-       x1="31.999996"
-       y1="78.751289"
-       x2="31.999998"
-       y2="20.506508"
+       x1="31.999998"
+       y1="20.506508"
+       x2="31.999996"
+       y2="78.751289"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-3.96e-4,0.001)" />
     <linearGradient
@@ -256,9 +256,9 @@
        xlink:href="#linearGradient3"
        id="linearGradient9"
        x1="7.1135111"
-       y1="23.286972"
+       y1="17.161211"
        x2="7.1135111"
-       y2="19.461315"
+       y2="25.587074"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="_Linear1-6"

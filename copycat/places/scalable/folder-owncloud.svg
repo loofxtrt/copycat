@@ -51,11 +51,11 @@
        id="linearGradient35"
        inkscape:collect="always">
       <stop
-         style="stop-color:#0b4f94;stop-opacity:1;"
+         style="stop-color:#126c98;stop-opacity:1;"
          offset="0"
          id="stop36" />
       <stop
-         style="stop-color:#126c98;stop-opacity:1;"
+         style="stop-color:#0b4f94;stop-opacity:1;"
          offset="1"
          id="stop37" />
     </linearGradient>
@@ -246,9 +246,9 @@
        xlink:href="#linearGradient35"
        id="linearGradient37"
        x1="32.000004"
-       y1="48.802586"
+       y1="15.197421"
        x2="32.000004"
-       y2="15.197419"
+       y2="48.802586"
        gradientUnits="userSpaceOnUse" />
   </defs>
 </svg>
