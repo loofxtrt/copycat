@@ -1,0 +1,26 @@
+# configuração que lança uma versão compactada do diretório
+# principal do icon pack numa release assim que ela é publicada
+name: Release Copycat directory
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      # baixar o repositório
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # compactar o diretório alvo
+      - name: Package Copycat
+        run: tar -czf copycat.tar.gz copycat
+
+      # upar pra release
+      - name: Upload Copycat
+        uses: softprops/action-gh-release@v1
+        with:
+          files: copycat.tar.gz
