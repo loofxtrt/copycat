@@ -39,7 +39,6 @@ def resolve_table_writing(content_dict: dict):
         full_path = f"`{icon_path}`"
         file_name = f"`{icon_name}`"
         norm_origin_dir = f"`{origin_dir}`"
-        points_to = "" # é definido via código depois
 
         # adicionar verificação se o ícone é ou não um symlink
         # se ele NÃO for, ganha a checkmark verde, pra indicar que é real
@@ -55,10 +54,9 @@ def resolve_table_writing(content_dict: dict):
             full_path = f"<i>{full_path}</i>"
             file_name = f"<i>{file_name}</i>"
             norm_origin_dir = f"<i>{norm_origin_dir}</i>"
-            points_to = f"<i>`{resolved_path.readlink()}`</i>" # ler pra onde o symlink do arquivo aponta
 
         # adicionar mais um row aos arrays que serão condesados no array final
-        final_row = [icon_image, is_symlink, full_path, file_name, points_to, norm_origin_dir]
+        final_row = [icon_image, is_symlink, full_path, file_name, norm_origin_dir]
         if resolved_path.is_symlink():
             symlinks.append(final_row)
         else:
@@ -71,16 +69,26 @@ def resolve_table_writing(content_dict: dict):
     # e escrever ela como uma string com .dumps
     writer = MarkdownTableWriter(
         table_name=group_name,
-        headers=["Icon", "Is real", "Full path", "File name", "Points to", "Origin directory"],
+        headers=["Icon", "Is real", "Full path", "File name", "Origin directory"],
         value_matrix=rows
     )
 
     string_table = writer.dumps()
     return string_table
 
-table_plain_folder_group = resolve_table_writing(plain_folder_group)
-table_krusader = resolve_table_writing(krusader_group)
+#table_default = resolve_table_writing(folder_like)
+#table_default = resolve_table_writing(default_folder_copies)
 
+table_file_manager_blue = resolve_table_writing(file_manager_blue_group)
+table_file_manager = resolve_table_writing(file_manager_group)
+table_mc = resolve_table_writing(mc_group)
+table_nautilus = resolve_table_writing(nautilus_group)
+table_system_file_manager = resolve_table_writing(system_file_manager_group)
+table_spacefm = resolve_table_writing(spacefm_group)
+table_krusader = resolve_table_writing(krusader_group)
+table_fma_config = resolve_table_writing(fma_config_group)
+
+table_folder = resolve_table_writing(folder_group)
 table_folder_locked = resolve_table_writing(folder_locked_group)
 table_folder_favorites = resolve_table_writing(folder_favorites_group)
 table_folder_download = resolve_table_writing(folder_download_group)
@@ -90,9 +98,16 @@ table_network_manager = resolve_table_writing(network_manager_group)
 table_user_desktop = resolve_table_writing(user_desktop_group)
 
 all_tables = [
-    table_plain_folder_group,
+    table_file_manager_blue,
+    table_file_manager,
+    table_mc,
+    table_nautilus,
+    table_system_file_manager,
+    table_spacefm,
     table_krusader,
+    table_fma_config,
 
+    table_folder,
     table_folder_locked,
     table_folder_favorites,
     table_folder_download,
@@ -108,3 +123,5 @@ with open("../../TRACK.md", "w") as f:
     for table in all_tables:
         condensed += table
     f.write(condensed)
+# with open("../../TRACK.md", "w") as f:
+#     f.write(table_default)
