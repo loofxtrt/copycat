@@ -11,5 +11,5 @@ pra que em caso de alteração possa garantir que todos serão modificados
   
 # run
 1. ativar o venv
-2. instalar as dependências `pip i python/requirements.txt`
+2. instalar as dependências `pip install python/requirements.txt`
 3. rodar o código de ambos os scripts `bash update.sh`
