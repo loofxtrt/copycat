@@ -1,6 +1,7 @@
 from pathlib import Path
 from pytablewriter import MarkdownTableWriter
-from contents import *
+#from contents import *
+import contents
 
 def generate_table_rows(tuple_list: list[tuple]):
     # variáveis pra futura organização
@@ -80,71 +81,19 @@ def resolve_table_writing(content_dict: dict):
     string_table = writer.dumps()
     return string_table
 
-# escrever todas as tabelas e inseri-las em um array
-# esse array vai ser condensado em uma só string pra ser escrito no arquivo final
-table_plain = resolve_table_writing(plain_folder_group)
-table_variations = resolve_table_writing(variations_group)
-table_derivations = resolve_table_writing(derivations_group)
+def run_writer():
+    all_tables = []
 
-table_locked = resolve_table_writing(folder_locked_group)
-table_home = resolve_table_writing(folder_home_group)
-table_favorites = resolve_table_writing(folder_favorites_group)
-table_download = resolve_table_writing(folder_download_group)
-table_pictures = resolve_table_writing(folder_pictures_group)
-table_remote = resolve_table_writing(folder_remote_group)
-table_network = resolve_table_writing(network_manager_group)
-table_desktop = resolve_table_writing(user_desktop_group)
+    # obter todas as variáveis dentro do módulo contents
+    # e se a var obtida for um dict, e tiver a chave 'copies', como esperado
+    # passar essa variável pro gerador de tabelas, e depois adicionar a tabela gerada ao array final
+    for name, obj in vars(contents).items():
+        if isinstance(obj, dict) and 'copies' in obj:
+            table = resolve_table_writing(obj)
+            all_tables.append(table)
 
-table_cloud = resolve_table_writing(folder_cloud_group)
-table_uniques = resolve_table_writing(folder_uniques_group)
-table_documents = resolve_table_writing(folder_documents_group)
-table_image_people = resolve_table_writing(folder_image_people_group)
-table_megasync = resolve_table_writing(folder_megasync_group)
-table_publicshare = resolve_table_writing(folder_publicshare_group)
-table_saved_search = resolve_table_writing(folder_saved_search_group)
-table_text = resolve_table_writing(folder_text_group)
-table_unlocked = resolve_table_writing(folder_unlocked_group)
-table_visiting = resolve_table_writing(folder_visiting_group)
-table_open = resolve_table_writing(folder_open_group)
-table_drive = resolve_table_writing(folder_drive_group)
-table_image = resolve_table_writing(folder_image_group)
-table_recent = resolve_table_writing(folder_recent_group)
-table_templates = resolve_table_writing(folder_templates_group)
+    # escrever o resultado, juntando todas as tabelas em uma só string
+    with open('../../TRACK.md', 'w') as f:
+        f.write(''.join(all_tables))
 
-all_tables = [
-    table_plain,
-    table_variations,
-    table_derivations,
-
-    table_locked,
-    table_home,
-    table_favorites,
-    table_download,
-    table_pictures,
-    table_remote,
-    table_network,
-    table_desktop,
-
-    table_recent,
-    table_templates,
-    table_cloud,
-    table_drive,
-    table_image,
-    table_open,
-    table_uniques,
-    table_documents,
-    table_image_people,
-    table_megasync,
-    table_publicshare,
-    table_saved_search,
-    table_text,
-    table_unlocked,
-    table_visiting,
-]
-
-# escrever o resultado final no arquivo markdown
-with open('../../TRACK.md', 'w') as f:
-    condensed = ''
-    for table in all_tables:
-        condensed += table
-    f.write(condensed)
+run_writer()

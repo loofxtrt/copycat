@@ -265,6 +265,8 @@ folder_uniques_group = {
         (places, 'folder-cd'),
         (places, 'folder-development'),
         (places, 'folder-dropbox'),
+        (places, 'folder-yandex-disk'),
+        (places, 'folder-drag-accept.svg'),
         (places, 'folder-steam'),
         (places, 'folder-git'),
         (places, 'folder-gitlab'),
@@ -284,6 +286,7 @@ folder_uniques_group = {
         (places, 'folder-snap'),
         (places, 'folder-system'),
         (places, 'folder-tar'),
+        (places, 'folder-backup'),
         (places, 'folder-wine'),
         (places, 'folder-3dprint'),
         (places, 'folder-pcloud'),
@@ -291,7 +294,18 @@ folder_uniques_group = {
         (places, 'folder-nextcloud'),
         (places, 'folder-owncloud'),
         (places, 'folder-sync'),
-        (places, 'folder-syncthing')
+        (places, 'folder-syncthing'),
+        (places, 'folder-torrent'),
+        (places, 'folder-vbox')
+    ]
+}
+
+folder_videos_group = {
+    'group_name': 'Folder-likes - Videos',
+    'copies': [
+        (places, 'folder-videos'),
+        (places, 'folder-video-alt'),
+        (places, 'folder-video')
     ]
 }
 
@@ -347,13 +361,30 @@ folder_megasync_group = {
     ]
 }
 
-folder_publicshare_group = {
+folder_public_group = {
     'group_name': 'Folder-likes - Public',
     'copies': [
         (places, 'folder-publicshare'),
         (places, 'folder-public'),
         (places, 'folder-publicshare-open'),
-        (places, 'neat')
+    ]
+}
+
+folder_share_group = {
+    'group_name': 'Folder-likes - Share',
+    'copies': [
+        (places, 'gnome-mime-x-directory-share'),
+        (places, 'gnome-mime-x-directory-smb-share'),
+        (places, 'gnome-mime-x-directory-smb-workgroup'),
+        (places, 'gnome-fs-network'),
+        (places, 'gnome-network'),
+        (places, 'gtk-network'),
+        (places, 'network-server-database'),
+        (places, 'redhat-system-group'),
+        (places, 'stock_shared-by-me'),
+        (places, 'stock_shared-to-me'),
+        (places, 'user-share'),
+        (places, 'neat'),
     ]
 }
 
@@ -386,5 +417,28 @@ folder_visiting_group = {
     'copies': [
         (places, 'folder-visiting'),
         (places, 'gnome-fs-directory-visiting'),
+    ]
+}
+
+trash_group = {
+    'group_name': 'Trash',
+    'copies': [
+        (places, 'edittrash'),
+        (places, 'emptytrash'),
+        (places, 'gnome-fs-trash-empty-accept'),
+        (places, 'gnome-fs-trash-empty'),
+        (places, 'gnome-fs-trash-full'),
+        (places, 'gnome-stock-trash-full'),
+        (places, 'gnome-stock-trash'),
+        (places, 'stock_trash_full'),
+        (places, 'trashcan_empty'),
+        (places, 'trashcan_full-new'),
+        (places, 'trashcan_full'),
+        (places, 'user-trash-full'),
+        (places, 'user-trash'),
+        (places, 'xfce-trash_empty'),
+        (places, 'xfce-trash-full'),
+        (places, 'xfce-trash_full'),
+        (apps, 'trashindicator')
     ]
 }
