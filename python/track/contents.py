@@ -121,6 +121,20 @@ folder_locked_group = {
     ]
 }
 
+folder_home_group = {
+    'group_name': 'Folder-likes - Home',
+    'copies': [
+        (places, 'folder_home'),
+        (places, 'folder-home'),
+        (places, 'folder-home2'),
+        (places, 'gnome-fs-home'),
+        (places, 'gnome-home'),
+        (places, 'user-home'),
+        (places, 'user-home-drag-accept'),
+        (places, 'user-home-open')
+    ]
+}
+
 folder_favorites_group = {
     'group_name': 'Folder-likes - Favorites',
     'copies': [
@@ -131,6 +145,9 @@ folder_favorites_group = {
         (places, 'folder-bookmark'),
         (places, 'gnome-fs-bookmark'),
         (places, 'stock_bookmark'),
+        (places, 'bookmark-missing'),
+        (places, 'gnome-fs-bookmark-missing'),
+        (places, 'stock_delete-bookmark')
     ]
 }
 
@@ -143,7 +160,7 @@ folder_download_group = {
     ]
 }
 
-folder_image_group = {
+folder_pictures_group = {
     'group_name': 'Folder-likes - Pictures',
     'copies': [
         (places, 'folder-pictures'),
@@ -151,6 +168,17 @@ folder_image_group = {
         (places, 'folder-picture'),
         (places, 'user-images'),
         (places, 'user-pictures'),
+        (places, 'folder-pictures-open'),
+    ]
+}
+
+folder_music_group = {
+    'group_name': 'Folder-likes - Music',
+    'copies': [
+        (places, 'folder-music'),
+        (places, 'folder-music-open'),
+        (places, 'library-music'),
+        (places, 'folder-sound')
     ]
 }
 
@@ -176,6 +204,7 @@ network_manager_group = {
         (places, 'network-server'),
         (places, 'network'),
         (places, 'network-workgroup'),
+        (places, 'repository'),
     ]
 }
 
@@ -188,5 +217,174 @@ user_desktop_group = {
         (places, 'gnome-desktop-config'),
         (places, 'gnome-desktop'),
         (places, 'gnome-fs-desktop'),
+    ]
+}
+
+folder_open_group = {
+    'group_name': 'Folder-likes - Open',
+    'copies': [
+        (places, 'folder-open'),
+        (places, 'folder_open'),
+        (places, 'folder-music-open'),
+        (places, 'folder-download-open'),
+        (places, 'folder-pictures-open'),
+        (places, 'folder-publicshare-open'),
+        (places, 'folder-templates-open'),
+        (places, 'gnome-fs-directory-open'),
+        (places, 'stock_open'),
+        (places, 'user-home-open'),
+    ]
+}
+
+folder_image_group = {
+    'group_name': 'Folder-likes - Image',
+    'copies': [
+        (places, 'folder-image'),
+        (places, 'folder-images')
+    ]
+}
+
+folder_drive_group = {
+    'group_name': 'Folder-likes - Drive',
+    'copies': [
+        (places, 'folder-gdrive'),
+        (places, 'folder-google-drive'),
+        (places, 'insync-folder')
+    ]
+}
+
+folder_uniques_group = {
+    'group_name': 'Folder-likes - Uniques',
+    'copies': [
+        (places, 'folder-activities'),
+        (places, 'folder-add'),
+        (places, 'folder-android'),
+        (places, 'folder-applications'),
+        (places, 'folder-arduino'),
+        (places, 'folder-books'),
+        (places, 'folder-cd'),
+        (places, 'folder-development'),
+        (places, 'folder-dropbox'),
+        (places, 'folder-steam'),
+        (places, 'folder-git'),
+        (places, 'folder-gitlab'),
+        (places, 'folder-github'),
+        (places, 'folder-gnome'),
+        (places, 'folder-go'),
+        (places, 'folder-important'),
+        (places, 'folder-java'),
+        (places, 'folder-kde'),
+        (places, 'folder-linux'),
+        (places, 'folder-mail'),
+        (places, 'folder-nextcloud'),
+        (places, 'folder-print'),
+        (places, 'folder-private'),
+        (places, 'folder-projects'),
+        (places, 'folder-root'),
+        (places, 'folder-snap'),
+        (places, 'folder-system'),
+        (places, 'folder-tar'),
+        (places, 'folder-wine'),
+        (places, 'folder-3dprint'),
+        (places, 'folder-pcloud'),
+        (places, 'folder-copy-cloud'),
+        (places, 'folder-nextcloud'),
+        (places, 'folder-owncloud'),
+        (places, 'folder-sync'),
+        (places, 'folder-syncthing')
+    ]
+}
+
+folder_templates_group = {
+    'group_name': 'Folder-likes - Templates',
+    'copies': [
+        (places, 'folder-templates'),
+        (places, 'folder-templates-open')
+    ]
+}
+
+folder_recent_group = {
+    'group_name': 'Folder-likes - Recent',
+    'copies': [
+        (places, 'folder-recent'),
+        (places, 'folder-temp')
+    ]
+}
+
+folder_cloud_group = {
+    'group_name': 'Folder-likes - Cloud',
+    'copies': [
+        (places, 'folder-cloud'),
+        (places, 'folder-CloudStation'),
+        (places, 'folder-mail-cloud'),
+        (places, 'folder-meocloud'),
+        (places, 'folder-synology')
+    ]
+}
+
+folder_documents_group = {
+    'group_name': 'Folder-likes - Documents',
+    'copies': [
+        (places, 'folder-documents'),
+        (places, 'folder_man'),
+        (places, 'folder_wordprocessing'),
+    ]
+}
+
+folder_image_people_group = {
+    'group_name': 'Folder-likes - Image People',
+    'copies': [
+        (places, 'folder-image-people'),
+        (places, 'folder_home2'),
+    ]
+}
+
+folder_megasync_group = {
+    'group_name': 'Folder-likes - Mega',
+    'copies': [
+        (places, 'folder-megasync'),
+        (places, 'folder-mega'),
+    ]
+}
+
+folder_publicshare_group = {
+    'group_name': 'Folder-likes - Public',
+    'copies': [
+        (places, 'folder-publicshare'),
+        (places, 'folder-public'),
+        (places, 'folder-publicshare-open'),
+        (places, 'neat')
+    ]
+}
+
+folder_saved_search_group = {
+    'group_name': 'Folder-likes - Saved Search',
+    'copies': [
+        (places, 'folder-saved-search'),
+        (places, 'application-x-gnome-saved-search'),
+    ]
+}
+
+folder_text_group = {
+    'group_name': 'Folder-likes - Text',
+    'copies': [
+        (places, 'folder-text'),
+        (places, 'folder-txt'),
+    ]
+}
+
+folder_unlocked_group = {
+    'group_name': 'Folder-likes - Unlocked',
+    'copies': [
+        (places, 'folder-unlocked'),
+        (places, 'folder-decrypted'),
+    ]
+}
+
+folder_visiting_group = {
+    'group_name': 'Folder-likes - Visiting',
+    'copies': [
+        (places, 'folder-visiting'),
+        (places, 'gnome-fs-directory-visiting'),
     ]
 }

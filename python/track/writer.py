@@ -87,12 +87,29 @@ table_variations = resolve_table_writing(variations_group)
 table_derivations = resolve_table_writing(derivations_group)
 
 table_locked = resolve_table_writing(folder_locked_group)
+table_home = resolve_table_writing(folder_home_group)
 table_favorites = resolve_table_writing(folder_favorites_group)
 table_download = resolve_table_writing(folder_download_group)
-table_image = resolve_table_writing(folder_image_group)
+table_pictures = resolve_table_writing(folder_pictures_group)
 table_remote = resolve_table_writing(folder_remote_group)
 table_network = resolve_table_writing(network_manager_group)
 table_desktop = resolve_table_writing(user_desktop_group)
+
+table_cloud = resolve_table_writing(folder_cloud_group)
+table_uniques = resolve_table_writing(folder_uniques_group)
+table_documents = resolve_table_writing(folder_documents_group)
+table_image_people = resolve_table_writing(folder_image_people_group)
+table_megasync = resolve_table_writing(folder_megasync_group)
+table_publicshare = resolve_table_writing(folder_publicshare_group)
+table_saved_search = resolve_table_writing(folder_saved_search_group)
+table_text = resolve_table_writing(folder_text_group)
+table_unlocked = resolve_table_writing(folder_unlocked_group)
+table_visiting = resolve_table_writing(folder_visiting_group)
+table_open = resolve_table_writing(folder_open_group)
+table_drive = resolve_table_writing(folder_drive_group)
+table_image = resolve_table_writing(folder_image_group)
+table_recent = resolve_table_writing(folder_recent_group)
+table_templates = resolve_table_writing(folder_templates_group)
 
 all_tables = [
     table_plain,
@@ -100,12 +117,29 @@ all_tables = [
     table_derivations,
 
     table_locked,
+    table_home,
     table_favorites,
     table_download,
-    table_image,
+    table_pictures,
     table_remote,
     table_network,
     table_desktop,
+
+    table_recent,
+    table_templates,
+    table_cloud,
+    table_drive,
+    table_image,
+    table_open,
+    table_uniques,
+    table_documents,
+    table_image_people,
+    table_megasync,
+    table_publicshare,
+    table_saved_search,
+    table_text,
+    table_unlocked,
+    table_visiting,
 ]
 
 # escrever o resultado final no arquivo markdown
