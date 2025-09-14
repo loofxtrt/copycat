@@ -1,6 +1,5 @@
 from pathlib import Path
 from pytablewriter import MarkdownTableWriter
-#from contents import *
 import contents
 
 def generate_table_rows(tuple_list: list[tuple]):
