@@ -16,29 +16,32 @@ Icons from different packs are included in this repo, **all licensed under the G
 Those packs includes:  
 [Kora](https://store.kde.org/p/1256209), [Breeze](https://github.com/KDE/breeze-icons), [Marwaita](https://www.gnome-look.org/p/1239855), [MoreWaita](https://www.gnome-look.org/p/2276064), [PlasmaX](https://www.gnome-look.org/p/1367155), [Infinity](https://www.gnome-look.org/p/2112373), [Reversal](https://www.gnome-look.org/p/1340791), [Flat Remix](https://store.kde.org/p/1012430), [FairyWren](https://www.gnome-look.org/p/1684521), [Yosa Max](https://www.gnome-look.org/p/1196255/), [Papirus](https://www.gnome-look.org/p/1166289/)  
   
-## Major differences  
+## Major differences
 <?xml version="1.0" ?>
 <details>
-	<summary>Software (click to expand)</summary>
+	<summary>Apps (click to expand)</summary>
 	<table border="1" width="100%">
 		<tr>
 			<th>Icon</th>
+			<th>Icon name</th>
 			<th>Source</th>
 			<th>Changes</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/blender.svg" width="24"/>
-				 Blender
+				<img src="copycat/apps/scalable/blender.svg" width="24"/>
 			</td>
-			<td>original Blender SVG</td>
+			<td>Blender</td>
+			<td>
+				<a href="https://commons.wikimedia.org/wiki/File:Blender_logo_no_text.svg" target="_blank">original Blender logo</a>
+			</td>
 			<td>added a subtle gradient</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/godot.svg" width="24"/>
-				 Godot
+				<img src="copycat/apps/scalable/godot.svg" width="24"/>
 			</td>
+			<td>Godot</td>
 			<td>
 				<a href="https://www.gnome-look.org/p/1367155" target="_blank">PlasmaX</a>
 			</td>
@@ -46,9 +49,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/inkscape.svg" width="24"/>
-				 Inkscape
+				<img src="copycat/apps/scalable/inkscape.svg" width="24"/>
 			</td>
+			<td>Inkscape</td>
 			<td>
 				<a href="https://www.gnome-look.org/p/1367155" target="_blank">PlasmaX</a>
 			</td>
@@ -56,9 +59,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/krita.svg" width="24"/>
-				 Krita
+				<img src="copycat/apps/scalable/krita.svg" width="24"/>
 			</td>
+			<td>Krita</td>
 			<td>
 				<a href="https://www.gnome-look.org/p/1239855" target="_blank">Marwaita</a>
 			</td>
@@ -66,9 +69,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/spotify-client.svg" width="24"/>
-				 Spotify
+				<img src="copycat/apps/scalable/spotify-client.svg" width="24"/>
 			</td>
+			<td>Spotify</td>
 			<td>
 				<a href="https://www.gnome-look.org/p/1239855" target="_blank">Marwaita</a>
 			</td>
@@ -76,9 +79,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/discord.svg" width="24"/>
-				 Discord
+				<img src="copycat/apps/scalable/discord.svg" width="24"/>
 			</td>
+			<td>Discord</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -86,9 +89,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/discord-canary.svg" width="24"/>
-				 Discord Canary
+				<img src="copycat/apps/scalable/discord-canary.svg" width="24"/>
 			</td>
+			<td>Discord Canary</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -96,9 +99,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/discord-development.svg" width="24"/>
-				 Discord Development
+				<img src="copycat/apps/scalable/discord-development.svg" width="24"/>
 			</td>
+			<td>Discord Development</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -106,9 +109,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/gimp.svg" width="24"/>
-				 GIMP
+				<img src="copycat/apps/scalable/gimp.svg" width="24"/>
 			</td>
+			<td>GIMP</td>
 			<td>
 				<a href="https://github.com/KDE/breeze-icons" target="_blank">Breeze</a>
 			</td>
@@ -116,9 +119,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/steam.svg" width="24"/>
-				 Steam
+				<img src="copycat/apps/scalable/steam.svg" width="24"/>
 			</td>
+			<td>Steam</td>
 			<td>
 				<a href="https://www.gnome-look.org/p/1239855" target="_blank">Marwaita</a>
 			</td>
@@ -126,9 +129,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/obs.svg" width="24"/>
-				 OBS
+				<img src="copycat/apps/scalable/obs.svg" width="24"/>
 			</td>
+			<td>OBS</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -136,25 +139,25 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/libresprite.svg" width="24"/>
-				 Libresprite
+				<img src="copycat/apps/scalable/libresprite.svg" width="24"/>
 			</td>
+			<td>Libresprite</td>
 			<td>made from scratch</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/aseprite.svg" width="24"/>
-				 Aseprite
+				<img src="copycat/apps/scalable/aseprite.svg" width="24"/>
 			</td>
+			<td>Aseprite</td>
 			<td>made from scratch</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/pureref.svg" width="24"/>
-				 PureRef
+				<img src="copycat/apps/scalable/pureref.svg" width="24"/>
 			</td>
+			<td>PureRef</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -162,17 +165,17 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/sqlitebrowser.svg" width="24"/>
-				 DB Browser for SQLite
+				<img src="copycat/apps/scalable/sqlitebrowser.svg" width="24"/>
 			</td>
+			<td>DB Browser for SQLite</td>
 			<td>made from scratch</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/audacity.svg" width="24"/>
-				 Audacity
+				<img src="copycat/apps/scalable/audacity.svg" width="24"/>
 			</td>
+			<td>Audacity</td>
 			<td>
 				based on 
 				<a href="https://www.gnome-look.org/p/1340791" target="_blank">Reversal</a>
@@ -182,19 +185,19 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/vscodium.svg" width="24"/>
-				 VSCodium
+				<img src="copycat/apps/scalable/vscodium.svg" width="24"/>
 			</td>
+			<td>VSCodium</td>
 			<td>
-				<a href="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png">from VSCodium's repository</a>
+				<a href="https://github.com/VSCodium/icons/blob/main/icons/linux/nobg/blue1/paulo22s.png" target="_blank">from VSCodium repository</a>
 			</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/AppImageLauncher.svg" width="24"/>
-				 AppImageLauncher
+				<img src="copycat/apps/scalable/AppImageLauncher.svg" width="24"/>
 			</td>
+			<td>AppImageLauncher</td>
 			<td>
 				<a href="https://store.kde.org/p/1012430" target="_blank">Flat Remix</a>
 			</td>
@@ -202,40 +205,40 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/android-studio-canary.svg" width="24"/>
-				 Android Studio Canary
+				<img src="copycat/apps/scalable/btop.svg" width="24"/>
 			</td>
-			<td>
-				<a href="https://www.gnome-look.org/p/1684521" target="_blank">FairyWren</a>
-			</td>
-			<td>adjusted colors</td>
-		</tr>
-		<tr>
-			<td>
-				<img src="./copycat/apps/scalable/btop.svg" width="24"/>
-				 btop++
-			</td>
+			<td>btop++</td>
 			<td>
 				partially from 
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
-			<td>remade btop logo from scratch, used Kora's system monitor background, MoreWaita's btop color</td>
+			<td>
+				remade btop logo from scratch, used 
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+				 system monitor background, 
+				<a href="https://www.gnome-look.org/p/2276064" target="_blank">MoreWaita</a>
+				 btop color
+			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/ark.svg" width="24"/>
-				 Ark
+				<img src="copycat/apps/scalable/ark.svg" width="24"/>
 			</td>
+			<td>Ark</td>
 			<td>
 				<a href="https://www.gnome-look.org/p/1196255/" target="_blank">Yosa Max</a>
 			</td>
-			<td>made the gradient more noticeable, rounded the corners and replaced the original zipper with Kora's zipper (from the application-x-sogouskin icon)</td>
+			<td>
+				made the gradient more noticeable, rounded the corners and replaced the original zipper with 
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+				 zipper (from the application-x-sogouskin icon)
+			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/appimagekit-github-desktop.svg" width="24"/>
-				 GitHub Desktop
+				<img src="copycat/apps/scalable/appimagekit-github-desktop.svg" width="24"/>
 			</td>
+			<td>GitHub Desktop</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -243,31 +246,39 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/nl.hjdskes.gcolor3.svg" width="24"/>
-				 Color Picker
+				<img src="copycat/apps/scalable/nl.hjdskes.gcolor3.svg" width="24"/>
 			</td>
+			<td>Color Picker</td>
 			<td>
 				<a href="https://www.gnome-look.org/p/1239855" target="_blank">Marwaita</a>
 				 and 
 				<a href="https://www.gnome-look.org/p/1196255/" target="_blank">Yosa Max</a>
 			</td>
-			<td>used Marwaita's color picker background and Yosa Max drop symbol</td>
+			<td>
+				used 
+				<a href="https://www.gnome-look.org/p/1239855" target="_blank">Marwaita</a>
+				 color picker background and Yosa Max drop symbol
+			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/kvantum.svg" width="24"/>
-				 Kvantum
+				<img src="copycat/apps/scalable/kvantum.svg" width="24"/>
 			</td>
+			<td>Kvantum</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
-			<td>switched the colors to Marwaita's Kvantum icon</td>
+			<td>
+				switched the colors to 
+				<a href="https://www.gnome-look.org/p/1239855" target="_blank">Marwaita</a>
+				 Kvantum icon
+			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/cmake.svg" width="24"/>
-				 CMake
+				<img src="copycat/apps/scalable/cmake.svg" width="24"/>
 			</td>
+			<td>CMake</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -275,45 +286,45 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/grapejuice-roblox-player.svg" width="24"/>
-				 Roblox
+				<img src="copycat/apps/scalable/grapejuice-roblox-player.svg" width="24"/>
 			</td>
+			<td>Roblox</td>
 			<td>made from scratch</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/org.vinegarhq.Vinegar.studio.svg" width="24"/>
-				 Roblox Studio
+				<img src="copycat/apps/scalable/org.vinegarhq.Vinegar.studio.svg" width="24"/>
 			</td>
+			<td>Roblox Studio</td>
 			<td>made from scratch</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/org.vinegarhq.Vinegar.svg" width="24"/>
-				 Vinegar
+				<img src="copycat/apps/scalable/org.vinegarhq.Vinegar.svg" width="24"/>
 			</td>
+			<td>Vinegar</td>
 			<td>
 				made from scratch, then added 
-				<a href="https://www.svgrepo.com/svg/443560/brand-winehq">this SVG</a>
+				<a href="https://www.svgrepo.com/svg/443560/brand-winehq" target="_blank">this SVG</a>
 				 on top of it
 			</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/org.vinegarhq.Sober.svg" width="24"/>
-				 Sober
+				<img src="copycat/apps/scalable/org.vinegarhq.Sober.svg" width="24"/>
 			</td>
+			<td>Sober</td>
 			<td>made from scratch</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/java21-openjdk.svg" width="24"/>
-				 OpenJDK Java 21 Shell
+				<img src="copycat/apps/scalable/java21-openjdk.svg" width="24"/>
 			</td>
+			<td>OpenJDK Java 21 Shell</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -321,47 +332,47 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/minecraft.svg" width="24"/>
-				 Minecraft
+				<img src="copycat/apps/scalable/minecraft.svg" width="24"/>
 			</td>
+			<td>Minecraft</td>
 			<td>made from scratch</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/com.kristianduske.TrenchBroom.svg" width="24"/>
-				 Trenchbroom
+				<img src="copycat/apps/scalable/com.kristianduske.TrenchBroom.svg" width="24"/>
 			</td>
+			<td>Trenchbroom</td>
 			<td>made from scratch</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/librewolf.svg" width="24"/>
-				 Librewolf
+				<img src="copycat/apps/scalable/librewolf.svg" width="24"/>
 			</td>
+			<td>Librewolf</td>
 			<td>
 				vectorized version of 
-				<a href="https://www.reddit.com/r/LibreWolf/comments/t9c84n/icon_update/">this Reddit post</a>
+				<a href="https://www.reddit.com/r/LibreWolf/comments/t9c84n/icon_update/" target="_blank">this Reddit post</a>
 			</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/AnimeEffects.svg" width="24"/>
-				 AnimeEffects
+				<img src="copycat/apps/scalable/AnimeEffects.svg" width="24"/>
 			</td>
+			<td>AnimeEffects</td>
 			<td>
 				vectorized version based on 
-				<a href="https://github.com/AnimeEffectsDevs/AnimeEffects">AnimeEffects repository</a>
+				<a href="https://github.com/AnimeEffectsDevs/AnimeEffects" target="_blank">AnimeEffects repository</a>
 			</td>
 			<td/>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/protoncalendar.svg" width="24"/>
-				 Proton Calendar
+				<img src="copycat/apps/scalable/protoncalendar.svg" width="24"/>
 			</td>
+			<td>Proton Calendar</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -375,14 +386,15 @@ Those packs includes:
 	<table border="1" width="100%">
 		<tr>
 			<th>Icon</th>
+			<th>Icon name</th>
 			<th>Source</th>
 			<th>Changes</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/user-home.svg" width="24"/>
-				 Home
+				<img src="copycat/places/scalable/user-home.svg" width="24"/>
 			</td>
+			<td>Home</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -390,9 +402,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/user-desktop.svg" width="24"/>
-				 Desktop
+				<img src="copycat/places/scalable/user-desktop.svg" width="24"/>
 			</td>
+			<td>Desktop</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -400,29 +412,23 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-documents.svg" width="24"/>
-				 Documents
+				<img src="copycat/places/scalable/folder-documents.svg" width="24"/>
 			</td>
+			<td>Documents</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
-			<td>added Kora's clip icon to it</td>
-		</tr>
-		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-music.svg" width="24"/>
-				 Music
-			</td>
-			<td>
+				added 
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+				 clip icon to it
 			</td>
-			<td>normalized gradient</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-music-open.svg" width="24"/>
-				 Music (open)
+				<img src="copycat/places/scalable/folder-music.svg" width="24"/>
 			</td>
+			<td>Music</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -430,9 +436,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-pictures.svg" width="24"/>
-				 Pictures
+				<img src="copycat/places/scalable/folder-music-open.svg" width="24"/>
 			</td>
+			<td>Music (open)</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -440,9 +446,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-pictures-open.svg" width="24"/>
-				 Pictures (open)
+				<img src="copycat/places/scalable/folder-pictures.svg" width="24"/>
 			</td>
+			<td>Pictures</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -450,9 +456,19 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-videos.svg" width="24"/>
-				 Videos
+				<img src="copycat/places/scalable/folder-pictures-open.svg" width="24"/>
 			</td>
+			<td>Pictures (open)</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>normalized gradient</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="copycat/places/scalable/folder-videos.svg" width="24"/>
+			</td>
+			<td>Videos</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -460,21 +476,21 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-publicshare.svg" width="24"/>
-				 Public
+				<img src="copycat/places/scalable/folder-publicshare.svg" width="24"/>
 			</td>
+			<td>Public</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 				 and 
-				<a href="https://www.svgrepo.com/svg/451439/walking">this stickman</a>
+				<a href="https://www.svgrepo.com/svg/451439/walking" target="_blank">this stickman</a>
 			</td>
 			<td>changed the symbol to a stickman from SVG Repo</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-publicshare-open.svg" width="24"/>
-				 Public (open)
+				<img src="copycat/places/scalable/folder-publicshare-open.svg" width="24"/>
 			</td>
+			<td>Public (open)</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -482,9 +498,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/user-share.svg" width="24"/>
-				 User share
+				<img src="copycat/places/scalable/user-share.svg" width="24"/>
 			</td>
+			<td>User share</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -492,9 +508,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-books.svg" width="24"/>
-				 Books
+				<img src="copycat/places/scalable/folder-books.svg" width="24"/>
 			</td>
+			<td>Books</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -502,9 +518,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-wine.svg" width="24"/>
-				 Wine
+				<img src="copycat/places/scalable/folder-wine.svg" width="24"/>
 			</td>
+			<td>Wine</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -512,9 +528,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-html.svg" width="24"/>
-				 HTML
+				<img src="copycat/places/scalable/folder-html.svg" width="24"/>
 			</td>
+			<td>HTML</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -522,9 +538,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-locked.svg" width="24"/>
-				 Locked
+				<img src="copycat/places/scalable/folder-locked.svg" width="24"/>
 			</td>
+			<td>Locked</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -532,9 +548,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-unlocked.svg" width="24"/>
-				 Unlocked
+				<img src="copycat/places/scalable/folder-unlocked.svg" width="24"/>
 			</td>
+			<td>Unlocked</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -542,9 +558,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-3dprint.svg" width="24"/>
-				 3DPrint
+				<img src="copycat/places/scalable/folder-3dprint.svg" width="24"/>
 			</td>
+			<td>3DPrint</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -552,9 +568,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-add.svg" width="24"/>
-				 Add
+				<img src="copycat/places/scalable/folder-add.svg" width="24"/>
 			</td>
+			<td>Add</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -562,9 +578,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-android.svg" width="24"/>
-				 Android
+				<img src="copycat/places/scalable/folder-android.svg" width="24"/>
 			</td>
+			<td>Android</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -572,9 +588,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-applications.svg" width="24"/>
-				 Applications
+				<img src="copycat/places/scalable/folder-applications.svg" width="24"/>
 			</td>
+			<td>Applications</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -582,9 +598,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-arduino.svg" width="24"/>
-				 Arduino
+				<img src="copycat/places/scalable/folder-arduino.svg" width="24"/>
 			</td>
+			<td>Arduino</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -592,9 +608,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-backup.svg" width="24"/>
-				 Backup
+				<img src="copycat/places/scalable/folder-backup.svg" width="24"/>
 			</td>
+			<td>Backup</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -602,9 +618,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-cd.svg" width="24"/>
-				 CD
+				<img src="copycat/places/scalable/folder-cd.svg" width="24"/>
 			</td>
+			<td>CD</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -612,9 +628,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-copy-cloud.svg" width="24"/>
-				 Copy Cloud
+				<img src="copycat/places/scalable/folder-copy-cloud.svg" width="24"/>
 			</td>
+			<td>Copy Cloud</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -622,9 +638,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-development.svg" width="24"/>
-				 Development
+				<img src="copycat/places/scalable/folder-development.svg" width="24"/>
 			</td>
+			<td>Development</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -632,9 +648,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-dropbox.svg" width="24"/>
-				 Dropbox
+				<img src="copycat/places/scalable/folder-dropbox.svg" width="24"/>
 			</td>
+			<td>Dropbox</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -642,9 +658,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-favorites.svg" width="24"/>
-				 Favorites
+				<img src="copycat/places/scalable/folder-favorites.svg" width="24"/>
 			</td>
+			<td>Favorites</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -652,9 +668,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-gdrive.svg" width="24"/>
-				 GDrive
+				<img src="copycat/places/scalable/folder-gdrive.svg" width="24"/>
 			</td>
+			<td>GDrive</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -662,9 +678,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-go.svg" width="24"/>
-				 Go
+				<img src="copycat/places/scalable/folder-go.svg" width="24"/>
 			</td>
+			<td>Go</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -672,9 +688,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-image-people.svg" width="24"/>
-				 Image people
+				<img src="copycat/places/scalable/folder-image-people.svg" width="24"/>
 			</td>
+			<td>Image people</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -682,9 +698,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-kde.svg" width="24"/>
-				 KDE
+				<img src="copycat/places/scalable/folder-kde.svg" width="24"/>
 			</td>
+			<td>KDE</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -692,9 +708,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-linux.svg" width="24"/>
-				 Linux
+				<img src="copycat/places/scalable/folder-linux.svg" width="24"/>
 			</td>
+			<td>Linux</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -702,9 +718,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-megasync.svg" width="24"/>
-				 Megasync
+				<img src="copycat/places/scalable/folder-megasync.svg" width="24"/>
 			</td>
+			<td>Megasync</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -712,9 +728,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-nextcloud.svg" width="24"/>
-				 Nextcloud
+				<img src="copycat/places/scalable/folder-nextcloud.svg" width="24"/>
 			</td>
+			<td>Nextcloud</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -722,21 +738,27 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-owncloud.svg" width="24"/>
-				 Owncloud
+				<img src="copycat/places/scalable/folder-owncloud.svg" width="24"/>
 			</td>
+			<td>Owncloud</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 				 and 
 				<a href="https://www.gnome-look.org/p/1166289/" target="_blank">Papirus</a>
 			</td>
-			<td>normalized gradient and replaced Kora's symbol with Papirus' Owncloud symbol instead</td>
+			<td>
+				normalized gradient and replaced 
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+				 symbol with 
+				<a href="https://www.gnome-look.org/p/1166289/" target="_blank">Papirus</a>
+				 Owncloud symbol instead
+			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-projects.svg" width="24"/>
-				 Projects
+				<img src="copycat/places/scalable/folder-projects.svg" width="24"/>
 			</td>
+			<td>Projects</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -744,9 +766,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-recent.svg" width="24"/>
-				 Recent
+				<img src="copycat/places/scalable/folder-recent.svg" width="24"/>
 			</td>
+			<td>Recent</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -754,9 +776,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-root.svg" width="24"/>
-				 Root
+				<img src="copycat/places/scalable/folder-root.svg" width="24"/>
 			</td>
+			<td>Root</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -764,9 +786,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-saved-search.svg" width="24"/>
-				 Saved search
+				<img src="copycat/places/scalable/folder-saved-search.svg" width="24"/>
 			</td>
+			<td>Saved search</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -774,9 +796,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-script.svg" width="24"/>
-				 Script
+				<img src="copycat/places/scalable/folder-script.svg" width="24"/>
 			</td>
+			<td>Script</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -784,9 +806,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-snap.svg" width="24"/>
-				 Snap
+				<img src="copycat/places/scalable/folder-snap.svg" width="24"/>
 			</td>
+			<td>Snap</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -794,9 +816,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-sync.svg" width="24"/>
-				 Sync
+				<img src="copycat/places/scalable/folder-sync.svg" width="24"/>
 			</td>
+			<td>Sync</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -804,9 +826,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-syncthing.svg" width="24"/>
-				 Syncthing
+				<img src="copycat/places/scalable/folder-syncthing.svg" width="24"/>
 			</td>
+			<td>Syncthing</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -814,9 +836,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-system.svg" width="24"/>
-				 System
+				<img src="copycat/places/scalable/folder-system.svg" width="24"/>
 			</td>
+			<td>System</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -824,9 +846,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-vbox.svg" width="24"/>
-				 VBox
+				<img src="copycat/places/scalable/folder-vbox.svg" width="24"/>
 			</td>
+			<td>VBox</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -834,9 +856,9 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/places/scalable/folder-network.svg" width="24"/>
-				 Network
+				<img src="copycat/places/scalable/folder-network.svg" width="24"/>
 			</td>
+			<td>Network</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -850,14 +872,15 @@ Those packs includes:
 	<table border="1" width="100%">
 		<tr>
 			<th>Icon</th>
+			<th>Icon name</th>
 			<th>Source</th>
 			<th>Changes</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/mimetypes/scalable/zip.svg" width="24"/>
-				 Zipped
+				<img src="copycat/mimetypes/scalable/zip.svg" width="24"/>
 			</td>
+			<td>Zipped</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
@@ -865,25 +888,25 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/mimetypes/scalable/text-x-kotlin.svg" width="24"/>
-				 Kotlin
+				<img src="copycat/mimetypes/scalable/text-x-kotlin.svg" width="24"/>
 			</td>
+			<td>Kotlin</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 				 and 
-				<a href="https://commons.wikimedia.org/wiki/File:Kotlin_icon_(2021-present).svg">Wikimedia</a>
+				<a href="https://commons.wikimedia.org/wiki/File:Kotlin_icon_(2021-present).svg" target="_blank">Wikimedia</a>
 			</td>
 			<td>updated the symbol to the new Kotlin logo and applied the colors of its gradient</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/mimetypes/scalable/text-rust.svg" width="24"/>
-				 Rust
+				<img src="copycat/mimetypes/scalable/text-rust.svg" width="24"/>
 			</td>
+			<td>Rust</td>
 			<td>
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 				 and 
-				<a href="https://commons.wikimedia.org/wiki/File:Kotlin_icon_(2021-present).svg">the original Rust SVG</a>
+				<a href="https://commons.wikimedia.org/wiki/File:Kotlin_icon_(2021-present).svg" target="_blank">the original Rust SVG</a>
 			</td>
 			<td>changed the 'RS' text to the Rust symbol (without the gear)</td>
 		</tr>
@@ -895,27 +918,36 @@ Those packs includes:
 	<table border="1" width="100%">
 		<tr>
 			<th>Icon</th>
+			<th>Icon name</th>
 			<th>Source</th>
 			<th>Changes</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/systemsettings.svg" width="24"/>
-				 Settings
+				<img src="copycat/apps/scalable/systemsettings.svg" width="24"/>
 			</td>
+			<td>Settings</td>
 			<td>
 				<a href="https://www.gnome-look.org/p/2112373" target="_blank">Infinity</a>
 				 and 
 				<a href="https://www.gnome-look.org/p/1340791" target="_blank">Reversal</a>
 			</td>
-			<td>remade based on a fusion of Infinity's + Reversal' gear icon</td>
+			<td>
+				remade based on a fusion of 
+				<a href="https://www.gnome-look.org/p/2112373" target="_blank">Infinity</a>
+				 and 
+				<a href="https://www.gnome-look.org/p/1340791" target="_blank">Reversal</a>
+				 gear icon
+			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="./copycat/apps/scalable/endeavouros.svg" width="24"/>
-				 EndeavourOS
+				<img src="copycat/apps/scalable/endeavouros.svg" width="24"/>
 			</td>
-			<td>original EndeavourOS SVG</td>
+			<td>EndeavourOS</td>
+			<td>
+				<a href="https://github.com/endeavouros-team/EndeavourOS-Development?tab=readme-ov-file" target="_blank">original EndeavourOS SVG</a>
+			</td>
 			<td/>
 		</tr>
 	</table>

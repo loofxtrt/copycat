@@ -17,7 +17,7 @@ def generate_table_rows(tuple_list: list[tuple]):
         icon_path = Path('./copycat/', origin_dir, icon_ext)
 
         # formatar os dados da entrada do dicionário de conteúdos
-        icon_image = f'<img src="{icon_path}">'
+        icon_image = f'<img src="{icon_path}" width=24>'
         full_path =  f'`{icon_path}`'
         file_name =  f'`{icon_name}`'
         norm_origin_dir = f'`{origin_dir}`'
