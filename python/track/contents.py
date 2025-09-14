@@ -85,6 +85,8 @@ variations_group = {
         (apps, 'wicd-gtk'),
         (apps, 'wifi-radar'),
         (apps, 'winefile'),
+        (apps, 'filemanager-actions'),
+        (apps, 'Finder_w'),
     ]
 }
 
