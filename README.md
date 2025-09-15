@@ -292,7 +292,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/grapejuice-roblox-studio.svg.svg" width="24"/>
+				<img src="copycat/apps/scalable/grapejuice-roblox-studio.svg" width="24"/>
 			</td>
 			<td>Roblox Studio</td>
 			<td>made from scratch</td>
@@ -300,7 +300,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/org.vinegarhq.Vinegar.svg" width="24"/>
+				<img src="copycat/apps/scalable/io.github.vinegarhq.Vinegar.svg" width="24"/>
 			</td>
 			<td>Vinegar</td>
 			<td>

@@ -204,12 +204,12 @@ APPS_ROWS = [
     },
     {
         'display_name': 'Roblox Studio',
-        'icon_name': 'grapejuice-roblox-studio.svg',
+        'icon_name': 'grapejuice-roblox-studio',
         'icon_source': scratch
     },
     {
         'display_name': 'Vinegar',
-        'icon_name': 'org.vinegarhq.Vinegar',
+        'icon_name': 'io.github.vinegarhq.Vinegar',
         'icon_source': f'made from scratch, then added {make_hyperlink('https://www.svgrepo.com/svg/443560/brand-winehq', 'this SVG')} on top of it'
     },
     {
