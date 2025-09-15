@@ -139,7 +139,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/libresprite.svg" width="24"/>
+				<img src="copycat/apps/scalable/com.github.libresprite.LibreSprite.svg" width="24"/>
 			</td>
 			<td>Libresprite</td>
 			<td>made from scratch</td>
@@ -220,7 +220,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/ark.svg" width="24"/>
+				<img src="copycat/apps/scalable/accessories-archiver.svg" width="24"/>
 			</td>
 			<td>Ark</td>
 			<td>
@@ -234,7 +234,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/appimagekit-github-desktop.svg" width="24"/>
+				<img src="copycat/apps/scalable/github-desktop.svg" width="24"/>
 			</td>
 			<td>GitHub Desktop</td>
 			<td>
@@ -244,7 +244,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/nl.hjdskes.gcolor3.svg" width="24"/>
+				<img src="copycat/apps/scalable/gcolor3.svg" width="24"/>
 			</td>
 			<td>Color Picker</td>
 			<td>
@@ -292,7 +292,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/org.vinegarhq.Vinegar.studio.svg" width="24"/>
+				<img src="copycat/apps/scalable/grapejuice-roblox-studio.svg.svg" width="24"/>
 			</td>
 			<td>Roblox Studio</td>
 			<td>made from scratch</td>
@@ -378,7 +378,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/internet-mail.svg" width="24"/>
+				<img src="copycat/apps/scalable/mail_generic.svg" width="24"/>
 			</td>
 			<td>Mail</td>
 			<td>

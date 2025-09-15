@@ -107,7 +107,7 @@ APPS_ROWS = [
     },
     {
         'display_name': 'Libresprite',
-        'icon_name': 'libresprite',
+        'icon_name': 'com.github.libresprite.LibreSprite',
         'icon_source': scratch
     },
     {
@@ -169,19 +169,19 @@ APPS_ROWS = [
     },
     {
         'display_name': 'Ark',
-        'icon_name': 'ark',
+        'icon_name': 'accessories-archiver',
         'icon_source': yosa_max,
         'icon_changes': f'made the gradient more noticeable, rounded the corners and replaced the original zipper with {kora} zipper (from the application-x-sogouskin icon)'
     },
     {
         'display_name': 'GitHub Desktop',
-        'icon_name': 'appimagekit-github-desktop',
+        'icon_name': 'github-desktop',
         'icon_source': kora,
         'icon_changes': 'adjusted colors'
     },
     {
         'display_name': 'Color Picker',
-        'icon_name': 'nl.hjdskes.gcolor3',
+        'icon_name': 'gcolor3',
         'icon_source': f'{marwaita} and {yosa_max}',
         'icon_changes': f'used {marwaita} color picker background and Yosa Max drop symbol'
     },
@@ -204,7 +204,7 @@ APPS_ROWS = [
     },
     {
         'display_name': 'Roblox Studio',
-        'icon_name': 'org.vinegarhq.Vinegar.studio',
+        'icon_name': 'grapejuice-roblox-studio.svg',
         'icon_source': scratch
     },
     {
@@ -250,7 +250,7 @@ APPS_ROWS = [
     },
     {
         'display_name': 'Mail',
-        'icon_name': 'internet-mail',
+        'icon_name': 'mail_generic',
         'icon_source': papirus,
         'icon_changes': f'changed colors to match {kora} original mail icons and added gradients. @ symbol taken from the icon application-mbox'
     },

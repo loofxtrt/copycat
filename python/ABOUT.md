@@ -1,6 +1,7 @@
 # about
 ## readme
 gera uma tabela com a documentação de quais ícones foram modificados/adicionados/removidos  
+IMPORTANTE: NENHUM ICON_NAME DEVE SER O DE UM SYMLINK, O README NÃO OS RECONHECE
   
 ## track
 escreve uma tabela listando todos os ícones que têm derivações frequentes  
