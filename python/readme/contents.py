@@ -129,7 +129,7 @@ APPS_ROWS = [
     {
         'display_name': 'Audacity',
         'icon_name': 'audacity',
-        'icon_source': f'based on {reversal}, but made from scratch',
+        'icon_source': make_hyperlink('https://www.svgrepo.com/svg/120938/headphones', 'headphones icon from SVG Repo'),
         'icon_changes': 'changed colors and shapes'
     },
     {
@@ -248,6 +248,24 @@ APPS_ROWS = [
         'icon_source': kora,
         'icon_changes': 'removed background to match other Proton applications'
     },
+    {
+        'display_name': 'Mail',
+        'icon_name': 'internet-mail',
+        'icon_source': papirus,
+        'icon_changes': f'changed colors to match {kora} original mail icons and added gradients. @ symbol taken from the icon application-mbox'
+    },
+    {
+        'display_name': 'BlueMail',
+        'icon_name': 'bluemail',
+        'icon_source': papirus,
+        'icon_changes': 'changed colors to be closer to the original logo and added gradients'
+    },
+    {
+        'display_name': 'Bitwig',
+        'icon_name': 'bitwig',
+        'icon_source': kora,
+        'icon_changes': 'adjusted to match the colors and proportions of Bitwig mimetypes'
+    }
     # AINDA NÃO DECIDIDO
     # {
     #     'display_name': 'Krusader',

@@ -7,7 +7,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg2"
-   sodipodi:docname="discord-dev.svg"
+   sodipodi:docname="kora_discord-development.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="8.3645833"
-     inkscape:cx="14.107098"
+     inkscape:cx="14.047323"
      inkscape:cy="19.5467"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
@@ -42,12 +42,12 @@
        stop-color="#0613a5"
        offset="0"
        id="stop1"
-       style="stop-color:#141414;stop-opacity:1;" />
+       style="stop-color:#1c1c1c;stop-opacity:1;" />
     <stop
        stop-color="#5865f2"
        offset="1"
        id="stop2"
-       style="stop-color:#4f4f4f;stop-opacity:1;" />
+       style="stop-color:#36383a;stop-opacity:1;" />
   </linearGradient>
   <circle
      cx="24"

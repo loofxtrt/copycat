@@ -97,7 +97,7 @@
        stop-color="#1c4a5a"
        offset="1"
        id="stop17"
-       style="stop-color:#002537;stop-opacity:1;" /></linearGradient><path
+       style="stop-color:#0a3449;stop-opacity:1;" /></linearGradient><path
      d="m 39.44,2.332 c 3.438,0 6.228,2.79 6.228,6.228 v 30.88 c 0,3.438 -2.79,6.228 -6.228,6.228 H 8.56 c -3.438,0 -6.228,-2.79 -6.228,-6.228 V 8.56 c 0,-3.438 2.79,-6.228 6.228,-6.228 z"
      fill="url(#a)"
      id="path4"
