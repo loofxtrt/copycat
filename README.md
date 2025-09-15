@@ -177,9 +177,7 @@ Those packs includes:
 			</td>
 			<td>Audacity</td>
 			<td>
-				based on 
-				<a href="https://www.gnome-look.org/p/1340791" target="_blank">Reversal</a>
-				, but made from scratch
+				<a href="https://www.svgrepo.com/svg/120938/headphones" target="_blank">headphones icon from SVG Repo</a>
 			</td>
 			<td>changed colors and shapes</td>
 		</tr>
@@ -377,6 +375,40 @@ Those packs includes:
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
 			<td>removed background to match other Proton applications</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="copycat/apps/scalable/internet-mail.svg" width="24"/>
+			</td>
+			<td>Mail</td>
+			<td>
+				<a href="https://www.gnome-look.org/p/1166289/" target="_blank">Papirus</a>
+			</td>
+			<td>
+				changed colors to match 
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+				 original mail icons and added gradients. @ symbol taken from the icon application-mbox
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="copycat/apps/scalable/bluemail.svg" width="24"/>
+			</td>
+			<td>BlueMail</td>
+			<td>
+				<a href="https://www.gnome-look.org/p/1166289/" target="_blank">Papirus</a>
+			</td>
+			<td>changed colors to be closer to the original logo and added gradients</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="copycat/apps/scalable/bitwig.svg" width="24"/>
+			</td>
+			<td>Bitwig</td>
+			<td>
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>adjusted to match the colors and proportions of Bitwig mimetypes</td>
 		</tr>
 	</table>
 </details>
