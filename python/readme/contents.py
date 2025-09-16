@@ -293,12 +293,12 @@ PLACES_ROWS = [
         'icon_source': kora,
         'icon_changes': 'added a taskbar and icons'
     },
-    {
-        'display_name': 'Documents',
-        'icon_name': 'folder-documents',
-        'icon_source': kora,
-        'icon_changes': f'added {kora} clip icon to it'
-    },
+    # {
+    #     'display_name': 'Documents',
+    #     'icon_name': 'folder-documents',
+    #     'icon_source': kora,
+    #     'icon_changes': f'added {kora} clip icon to it'
+    # },
     {
         'display_name': 'Music',
         'icon_name': 'folder-music',

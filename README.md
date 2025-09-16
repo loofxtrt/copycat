@@ -444,20 +444,6 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-documents.svg" width="24"/>
-			</td>
-			<td>Documents</td>
-			<td>
-				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
-			</td>
-			<td>
-				added 
-				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
-				 clip icon to it
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img src="copycat/places/scalable/folder-music.svg" width="24"/>
 			</td>
 			<td>Music</td>
