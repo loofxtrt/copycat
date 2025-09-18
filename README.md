@@ -224,10 +224,10 @@ Those packs includes:
 			</td>
 			<td>Ark</td>
 			<td>
-				<a href="https://www.gnome-look.org/p/1196255/" target="_blank">Yosa Max</a>
+				<a href="https://github.com/vinceliuice/Qogir-icon-theme" target="_blank">Qogir</a>
 			</td>
 			<td>
-				made the gradient more noticeable, rounded the corners and replaced the original zipper with 
+				made the colors match with the zip mimetypes and replaced the original zipper with 
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 				 zipper (from the application-x-sogouskin icon)
 			</td>

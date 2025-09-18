@@ -12,6 +12,7 @@ flat_remix = make_hyperlink('https://store.kde.org/p/1012430', 'Flat Remix')
 fairywren  = make_hyperlink('https://www.gnome-look.org/p/1684521', 'FairyWren')
 yosa_max   = make_hyperlink('https://www.gnome-look.org/p/1196255/', 'Yosa Max')
 papirus    = make_hyperlink('https://www.gnome-look.org/p/1166289/', 'Papirus')
+qogir      = make_hyperlink('https://github.com/vinceliuice/Qogir-icon-theme', 'Qogir')
 scratch = 'made from scratch'
 
 FIRST_CHUNK = '''
@@ -167,11 +168,17 @@ APPS_ROWS = [
         'icon_source': f'partially from {kora}',
         'icon_changes': f'remade btop logo from scratch, used {kora} system monitor background, {morewaita} btop color'
     },
+    # {
+    #     'display_name': 'Ark',
+    #     'icon_name': 'accessories-archiver',
+    #     'icon_source': yosa_max,
+    #     'icon_changes': f'made the gradient more noticeable, rounded the corners and replaced the original zipper with {kora} zipper (from the application-x-sogouskin icon)'
+    # },
     {
         'display_name': 'Ark',
         'icon_name': 'accessories-archiver',
-        'icon_source': yosa_max,
-        'icon_changes': f'made the gradient more noticeable, rounded the corners and replaced the original zipper with {kora} zipper (from the application-x-sogouskin icon)'
+        'icon_source': qogir,
+        'icon_changes': f'made the colors match with the zip mimetypes and replaced the original zipper with {kora} zipper (from the application-x-sogouskin icon)'
     },
     {
         'display_name': 'GitHub Desktop',
