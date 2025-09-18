@@ -13,9 +13,10 @@ fairywren  = make_hyperlink('https://www.gnome-look.org/p/1684521', 'FairyWren')
 yosa_max   = make_hyperlink('https://www.gnome-look.org/p/1196255/', 'Yosa Max')
 papirus    = make_hyperlink('https://www.gnome-look.org/p/1166289/', 'Papirus')
 qogir      = make_hyperlink('https://github.com/vinceliuice/Qogir-icon-theme', 'Qogir')
+fluent     = make_hyperlink('https://store.kde.org/p/1477945', 'Fluent')
 scratch = 'made from scratch'
 
-FIRST_CHUNK = '''
+FIRST_CHUNK = f'''
 <img src="./copycat_banner.svg" width="256" alt="Copycat" style="display: block;">
 An icon theme forked from Kora, replacing/modifying a few icons while trying to make them more accurate to the original software logo's colors and shapes  
   
@@ -31,8 +32,8 @@ Small inconsistencies in the gradients of folder icons were also normalized to b
 ## Credits
 Icons from different packs are included in this repo, **all licensed under the GPL3 license**  
 Those packs includes:  
-[Kora](https://store.kde.org/p/1256209), [Breeze](https://github.com/KDE/breeze-icons), [Marwaita](https://www.gnome-look.org/p/1239855), [MoreWaita](https://www.gnome-look.org/p/2276064), [PlasmaX](https://www.gnome-look.org/p/1367155), [Infinity](https://www.gnome-look.org/p/2112373), [Reversal](https://www.gnome-look.org/p/1340791), [Flat Remix](https://store.kde.org/p/1012430), [FairyWren](https://www.gnome-look.org/p/1684521), [Yosa Max](https://www.gnome-look.org/p/1196255/), [Papirus](https://www.gnome-look.org/p/1166289/)  
-  
+{kora}, {breeze}, {marwaita}, {morewaita}, {plasma_x}, {infinity}, {reversal}, {flat_remix}, {fairywren}, {yosa_max}, {papirus}, {qogir}, {fluent}
+
 ## Major differences
 '''
 
@@ -130,8 +131,8 @@ APPS_ROWS = [
     {
         'display_name': 'Audacity',
         'icon_name': 'audacity',
-        'icon_source': make_hyperlink('https://www.svgrepo.com/svg/120938/headphones', 'headphones icon from SVG Repo'),
-        'icon_changes': 'changed colors and shapes'
+        'icon_source': f'{yosa_max} and {fluent}',
+        'icon_changes': f'changed the headphones symbol to {fluent} headphones, normalized the background shape with other rectangular {kora} icons and adjusted the gradients'
     },
     {
         'display_name': 'VSCodium',

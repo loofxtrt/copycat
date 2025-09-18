@@ -14,8 +14,8 @@ Small inconsistencies in the gradients of folder icons were also normalized to b
 ## Credits
 Icons from different packs are included in this repo, **all licensed under the GPL3 license**  
 Those packs includes:  
-[Kora](https://store.kde.org/p/1256209), [Breeze](https://github.com/KDE/breeze-icons), [Marwaita](https://www.gnome-look.org/p/1239855), [MoreWaita](https://www.gnome-look.org/p/2276064), [PlasmaX](https://www.gnome-look.org/p/1367155), [Infinity](https://www.gnome-look.org/p/2112373), [Reversal](https://www.gnome-look.org/p/1340791), [Flat Remix](https://store.kde.org/p/1012430), [FairyWren](https://www.gnome-look.org/p/1684521), [Yosa Max](https://www.gnome-look.org/p/1196255/), [Papirus](https://www.gnome-look.org/p/1166289/)  
-  
+<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>, <a href="https://github.com/KDE/breeze-icons" target="_blank">Breeze</a>, <a href="https://www.gnome-look.org/p/1239855" target="_blank">Marwaita</a>, <a href="https://www.gnome-look.org/p/2276064" target="_blank">MoreWaita</a>, <a href="https://www.gnome-look.org/p/1367155" target="_blank">PlasmaX</a>, <a href="https://www.gnome-look.org/p/2112373" target="_blank">Infinity</a>, <a href="https://www.gnome-look.org/p/1340791" target="_blank">Reversal</a>, <a href="https://store.kde.org/p/1012430" target="_blank">Flat Remix</a>, <a href="https://www.gnome-look.org/p/1684521" target="_blank">FairyWren</a>, <a href="https://www.gnome-look.org/p/1196255/" target="_blank">Yosa Max</a>, <a href="https://www.gnome-look.org/p/1166289/" target="_blank">Papirus</a>, <a href="https://github.com/vinceliuice/Qogir-icon-theme" target="_blank">Qogir</a>, <a href="https://store.kde.org/p/1477945" target="_blank">Fluent</a>
+
 ## Major differences
 <?xml version="1.0" ?>
 <details>
@@ -177,9 +177,17 @@ Those packs includes:
 			</td>
 			<td>Audacity</td>
 			<td>
-				<a href="https://www.svgrepo.com/svg/120938/headphones" target="_blank">headphones icon from SVG Repo</a>
+				<a href="https://www.gnome-look.org/p/1196255/" target="_blank">Yosa Max</a>
+				 and 
+				<a href="https://store.kde.org/p/1477945" target="_blank">Fluent</a>
 			</td>
-			<td>changed colors and shapes</td>
+			<td>
+				changed the headphones symbol to 
+				<a href="https://store.kde.org/p/1477945" target="_blank">Fluent</a>
+				 headphones, normalized the background shape with other rectangular 
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+				 icons and adjusted the gradients
+			</td>
 		</tr>
 		<tr>
 			<td>
