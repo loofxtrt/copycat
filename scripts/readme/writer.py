@@ -1,3 +1,4 @@
+import sys
 from pathlib import Path
 from xml.dom import minidom
 from yattag import Doc
@@ -85,12 +86,14 @@ def resolve_table_writing(rows: list[dict], target_dir: Path, summary_text: str)
 
     return pretty_html
 
-def run_writer():
+def run_writer(repo_root: str):
+    repo_root = Path(repo_root)
+    icon_pack = repo_root / 'copycat'
+
     # criar as tabelas
-    pack_root = Path('./copycat')
-    scal_dir_apps = pack_root / 'apps' / 'scalable'
-    scal_dir_places = pack_root / 'places' / 'scalable'
-    scal_dir_mimetypes = pack_root / 'mimetypes' / 'scalable'
+    scal_dir_apps      = icon_pack / 'apps' / 'scalable'
+    scal_dir_places    = icon_pack / 'places' / 'scalable'
+    scal_dir_mimetypes = icon_pack / 'mimetypes' / 'scalable'
 
     apps_table = resolve_table_writing(APPS_ROWS, scal_dir_apps, 'Apps')
     places_table = resolve_table_writing(PLACES_ROWS, scal_dir_places, 'Places')
@@ -101,7 +104,9 @@ def run_writer():
     # e depois escrever o arquivo markdown final
     condensed = FIRST_CHUNK + apps_table + places_table + mimetypes_table + others_table + LAST_CHUNK
 
-    with open('README.md', 'w') as f:
+    readme = repo_root / 'README.md'
+    with open(readme, 'w') as f:
         f.write(condensed)
 
-run_writer()
+# o arg passado ao chamar o script vai ser usado como root
+run_writer(repo_root=sys.argv[1])

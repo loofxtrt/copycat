@@ -1,6 +1,7 @@
+import sys
+import contents
 from pathlib import Path
 from pytablewriter import MarkdownTableWriter
-import contents
 
 def generate_table_rows(tuple_list: list[tuple]):
     # variáveis pra futura organização
@@ -29,9 +30,9 @@ def generate_table_rows(tuple_list: list[tuple]):
         resolved_path = Path(__file__).resolve().parent.parent.parent / 'copycat' / origin_dir / icon_ext
         checkmark_width = 15
         if not resolved_path.is_symlink():
-            is_symlink = f'<img src="./python/track/check.svg" width={checkmark_width}>'
+            is_symlink = f'<img src="./scripts/track/check.svg" width={checkmark_width}>'
         else:
-            is_symlink = f'<img src="./python/track/ban.svg" width={checkmark_width}>'
+            is_symlink = f'<img src="./scripts/track/ban.svg" width={checkmark_width}>'
 
             # deixar os textos do row em itálico caso seja um symlink
             full_path = f'<i>{full_path}</i>'
@@ -80,7 +81,8 @@ def resolve_table_writing(content_dict: dict):
     string_table = writer.dumps()
     return string_table
 
-def run_writer():
+def run_writer(repo_root: str):
+    repo_root = Path(repo_root)
     all_tables = []
 
     # obter todas as variáveis dentro do módulo contents
@@ -92,7 +94,9 @@ def run_writer():
             all_tables.append(table)
 
     # escrever o resultado, juntando todas as tabelas em uma só string
-    with open('../../TRACK.md', 'w') as f:
+    track = repo_root / 'TRACK.md'
+    with open(track, 'w') as f:
         f.write(''.join(all_tables))
 
-run_writer()
+# o arg passado ao chamar o script vai ser usado como root
+run_writer(repo_root=sys.argv[1])

@@ -29,7 +29,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/blender.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/blender.svg" width="24"/>
 			</td>
 			<td>Blender</td>
 			<td>
@@ -39,7 +39,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/godot.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/godot.svg" width="24"/>
 			</td>
 			<td>Godot</td>
 			<td>
@@ -49,7 +49,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/inkscape.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/inkscape.svg" width="24"/>
 			</td>
 			<td>Inkscape</td>
 			<td>
@@ -59,7 +59,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/krita.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/krita.svg" width="24"/>
 			</td>
 			<td>Krita</td>
 			<td>
@@ -69,7 +69,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/spotify-client.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/spotify-client.svg" width="24"/>
 			</td>
 			<td>Spotify</td>
 			<td>
@@ -79,7 +79,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/discord.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/discord.svg" width="24"/>
 			</td>
 			<td>Discord</td>
 			<td>
@@ -89,7 +89,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/discord-canary.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/discord-canary.svg" width="24"/>
 			</td>
 			<td>Discord Canary</td>
 			<td>
@@ -99,7 +99,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/discord-development.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/discord-development.svg" width="24"/>
 			</td>
 			<td>Discord Development</td>
 			<td>
@@ -109,7 +109,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/gimp.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/gimp.svg" width="24"/>
 			</td>
 			<td>GIMP</td>
 			<td>
@@ -119,7 +119,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/steam.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/steam.svg" width="24"/>
 			</td>
 			<td>Steam</td>
 			<td>
@@ -129,7 +129,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/obs.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/obs.svg" width="24"/>
 			</td>
 			<td>OBS</td>
 			<td>
@@ -139,7 +139,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/com.github.libresprite.LibreSprite.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/com.github.libresprite.LibreSprite.svg" width="24"/>
 			</td>
 			<td>Libresprite</td>
 			<td>made from scratch</td>
@@ -147,7 +147,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/aseprite.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/aseprite.svg" width="24"/>
 			</td>
 			<td>Aseprite</td>
 			<td>made from scratch</td>
@@ -155,7 +155,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/pureref.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/pureref.svg" width="24"/>
 			</td>
 			<td>PureRef</td>
 			<td>
@@ -165,7 +165,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/sqlitebrowser.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/sqlitebrowser.svg" width="24"/>
 			</td>
 			<td>DB Browser for SQLite</td>
 			<td>made from scratch</td>
@@ -173,7 +173,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/audacity.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/audacity.svg" width="24"/>
 			</td>
 			<td>Audacity</td>
 			<td>
@@ -191,7 +191,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/vscodium.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/vscodium.svg" width="24"/>
 			</td>
 			<td>VSCodium</td>
 			<td>
@@ -201,7 +201,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/AppImageLauncher.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/AppImageLauncher.svg" width="24"/>
 			</td>
 			<td>AppImageLauncher</td>
 			<td>
@@ -211,7 +211,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/btop.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/btop.svg" width="24"/>
 			</td>
 			<td>btop++</td>
 			<td>
@@ -228,7 +228,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/accessories-archiver.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/accessories-archiver.svg" width="24"/>
 			</td>
 			<td>Ark</td>
 			<td>
@@ -242,7 +242,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/github-desktop.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/github-desktop.svg" width="24"/>
 			</td>
 			<td>GitHub Desktop</td>
 			<td>
@@ -252,7 +252,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/gcolor3.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/gcolor3.svg" width="24"/>
 			</td>
 			<td>Color Picker</td>
 			<td>
@@ -268,7 +268,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/kvantum.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/kvantum.svg" width="24"/>
 			</td>
 			<td>Kvantum</td>
 			<td>
@@ -282,7 +282,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/cmake.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/cmake.svg" width="24"/>
 			</td>
 			<td>CMake</td>
 			<td>
@@ -292,7 +292,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/grapejuice-roblox-player.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/grapejuice-roblox-player.svg" width="24"/>
 			</td>
 			<td>Roblox</td>
 			<td>made from scratch</td>
@@ -300,7 +300,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/grapejuice-roblox-studio.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/grapejuice-roblox-studio.svg" width="24"/>
 			</td>
 			<td>Roblox Studio</td>
 			<td>made from scratch</td>
@@ -308,7 +308,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/io.github.vinegarhq.Vinegar.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/io.github.vinegarhq.Vinegar.svg" width="24"/>
 			</td>
 			<td>Vinegar</td>
 			<td>
@@ -320,7 +320,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/org.vinegarhq.Sober.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/org.vinegarhq.Sober.svg" width="24"/>
 			</td>
 			<td>Sober</td>
 			<td>made from scratch</td>
@@ -328,7 +328,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/java21-openjdk.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/java21-openjdk.svg" width="24"/>
 			</td>
 			<td>OpenJDK Java 21 Shell</td>
 			<td>
@@ -338,7 +338,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/minecraft.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/minecraft.svg" width="24"/>
 			</td>
 			<td>Minecraft</td>
 			<td>made from scratch</td>
@@ -346,7 +346,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/com.kristianduske.TrenchBroom.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/com.kristianduske.TrenchBroom.svg" width="24"/>
 			</td>
 			<td>Trenchbroom</td>
 			<td>made from scratch</td>
@@ -354,7 +354,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/librewolf.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/librewolf.svg" width="24"/>
 			</td>
 			<td>Librewolf</td>
 			<td>
@@ -365,7 +365,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/AnimeEffects.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/AnimeEffects.svg" width="24"/>
 			</td>
 			<td>AnimeEffects</td>
 			<td>
@@ -376,7 +376,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/protoncalendar.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/protoncalendar.svg" width="24"/>
 			</td>
 			<td>Proton Calendar</td>
 			<td>
@@ -386,7 +386,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/mail_generic.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/mail_generic.svg" width="24"/>
 			</td>
 			<td>Mail</td>
 			<td>
@@ -400,7 +400,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/bluemail.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/bluemail.svg" width="24"/>
 			</td>
 			<td>BlueMail</td>
 			<td>
@@ -410,7 +410,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/bitwig.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/bitwig.svg" width="24"/>
 			</td>
 			<td>Bitwig</td>
 			<td>
@@ -432,7 +432,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/user-home.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/user-home.svg" width="24"/>
 			</td>
 			<td>Home</td>
 			<td>
@@ -442,7 +442,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/user-desktop.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/user-desktop.svg" width="24"/>
 			</td>
 			<td>Desktop</td>
 			<td>
@@ -452,7 +452,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-music.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-music.svg" width="24"/>
 			</td>
 			<td>Music</td>
 			<td>
@@ -462,7 +462,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-music-open.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-music-open.svg" width="24"/>
 			</td>
 			<td>Music (open)</td>
 			<td>
@@ -472,7 +472,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-pictures.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-pictures.svg" width="24"/>
 			</td>
 			<td>Pictures</td>
 			<td>
@@ -482,7 +482,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-pictures-open.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-pictures-open.svg" width="24"/>
 			</td>
 			<td>Pictures (open)</td>
 			<td>
@@ -492,7 +492,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-videos.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-videos.svg" width="24"/>
 			</td>
 			<td>Videos</td>
 			<td>
@@ -502,7 +502,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-publicshare.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-publicshare.svg" width="24"/>
 			</td>
 			<td>Public</td>
 			<td>
@@ -514,7 +514,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-publicshare-open.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-publicshare-open.svg" width="24"/>
 			</td>
 			<td>Public (open)</td>
 			<td>
@@ -524,7 +524,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/user-share.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/user-share.svg" width="24"/>
 			</td>
 			<td>User share</td>
 			<td>
@@ -534,7 +534,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-books.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-books.svg" width="24"/>
 			</td>
 			<td>Books</td>
 			<td>
@@ -544,7 +544,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-wine.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-wine.svg" width="24"/>
 			</td>
 			<td>Wine</td>
 			<td>
@@ -554,7 +554,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-html.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-html.svg" width="24"/>
 			</td>
 			<td>HTML</td>
 			<td>
@@ -564,7 +564,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-locked.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-locked.svg" width="24"/>
 			</td>
 			<td>Locked</td>
 			<td>
@@ -574,7 +574,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-unlocked.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-unlocked.svg" width="24"/>
 			</td>
 			<td>Unlocked</td>
 			<td>
@@ -584,7 +584,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-3dprint.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-3dprint.svg" width="24"/>
 			</td>
 			<td>3DPrint</td>
 			<td>
@@ -594,7 +594,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-add.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-add.svg" width="24"/>
 			</td>
 			<td>Add</td>
 			<td>
@@ -604,7 +604,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-android.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-android.svg" width="24"/>
 			</td>
 			<td>Android</td>
 			<td>
@@ -614,7 +614,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-applications.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-applications.svg" width="24"/>
 			</td>
 			<td>Applications</td>
 			<td>
@@ -624,7 +624,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-arduino.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-arduino.svg" width="24"/>
 			</td>
 			<td>Arduino</td>
 			<td>
@@ -634,7 +634,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-backup.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-backup.svg" width="24"/>
 			</td>
 			<td>Backup</td>
 			<td>
@@ -644,7 +644,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-cd.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-cd.svg" width="24"/>
 			</td>
 			<td>CD</td>
 			<td>
@@ -654,7 +654,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-copy-cloud.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-copy-cloud.svg" width="24"/>
 			</td>
 			<td>Copy Cloud</td>
 			<td>
@@ -664,7 +664,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-development.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-development.svg" width="24"/>
 			</td>
 			<td>Development</td>
 			<td>
@@ -674,7 +674,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-dropbox.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-dropbox.svg" width="24"/>
 			</td>
 			<td>Dropbox</td>
 			<td>
@@ -684,7 +684,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-favorites.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-favorites.svg" width="24"/>
 			</td>
 			<td>Favorites</td>
 			<td>
@@ -694,7 +694,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-gdrive.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-gdrive.svg" width="24"/>
 			</td>
 			<td>GDrive</td>
 			<td>
@@ -704,7 +704,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-go.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-go.svg" width="24"/>
 			</td>
 			<td>Go</td>
 			<td>
@@ -714,7 +714,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-image-people.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-image-people.svg" width="24"/>
 			</td>
 			<td>Image people</td>
 			<td>
@@ -724,7 +724,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-kde.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-kde.svg" width="24"/>
 			</td>
 			<td>KDE</td>
 			<td>
@@ -734,7 +734,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-linux.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-linux.svg" width="24"/>
 			</td>
 			<td>Linux</td>
 			<td>
@@ -744,7 +744,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-megasync.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-megasync.svg" width="24"/>
 			</td>
 			<td>Megasync</td>
 			<td>
@@ -754,7 +754,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-nextcloud.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-nextcloud.svg" width="24"/>
 			</td>
 			<td>Nextcloud</td>
 			<td>
@@ -764,7 +764,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-owncloud.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-owncloud.svg" width="24"/>
 			</td>
 			<td>Owncloud</td>
 			<td>
@@ -782,7 +782,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-projects.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-projects.svg" width="24"/>
 			</td>
 			<td>Projects</td>
 			<td>
@@ -792,7 +792,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-recent.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-recent.svg" width="24"/>
 			</td>
 			<td>Recent</td>
 			<td>
@@ -802,7 +802,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-root.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-root.svg" width="24"/>
 			</td>
 			<td>Root</td>
 			<td>
@@ -812,7 +812,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-saved-search.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-saved-search.svg" width="24"/>
 			</td>
 			<td>Saved search</td>
 			<td>
@@ -822,7 +822,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-script.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-script.svg" width="24"/>
 			</td>
 			<td>Script</td>
 			<td>
@@ -832,7 +832,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-snap.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-snap.svg" width="24"/>
 			</td>
 			<td>Snap</td>
 			<td>
@@ -842,7 +842,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-sync.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-sync.svg" width="24"/>
 			</td>
 			<td>Sync</td>
 			<td>
@@ -852,7 +852,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-syncthing.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-syncthing.svg" width="24"/>
 			</td>
 			<td>Syncthing</td>
 			<td>
@@ -862,7 +862,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-system.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-system.svg" width="24"/>
 			</td>
 			<td>System</td>
 			<td>
@@ -872,7 +872,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-vbox.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-vbox.svg" width="24"/>
 			</td>
 			<td>VBox</td>
 			<td>
@@ -882,7 +882,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-network.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/places/scalable/folder-network.svg" width="24"/>
 			</td>
 			<td>Network</td>
 			<td>
@@ -904,7 +904,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/mimetypes/scalable/text-x-kotlin.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/mimetypes/scalable/text-x-kotlin.svg" width="24"/>
 			</td>
 			<td>Kotlin</td>
 			<td>
@@ -916,7 +916,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/mimetypes/scalable/text-rust.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/mimetypes/scalable/text-rust.svg" width="24"/>
 			</td>
 			<td>Rust</td>
 			<td>
@@ -940,7 +940,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/systemsettings.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/systemsettings.svg" width="24"/>
 			</td>
 			<td>Settings</td>
 			<td>
@@ -958,7 +958,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/endeavouros.svg" width="24"/>
+				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/endeavouros.svg" width="24"/>
 			</td>
 			<td>EndeavourOS</td>
 			<td>
