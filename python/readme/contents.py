@@ -560,12 +560,12 @@ PLACES_ROWS = [
 ]
 
 MIMETYPES_ROWS = [
-    {
-        'display_name': 'Zipped',
-        'icon_name': 'zip',
-        'icon_source': kora,
-        'icon_changes': 'fused the original zip icon with application-x-sogouskin.svg, and adjusted colors to match Ark'
-    },
+    # {
+    #     'display_name': 'Zipped',
+    #     'icon_name': 'zip',
+    #     'icon_source': kora,
+    #     'icon_changes': 'fused the original zip icon with application-x-sogouskin.svg, and adjusted colors to match Ark'
+    # },
     {
         'display_name': 'Kotlin',
         'icon_name': 'text-x-kotlin',

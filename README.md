@@ -896,16 +896,6 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/mimetypes/scalable/zip.svg" width="24"/>
-			</td>
-			<td>Zipped</td>
-			<td>
-				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
-			</td>
-			<td>fused the original zip icon with application-x-sogouskin.svg, and adjusted colors to match Ark</td>
-		</tr>
-		<tr>
-			<td>
 				<img src="copycat/mimetypes/scalable/text-x-kotlin.svg" width="24"/>
 			</td>
 			<td>Kotlin</td>
