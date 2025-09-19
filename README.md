@@ -168,7 +168,10 @@ Those packs includes:
 				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/sqlitebrowser.svg" width="24"/>
 			</td>
 			<td>DB Browser for SQLite</td>
-			<td>made from scratch</td>
+			<td>
+				adapted from 
+				<a href="https://www.svgrepo.com/svg/28272/database-analysing" target="_blank">SVG Repo</a>
+			</td>
 			<td/>
 		</tr>
 		<tr>

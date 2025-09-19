@@ -126,7 +126,7 @@ APPS_ROWS = [
     {
         'display_name': 'DB Browser for SQLite',
         'icon_name': 'sqlitebrowser',
-        'icon_source': scratch
+        'icon_source': f'adapted from {make_hyperlink('https://www.svgrepo.com/svg/28272/database-analysing', 'SVG Repo')}'
     },
     {
         'display_name': 'Audacity',
