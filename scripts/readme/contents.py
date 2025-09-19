@@ -230,11 +230,11 @@ APPS_ROWS = [
         'icon_name': 'java21-openjdk',
         'icon_source': kora
     },
-    {
-        'display_name': 'Minecraft',
-        'icon_name': 'minecraft',
-        'icon_source': scratch
-    },
+    # {
+    #     'display_name': 'Minecraft',
+    #     'icon_name': 'minecraft',
+    #     'icon_source': scratch
+    # },
     {
         'display_name': 'Trenchbroom',
         'icon_name': 'com.kristianduske.TrenchBroom',

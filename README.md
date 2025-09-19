@@ -338,14 +338,6 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/minecraft.svg" width="24"/>
-			</td>
-			<td>Minecraft</td>
-			<td>made from scratch</td>
-			<td/>
-		</tr>
-		<tr>
-			<td>
 				<img src="/mnt/seagate/workspace/coding/projects/icons/copycat/copycat/apps/scalable/com.kristianduske.TrenchBroom.svg" width="24"/>
 			</td>
 			<td>Trenchbroom</td>
