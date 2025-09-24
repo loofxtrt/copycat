@@ -928,7 +928,7 @@ PLACES_ROWS = [
     },
     {
         "display_name": "Network",
-        "icon_name": "folder-network",
+        "icon_name": "network-manager",
         "icon_source": kora,
         "icon_changes": "normalized gradient"
     }
