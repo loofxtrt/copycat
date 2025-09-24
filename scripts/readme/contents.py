@@ -591,7 +591,7 @@ MIMETYPES_ROWS = [
 OTHERS_ROWS = [
     {
         'display_name': 'Settings',
-        'icon_name': 'systemsettings',
+        'icon_name': 'preferences-system',
         'icon_source': f'{infinity} and {reversal}',
         'icon_changes': f'remade based on a fusion of {infinity} and {reversal} gear icon'
     },

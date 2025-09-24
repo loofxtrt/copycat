@@ -935,7 +935,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/systemsettings.svg" width="24"/>
+				<img src="copycat/apps/scalable/preferences-system.svg" width="24"/>
 			</td>
 			<td>Settings</td>
 			<td>
