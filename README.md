@@ -877,7 +877,7 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/places/scalable/folder-network.svg" width="24"/>
+				<img src="copycat/places/scalable/network-manager.svg" width="24"/>
 			</td>
 			<td>Network</td>
 			<td>
