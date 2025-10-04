@@ -235,11 +235,11 @@ APPS_ROWS = [
     #     'icon_name': 'minecraft',
     #     'icon_source': scratch
     # },
-    {
-        'display_name': 'Trenchbroom',
-        'icon_name': 'com.kristianduske.TrenchBroom',
-        'icon_source': scratch
-    },
+    # {
+    #     'display_name': 'Trenchbroom',
+    #     'icon_name': 'com.kristianduske.TrenchBroom',
+    #     'icon_source': scratch
+    # },
     {
         'display_name': 'Librewolf',
         'icon_name': 'librewolf',
