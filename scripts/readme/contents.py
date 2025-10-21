@@ -273,7 +273,7 @@ APPS_ROWS = [
         'icon_name': 'bitwig',
         'icon_source': kora,
         'icon_changes': 'adjusted to match the colors and proportions of Bitwig mimetypes'
-    }
+    },
     # AINDA NÃO DECIDIDO
     # {
     #     'display_name': 'Krusader',
@@ -284,7 +284,13 @@ APPS_ROWS = [
     #     'display_name': 'Krusader (root)',
     #     'icon_name': 'krusader_root',
     #     'icon_source': 'same as above'
-    # }
+    # },
+    {
+        'display_name': 'Vesktop',
+        'icon_name': 'dev.vencord.Vesktop',
+        'icon_source': f'vectorized version of the {make_hyperlink("https://github.com/Vencord/Vesktop", "original logo")} and {kora}',
+        'icon_changes': f'fused the {make_hyperlink("https://github.com/Vencord/Vesktop", "original logo")} with the with the base shape of the agentdesktop icon from {kora}'
+    }
 
 ]
 

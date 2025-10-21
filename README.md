@@ -341,14 +341,6 @@ Those packs includes:
 		</tr>
 		<tr>
 			<td>
-				<img src="copycat/apps/scalable/com.kristianduske.TrenchBroom.svg" width="24"/>
-			</td>
-			<td>Trenchbroom</td>
-			<td>made from scratch</td>
-			<td/>
-		</tr>
-		<tr>
-			<td>
 				<img src="copycat/apps/scalable/librewolf.svg" width="24"/>
 			</td>
 			<td>Librewolf</td>
@@ -412,6 +404,24 @@ Those packs includes:
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
 			</td>
 			<td>adjusted to match the colors and proportions of Bitwig mimetypes</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="copycat/apps/scalable/dev.vencord.Vesktop.svg" width="24"/>
+			</td>
+			<td>Vesktop</td>
+			<td>
+				vectorized version of the 
+				<a href="https://github.com/Vencord/Vesktop" target="_blank">original logo</a>
+				 and 
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
+			<td>
+				fused the 
+				<a href="https://github.com/Vencord/Vesktop" target="_blank">original logo</a>
+				 with the with the base shape of the agentdesktop icon from 
+				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+			</td>
 		</tr>
 	</table>
 </details>
