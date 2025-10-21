@@ -421,6 +421,9 @@ Those packs includes:
 				<a href="https://github.com/Vencord/Vesktop" target="_blank">original logo</a>
 				 with the with the base shape of the agentdesktop icon from 
 				<a href="https://store.kde.org/p/1256209" target="_blank">Kora</a>
+				 (and used 
+				<a href="https://vencord.dev/" target="_blank">this alternative logo</a>
+				 to recreate the Z pattern in the "C" letter)
 			</td>
 		</tr>
 	</table>

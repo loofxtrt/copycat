@@ -289,7 +289,7 @@ APPS_ROWS = [
         'display_name': 'Vesktop',
         'icon_name': 'dev.vencord.Vesktop',
         'icon_source': f'vectorized version of the {make_hyperlink("https://github.com/Vencord/Vesktop", "original logo")} and {kora}',
-        'icon_changes': f'fused the {make_hyperlink("https://github.com/Vencord/Vesktop", "original logo")} with the with the base shape of the agentdesktop icon from {kora}'
+        'icon_changes': f'fused the {make_hyperlink("https://github.com/Vencord/Vesktop", "original logo")} with the with the base shape of the agentdesktop icon from {kora} (and used {make_hyperlink('https://vencord.dev/', 'this alternative logo')} to recreate the Z pattern in the "C" letter)'
     }
 
 ]
