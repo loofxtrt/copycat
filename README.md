@@ -426,6 +426,16 @@ Those packs includes:
 				 to recreate the Z pattern in the "C" letter)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img src="copycat/apps/scalable/accessories-calculator.svg" width="24"/>
+			</td>
+			<td>Calculator</td>
+			<td>
+				<a href="www.svgrepo.com/svg/362041/calculator" target="_blank">SVG Repo</a>
+			</td>
+			<td>changed colors and added gradients</td>
+		</tr>
 	</table>
 </details>
 <?xml version="1.0" ?>
@@ -952,17 +962,9 @@ Those packs includes:
 			</td>
 			<td>Settings</td>
 			<td>
-				<a href="https://www.gnome-look.org/p/2112373" target="_blank">Infinity</a>
-				 and 
-				<a href="https://www.gnome-look.org/p/1340791" target="_blank">Reversal</a>
+				<a href="https://www.svgrepo.com/svg/362053/cog" target="_blank">SVG Repo</a>
 			</td>
-			<td>
-				remade based on a fusion of 
-				<a href="https://www.gnome-look.org/p/2112373" target="_blank">Infinity</a>
-				 and 
-				<a href="https://www.gnome-look.org/p/1340791" target="_blank">Reversal</a>
-				 gear icon
-			</td>
+			<td>added gradients and modified proportions</td>
 		</tr>
 		<tr>
 			<td>

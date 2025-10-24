@@ -290,8 +290,13 @@ APPS_ROWS = [
         'icon_name': 'dev.vencord.Vesktop',
         'icon_source': f'vectorized version of the {make_hyperlink("https://github.com/Vencord/Vesktop", "original logo")} and {kora}',
         'icon_changes': f'fused the {make_hyperlink("https://github.com/Vencord/Vesktop", "original logo")} with the with the base shape of the agentdesktop icon from {kora} (and used {make_hyperlink('https://vencord.dev/', 'this alternative logo')} to recreate the Z pattern in the "C" letter)'
+    },
+    {
+        'display_name': 'Calculator',
+        'icon_name': 'accessories-calculator',
+        'icon_source': make_hyperlink('www.svgrepo.com/svg/362041/calculator', 'SVG Repo'),
+        'icon_changes': 'changed colors and added gradients'
     }
-
 ]
 
 PLACES_ROWS = [
@@ -598,8 +603,10 @@ OTHERS_ROWS = [
     {
         'display_name': 'Settings',
         'icon_name': 'preferences-system',
-        'icon_source': f'{infinity} and {reversal}',
-        'icon_changes': f'remade based on a fusion of {infinity} and {reversal} gear icon'
+        'icon_source': make_hyperlink('https://www.svgrepo.com/svg/362053/cog', 'SVG Repo'),
+        'icon_changes': 'added gradients and modified proportions'
+        #'icon_source': f'{infinity} and {reversal}',
+        #'icon_changes': f'remade based on a fusion of {infinity} and {reversal} gear icon'
     },
     {
         'display_name': 'EndeavourOS',
