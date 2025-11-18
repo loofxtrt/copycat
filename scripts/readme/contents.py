@@ -295,7 +295,13 @@ APPS_ROWS = [
         'display_name': 'Calculator',
         'icon_name': 'accessories-calculator',
         'icon_source': make_hyperlink('www.svgrepo.com/svg/362041/calculator', 'SVG Repo'),
-        'icon_changes': 'changed colors and added gradients'
+        'icon_changes': f'changed colors (replicated from {breeze}) and added gradients'
+    },
+    {
+        'display_name': 'Filelight',
+        'icon_name': 'filelight',
+        'icon_source': breeze,
+        'icon_changes': 'added gradients and removed some shadows'
     }
 ]
 
