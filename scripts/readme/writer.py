@@ -96,13 +96,13 @@ def run_writer(repo_root: str):
     scal_dir_mimetypes = icon_pack / 'mimetypes' / 'scalable'
 
     apps_table = resolve_table_writing(APPS_ROWS, scal_dir_apps, 'Apps')
-    places_table = resolve_table_writing(PLACES_ROWS, scal_dir_places, 'Places')
+    #places_table = resolve_table_writing(PLACES_ROWS, scal_dir_places, 'Places')
     mimetypes_table = resolve_table_writing(MIMETYPES_ROWS, scal_dir_mimetypes, 'Mimetypes')
     others_table = resolve_table_writing(OTHERS_ROWS, scal_dir_apps, 'Others')
 
     # condensar as informações junto com as tabelas em uma só string
     # e depois escrever o arquivo markdown final
-    condensed = FIRST_CHUNK + apps_table + places_table + mimetypes_table + others_table + LAST_CHUNK
+    condensed = FIRST_CHUNK + apps_table + mimetypes_table + others_table + LAST_CHUNK
 
     readme = repo_root / 'README.md'
     with open(readme, 'w') as f:

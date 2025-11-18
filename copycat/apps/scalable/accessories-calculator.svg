@@ -20,11 +20,11 @@
        id="linearGradient18"
        inkscape:collect="always">
       <stop
-         style="stop-color:#213144;stop-opacity:1;"
+         style="stop-color:#fff6f4;stop-opacity:1;"
          offset="0"
          id="stop18" />
       <stop
-         style="stop-color:#49677f;stop-opacity:1;"
+         style="stop-color:#bcbcb1;stop-opacity:1;"
          offset="1"
          id="stop19" />
     </linearGradient>
@@ -32,11 +32,11 @@
        id="linearGradient16"
        inkscape:collect="always">
       <stop
-         style="stop-color:#e8ebff;stop-opacity:1;"
+         style="stop-color:#4c525f;stop-opacity:1;"
          offset="0"
          id="stop16" />
       <stop
-         style="stop-color:#b1b5c2;stop-opacity:1;"
+         style="stop-color:#1f212a;stop-opacity:1;"
          offset="1"
          id="stop17" />
     </linearGradient>
@@ -74,10 +74,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient18"
        id="linearGradient19"
-       x1="11.999999"
-       y1="1039.4"
-       x2="11.999999"
-       y2="1027.4"
+       x1="12"
+       y1="1035.3683"
+       x2="12"
+       y2="1031.4"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -89,9 +89,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.5025"
-     inkscape:cx="304.47761"
-     inkscape:cy="268.65672"
+     inkscape:zoom="0.125625"
+     inkscape:cx="-23.880597"
+     inkscape:cy="549.25373"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -115,17 +115,17 @@
        d="m 7,16 c -0.5523,0 -1,0.448 -1,1 v 3 c 0,0.552 0.4477,1 1,1 h 3 c 0.552,0 1,-0.448 1,-1 v -3 c 0,-0.552 -0.448,-1 -1,-1 z"
        transform="translate(0,1028.4)"
        id="path10"
-       style="fill:#a9b0c2;fill-opacity:1" />
+       style="fill:#2c2c39;fill-opacity:1" />
     <path
        d="m 14,9 c -0.552,0 -1,0.4477 -1,1 v 3 c 0,0.552 0.448,1 1,1 h 3 c 0.552,0 1,-0.448 1,-1 V 10 C 18,9.4477 17.552,9 17,9 Z"
        transform="translate(0,1028.4)"
        id="path9"
-       style="fill:#a9b0c2;fill-opacity:1" />
+       style="fill:#2c2c39;fill-opacity:1" />
     <path
        d="M 7,9 C 6.4477,9 6,9.4477 6,10 v 3 c 0,0.552 0.4477,1 1,1 h 3 c 0.552,0 1,-0.448 1,-1 V 10 C 11,9.4477 10.552,9 10,9 Z"
        transform="translate(0,1028.4)"
        id="path4"
-       style="fill:#a9b0c2;fill-opacity:1" />
+       style="fill:#2c2c39;fill-opacity:1" />
     <path
        d="m8 1038.4v1h-1v1h1v1h1v-1h1v-1h-1v-1h-1z"
        fill="#2c3e50"
@@ -164,6 +164,6 @@
        d="m7 1031.4c-0.5523 0-1 0.4-1 1v2c0 0.5 0.4477 1 1 1h10c0.552 0 1-0.5 1-1v-2c0-0.6-0.448-1-1-1h-10z"
        fill="#34495e"
        id="path8"
-       style="fill:url(#linearGradient19)" />
+       style="fill:url(#linearGradient19);fill-opacity:1" />
   </g>
 </svg>
