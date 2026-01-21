@@ -6,7 +6,7 @@
    viewBox="0 0 24 24"
    id="svg26"
    sodipodi:docname="marwaita_steam.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -39,8 +39,8 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="16.1875"
-     inkscape:cx="15.196911"
-     inkscape:cy="22.455598"
+     inkscape:cx="17.451737"
+     inkscape:cy="15.629344"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -80,10 +80,6 @@
          stop-color="#111D2E"
          offset="0"
          id="stop905" />
-      <stop
-         stop-color="#051839"
-         offset=".21248"
-         id="stop907" />
       <stop
          stop-color="#0A1B48"
          offset=".40695"
@@ -179,12 +175,49 @@
          offset="1"
          id="stop917-8" />
     </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y1="2.1683273"
+       gradientTransform="matrix(0.04465688,0,0,0.04470484,0.5617029,0.5617032)"
+       id="a-36"
+       x2="231.73351"
+       x1="257.78137"
+       y2="499.57922">
+      <stop
+         stop-color="#1387B8"
+         offset="0"
+         id="stop917-1" />
+      <stop
+         stop-color="#136497"
+         offset="0.12721"
+         id="stop915-29" />
+      <stop
+         stop-color="#144B7E"
+         offset="0.2624"
+         id="stop913-6" />
+      <stop
+         stop-color="#132E62"
+         offset="0.4189"
+         id="stop911-5" />
+      <stop
+         stop-color="#0A1B48"
+         offset="0.59305"
+         id="stop909-53" />
+      <stop
+         stop-color="#051839"
+         offset="0.78752"
+         id="stop907" />
+      <stop
+         stop-color="#111D2E"
+         offset="1"
+         id="stop905-7" />
+    </linearGradient>
   </defs>
   <path
      inkscape:connector-curvature="0"
-     style="fill:url(#a);stroke-width:0.04468085"
-     d="M 1.9275334,15.020214 C 3.2255905,19.347297 7.2409674,22.5 11.993261,22.5 17.795868,22.5 22.5,17.798884 22.5,12 22.5,6.2010259 17.795868,1.5 11.993261,1.5 6.4250502,1.5 1.868913,5.8287939 1.5090685,11.302403 c 0.6799259,1.14103 0.9452459,1.846739 0.4185654,3.717811 z"
-     id="path922" />
+     style="fill:url(#a-36);stroke-width:0.0446808"
+     d="M 1.9275339,15.020214 C 3.225591,19.347297 7.240968,22.5 11.993262,22.5 17.795868,22.5 22.5,17.798884 22.5,12 22.5,6.2010259 17.795868,1.5 11.993262,1.5 6.425051,1.5 1.8689135,5.8287939 1.509069,11.302403 c 0.6799259,1.14103 0.9452459,1.846739 0.4185654,3.717811 z"
+     id="path922-7" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#ffffff;stroke-width:0.04468085"

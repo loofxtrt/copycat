@@ -8,7 +8,7 @@
    version="1.1"
    id="svg2"
    sodipodi:docname="kora_discord.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="8.3645833"
-     inkscape:cx="19.845579"
-     inkscape:cy="16.438356"
+     inkscape:zoom="5.9146536"
+     inkscape:cx="5.8329705"
+     inkscape:cy="17.583447"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -42,7 +42,7 @@
        stop-color="#0613a5"
        offset="0"
        id="stop1"
-       style="stop-color:#314289;stop-opacity:1;" />
+       style="stop-color:#243789;stop-opacity:1;" />
     <stop
        stop-color="#5865f2"
        offset="1"
